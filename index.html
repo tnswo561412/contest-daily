@@ -4,241 +4,277 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>공모전 Daily Update</title>
-  <meta name="description" content="30분마다 자동으로 갱신되는 공모전 공개 페이지" />
+  <meta name="description" content="콘테스트코리아 공개 목록을 30분마다 다시 수집해 보여주는 공모전 페이지" />
   <style>
     :root {
       --bg: #0f172a;
-      --panel: #111827;
+      --panel: rgba(17, 24, 39, 0.95);
       --panel-2: #1f2937;
       --text: #e5e7eb;
       --muted: #9ca3af;
       --accent: #38bdf8;
       --accent-2: #f59e0b;
       --border: rgba(255,255,255,0.08);
+      --shadow: 0 14px 30px rgba(0,0,0,0.25);
     }
     * { box-sizing: border-box; }
     body { margin: 0; font-family: Pretendard, Arial, sans-serif; background: linear-gradient(180deg, #020617, #0f172a); color: var(--text); }
-    .wrap { max-width: 1100px; margin: 0 auto; padding: 40px 20px 80px; }
+    a { color: inherit; }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 40px 20px 80px; }
     .hero { margin-bottom: 28px; }
     .hero h1 { font-size: 2.4rem; margin: 0 0 12px; }
-    .hero p { margin: 0; color: var(--muted); line-height: 1.6; }
-    .summary { display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0 32px; }
-    .summary .pill { background: rgba(56, 189, 248, 0.12); color: #bae6fd; border: 1px solid rgba(56, 189, 248, 0.25); padding: 10px 14px; border-radius: 999px; font-size: 0.95rem; }
+    .hero p { margin: 0; color: var(--muted); line-height: 1.7; max-width: 860px; }
+    .summary { display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0 36px; }
+    .pill { background: rgba(56, 189, 248, 0.12); color: #bae6fd; border: 1px solid rgba(56, 189, 248, 0.25); padding: 10px 14px; border-radius: 999px; font-size: 0.95rem; }
+    .section { margin-top: 34px; }
+    .section-head { display: flex; justify-content: space-between; gap: 16px; align-items: end; margin-bottom: 16px; }
+    .section-head h2 { margin: 0 0 6px; font-size: 1.45rem; }
+    .section-head p { margin: 0; color: var(--muted); }
+    .count { color: #bae6fd; background: rgba(56, 189, 248, 0.12); border: 1px solid rgba(56, 189, 248, 0.25); padding: 8px 12px; border-radius: 999px; white-space: nowrap; }
     .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
-    .card { background: rgba(17, 24, 39, 0.95); border: 1px solid var(--border); border-radius: 18px; padding: 18px; box-shadow: 0 14px 30px rgba(0,0,0,0.25); }
+    .card { background: var(--panel); border: 1px solid var(--border); border-radius: 18px; padding: 18px; box-shadow: var(--shadow); }
     .card-top { display: flex; justify-content: space-between; gap: 8px; margin-bottom: 12px; }
     .badge { display: inline-flex; align-items: center; padding: 6px 10px; border-radius: 999px; font-size: 0.8rem; }
     .badge.category { background: rgba(245, 158, 11, 0.14); color: #fde68a; }
     .badge.status { background: rgba(56, 189, 248, 0.14); color: #bae6fd; text-align: right; }
-    .card h2 { margin: 0 0 12px; font-size: 1.18rem; line-height: 1.45; }
+    .card h3 { margin: 0 0 12px; font-size: 1.08rem; line-height: 1.45; }
     .card p { margin: 6px 0; color: var(--muted); line-height: 1.5; }
     .meta { display: grid; gap: 10px; margin: 16px 0; padding: 14px; background: rgba(255,255,255,0.03); border-radius: 14px; }
     .meta div { display: flex; justify-content: space-between; gap: 12px; }
     .meta span { color: var(--muted); }
     .meta strong { color: var(--text); text-align: right; }
     .card a { display: inline-block; margin-top: 8px; color: white; text-decoration: none; background: linear-gradient(90deg, #0ea5e9, #2563eb); padding: 10px 14px; border-radius: 12px; font-weight: 600; }
-    footer { margin-top: 40px; color: var(--muted); font-size: 0.95rem; }
+    footer { margin-top: 44px; color: var(--muted); font-size: 0.95rem; line-height: 1.7; }
+    @media (max-width: 720px) {
+      .section-head { flex-direction: column; align-items: start; }
+      .card-top { flex-direction: column; align-items: start; }
+    }
   </style>
 </head>
 <body>
   <main class="wrap">
     <section class="hero">
       <h1>공모전 Daily Update</h1>
-      <p>콘테스트코리아 공개 목록을 기준으로 주요 공모전 정보를 수집해 30분마다 자동 갱신하는 페이지입니다.</p>
+      <p>콘테스트코리아 공개 목록을 기준으로 최근 공모전 데이터를 다시 수집해 보여줍니다. GitHub Actions가 30분마다 실행되고, 변경이 있을 때만 결과 파일을 업데이트합니다.</p>
     </section>
 
     <section class="summary">
       <div class="pill">총 12건 수집</div>
-      <div class="pill">마지막 업데이트: 2026-03-30 23:52:36 KST</div>
+      <div class="pill">접수중 7건</div>
+      <div class="pill">접수예정 5건</div>
+      <div class="pill">마지막 업데이트: 2026-03-31 00:04:15 KST</div>
       <div class="pill">갱신 주기: 30분</div>
-      <div class="pill">배포 방식: GitHub Pages</div>
+      <div class="pill">시도 범위: 최대 5페이지 / 페이지당 12건</div>
+      <div class="pill">실제 유효 수집 페이지: 1페이지 (이후 페이지 응답이 중복되어 중단)</div>
     </section>
 
-    <section class="grid">
-      <article class="card">
-              <div class="card-top">
-                <span class="badge category">사진•영상•영화제</span>
-                <span class="badge status">D-11 접수중</span>
-              </div>
-              <h2>2026년 영남알프스 고헌산 사진 공모전</h2>
-              <p class="host">주최: 울주군청</p>
-              <p class="target">대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
-              <div class="meta">
-                <div><span>접수</span><strong>03.23~04.10</strong></div>
-                <div><span>심사</span><strong>03.23~04.24 </strong></div>
-                
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603300071" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <h2>접수중</h2>
+          <p>지금 바로 지원 가능한 공모전</p>
+        </div>
+        <span class="count">7건</span>
+      </div>
+      <div class="grid">
+        <article class="card">
+        <div class="card-top">
+          <span class="badge category">사진•영상•영화제</span>
+          <span class="badge status">D-10 접수중</span>
+        </div>
+        <h3>2026년 영남알프스 고헌산 사진 공모전</h3>
+        <p>주최: 울주군청</p>
+        <p>대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
+        <div class="meta">
+          <div><span>접수</span><strong>03.23~04.10</strong></div>
+          <div><span>심사</span><strong>03.23~04.24</strong></div>
+          
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=031210001&amp;str_no=202603300071" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">요리•뷰티•배우•오디션</span>
-                <span class="badge status">D-27 접수중</span>
-              </div>
-              <h2>썬키스트 레시피 콘테스트</h2>
-              <p class="host">주최: 썬키스트</p>
-              <p class="target">대상: 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인</p>
-              <div class="meta">
-                <div><span>접수</span><strong>03.30~04.26</strong></div>
-                <div><span>심사</span><strong>04.27~05.14 </strong></div>
-                <div><span>발표</span><strong>05.15</strong></div>
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202603300068" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">음악•콩쿠르•댄스</span>
+          <span class="badge status">D-17 접수중</span>
+        </div>
+        <h3>대전 0시 축제 로고송 공모전</h3>
+        <p>주최: 대전광역시</p>
+        <p>대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
+        <div class="meta">
+          <div><span>접수</span><strong>03.30~04.17</strong></div>
+          <div><span>심사</span><strong>04.20~04.24</strong></div>
+          <div><span>발표</span><strong>04.29</strong></div>
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=030910001&amp;str_no=202603300009" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">요리•뷰티•배우•오디션</span>
-                <span class="badge status">D-24 접수예정</span>
-              </div>
-              <h2>제3회 전국김밥경연대회</h2>
-              <p class="host">주최: 경기도</p>
-              <p class="target">대상: 대학생 , 일반인 , 해당자 ▶</p>
-              <div class="meta">
-                <div><span>접수</span><strong>04.01~04.23</strong></div>
-                <div><span>심사</span><strong>04.01~05.31 </strong></div>
-                
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202603300064" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">사진•영상•영화제</span>
+          <span class="badge status">D-214 접수중</span>
+        </div>
+        <h3>2026 의성사랑 유튜브 공모전</h3>
+        <p>주최: 의성군</p>
+        <p>대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
+        <div class="meta">
+          <div><span>접수</span><strong>03.06~10.31</strong></div>
+          <div><span>심사</span><strong>11.01~12.31</strong></div>
+          
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=031210001&amp;str_no=202603300037" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">네이밍•슬로건</span>
-                <span class="badge status">D-31 접수예정</span>
-              </div>
-              <h2>다목적방사광가속기 명칭 공모전</h2>
-              <p class="host">주최: 과학기술정보통신부</p>
-              <p class="target">대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
-              <div class="meta">
-                <div><span>접수</span><strong>04.01~04.30</strong></div>
-                <div><span>심사</span><strong>05.01~05.28 </strong></div>
-                <div><span>발표</span><strong>05.29</strong></div>
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202603300056" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">요리•뷰티•배우•오디션</span>
+          <span class="badge status">D-26 접수중</span>
+        </div>
+        <h3>썬키스트 레시피 콘테스트</h3>
+        <p>주최: 썬키스트</p>
+        <p>대상: 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인</p>
+        <div class="meta">
+          <div><span>접수</span><strong>03.30~04.26</strong></div>
+          <div><span>심사</span><strong>04.27~05.14</strong></div>
+          <div><span>발표</span><strong>05.15</strong></div>
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=031610001&amp;str_no=202603300068" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">사진•영상•영화제</span>
-                <span class="badge status">D-44 접수중</span>
-              </div>
-              <h2>지방시대 숏폼 영상 공모전</h2>
-              <p class="host">주최: 대한민국시도지사협의회</p>
-              <p class="target">대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
-              <div class="meta">
-                <div><span>접수</span><strong>03.25~05.13</strong></div>
-                <div><span>심사</span><strong>03.25~05.13 </strong></div>
-                
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603260045" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">사진•영상•영화제</span>
+          <span class="badge status">D-43 접수중</span>
+        </div>
+        <h3>지방시대 숏폼 영상 공모전</h3>
+        <p>주최: 대한민국시도지사협의회</p>
+        <p>대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
+        <div class="meta">
+          <div><span>접수</span><strong>03.25~05.13</strong></div>
+          <div><span>심사</span><strong>03.25~05.13</strong></div>
+          
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=031210001&amp;str_no=202603260045" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">문학•문예</span>
-                <span class="badge status">D-37 접수예정</span>
-              </div>
-              <h2>[광주 신세계안과] 제45회 빛창공모전 여름편 공모</h2>
-              <p class="host">주최: 신세계안과</p>
-              <p class="target">대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
-              <div class="meta">
-                <div><span>접수</span><strong>04.01~05.06</strong></div>
-                <div><span>심사</span><strong>05.07~05.12 </strong></div>
-                <div><span>발표</span><strong>05.13</strong></div>
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202603300047" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">미술•디자인•웹툰</span>
+          <span class="badge status">D-51 접수중</span>
+        </div>
+        <h3>유라시아피스랠리와 함께하는 2026 국제 청소년 미술공모전</h3>
+        <p>주최: 사단법인 케이아트국제교류협회</p>
+        <p>대상: 중학생 , 고등학생</p>
+        <div class="meta">
+          <div><span>접수</span><strong>03.02~05.21</strong></div>
+          <div><span>심사</span><strong>05.30~05.31</strong></div>
+          <div><span>발표</span><strong>06.10</strong></div>
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=030610001&amp;str_no=202603300007" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">사진•영상•영화제</span>
-                <span class="badge status">D-215 접수중</span>
-              </div>
-              <h2>2026 의성사랑 유튜브 공모전</h2>
-              <p class="host">주최: 의성군</p>
-              <p class="target">대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
-              <div class="meta">
-                <div><span>접수</span><strong>03.06~10.31</strong></div>
-                <div><span>심사</span><strong>11.01~12.31 </strong></div>
-                
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603300037" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">미술•디자인•웹툰</span>
+          <span class="badge status">D-55 접수중</span>
+        </div>
+        <h3>유라시아피스랠리와 함께하는 2026 국제 어린이 그림 공모전</h3>
+        <p>주최: 사단법인 케이아트국제교류협회</p>
+        <p>대상: 유치원 , 초등학생</p>
+        <div class="meta">
+          <div><span>접수</span><strong>03.03~05.25</strong></div>
+          <div><span>심사</span><strong>05.30~05.31</strong></div>
+          <div><span>발표</span><strong>06.10</strong></div>
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=030610001&amp;str_no=202603300008" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
+      </div>
+    </section>
+
+<section class="section">
+      <div class="section-head">
+        <div>
+          <h2>접수예정</h2>
+          <p>곧 열리는 공모전</p>
+        </div>
+        <span class="count">5건</span>
+      </div>
+      <div class="grid">
+        <article class="card">
+        <div class="card-top">
+          <span class="badge category">요리•뷰티•배우•오디션</span>
+          <span class="badge status">D-23 접수예정</span>
+        </div>
+        <h3>제3회 전국김밥경연대회</h3>
+        <p>주최: 경기도</p>
+        <p>대상: 대학생 , 일반인 , 해당자 ▶</p>
+        <div class="meta">
+          <div><span>접수</span><strong>04.01~04.23</strong></div>
+          <div><span>심사</span><strong>04.01~05.31</strong></div>
+          
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=031610001&amp;str_no=202603300064" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">미술•디자인•웹툰</span>
-                <span class="badge status">D-60 접수예정</span>
-              </div>
-              <h2>2026 알아가고 그려보는 장애인식개선 그림 공모전</h2>
-              <p class="host">주최: 한국장애인단체총연합회</p>
-              <p class="target">대상: 유치원 , 초등학생</p>
-              <div class="meta">
-                <div><span>접수</span><strong>04.01~05.29</strong></div>
-                <div><span>심사</span><strong>06.01~07.31 </strong></div>
-                <div><span>발표</span><strong>08.07</strong></div>
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603300015" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">네이밍•슬로건</span>
+          <span class="badge status">D-30 접수예정</span>
+        </div>
+        <h3>다목적방사광가속기 명칭 공모전</h3>
+        <p>주최: 과학기술정보통신부</p>
+        <p>대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
+        <div class="meta">
+          <div><span>접수</span><strong>04.01~04.30</strong></div>
+          <div><span>심사</span><strong>05.01~05.28</strong></div>
+          <div><span>발표</span><strong>05.29</strong></div>
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=030210001&amp;str_no=202603300056" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">음악•콩쿠르•댄스</span>
-                <span class="badge status">D-18 접수중</span>
-              </div>
-              <h2>대전 0시 축제 로고송 공모전</h2>
-              <p class="host">주최: 대전광역시</p>
-              <p class="target">대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
-              <div class="meta">
-                <div><span>접수</span><strong>03.30~04.17</strong></div>
-                <div><span>심사</span><strong>04.20~04.24 </strong></div>
-                <div><span>발표</span><strong>04.29</strong></div>
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202603300009" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">아이디어•건축•창업</span>
+          <span class="badge status">D-34 접수예정</span>
+        </div>
+        <h3>2026년 성평등가족부 공공·AI 데이터 융복합 아이디어 및 분석활용 공모전</h3>
+        <p>주최: 성평등가족부</p>
+        <p>대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
+        <div class="meta">
+          <div><span>접수</span><strong>04.06~05.04</strong></div>
+          <div><span>심사</span><strong>05.01~05.31</strong></div>
+          
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=031410001&amp;str_no=202603300006" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">미술•디자인•웹툰</span>
-                <span class="badge status">D-56 접수중</span>
-              </div>
-              <h2>유라시아피스랠리와 함께하는 2026 국제 어린이 그림 공모전</h2>
-              <p class="host">주최: 사단법인 케이아트국제교류협회</p>
-              <p class="target">대상: 유치원 , 초등학생</p>
-              <div class="meta">
-                <div><span>접수</span><strong>03.03~05.25</strong></div>
-                <div><span>심사</span><strong>05.30~05.31 </strong></div>
-                <div><span>발표</span><strong>06.10</strong></div>
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603300008" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">문학•문예</span>
+          <span class="badge status">D-36 접수예정</span>
+        </div>
+        <h3>[광주 신세계안과] 제45회 빛창공모전 여름편 공모</h3>
+        <p>주최: 신세계안과</p>
+        <p>대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
+        <div class="meta">
+          <div><span>접수</span><strong>04.01~05.06</strong></div>
+          <div><span>심사</span><strong>05.07~05.12</strong></div>
+          <div><span>발표</span><strong>05.13</strong></div>
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=030110001&amp;str_no=202603300047" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
 <article class="card">
-              <div class="card-top">
-                <span class="badge category">미술•디자인•웹툰</span>
-                <span class="badge status">D-52 접수중</span>
-              </div>
-              <h2>유라시아피스랠리와 함께하는 2026 국제 청소년 미술공모전</h2>
-              <p class="host">주최: 사단법인 케이아트국제교류협회</p>
-              <p class="target">대상: 중학생 , 고등학생</p>
-              <div class="meta">
-                <div><span>접수</span><strong>03.02~05.21</strong></div>
-                <div><span>심사</span><strong>05.30~05.31 </strong></div>
-                <div><span>발표</span><strong>06.10</strong></div>
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603300007" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
-<article class="card">
-              <div class="card-top">
-                <span class="badge category">아이디어•건축•창업</span>
-                <span class="badge status">D-35 접수예정</span>
-              </div>
-              <h2>2026년 성평등가족부 공공·AI 데이터 융복합 아이디어 및 분석활용 공모전</h2>
-              <p class="host">주최: 성평등가족부</p>
-              <p class="target">대상: 누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인</p>
-              <div class="meta">
-                <div><span>접수</span><strong>04.06~05.04</strong></div>
-                <div><span>심사</span><strong>05.01~05.31 </strong></div>
-                
-              </div>
-              <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202603300006" target="_blank" rel="noopener noreferrer">상세 보기</a>
-            </article>
+        <div class="card-top">
+          <span class="badge category">미술•디자인•웹툰</span>
+          <span class="badge status">D-59 접수예정</span>
+        </div>
+        <h3>2026 알아가고 그려보는 장애인식개선 그림 공모전</h3>
+        <p>주최: 한국장애인단체총연합회</p>
+        <p>대상: 유치원 , 초등학생</p>
+        <div class="meta">
+          <div><span>접수</span><strong>04.01~05.29</strong></div>
+          <div><span>심사</span><strong>06.01~07.31</strong></div>
+          <div><span>발표</span><strong>08.07</strong></div>
+        </div>
+        <a href="https://www.contestkorea.com/sub/view.php?int_gbn=1&amp;Txt_bcode=030610001&amp;str_no=202603300015" target="_blank" rel="noopener noreferrer">상세 보기</a>
+      </article>
+      </div>
     </section>
 
     <footer>
-      데이터 출처: ContestKorea 공개 목록 페이지 / GitHub Actions가 30분마다 스크래핑 후 변경 사항이 있을 때만 자동 커밋합니다.
+      데이터 출처: <a href="https://www.contestkorea.com/sub/list.php?displayrow=12&amp;int_gbn=1&amp;Page=1" target="_blank" rel="noopener noreferrer">ContestKorea 공개 목록</a><br />
+      수집 기준: `int_gbn=1` 목록을 조회하고, 상태를 `접수중 → 접수예정 → 기타` 순으로 정리합니다. 상세 링크 기준으로 중복 제거하며, 페이지 응답이 반복되면 추가 수집을 중단합니다.
     </footer>
   </main>
 </body>
