@@ -131,7 +131,7 @@ def render_html(contests: List[Contest], generated_at: str) -> str:
   <meta charset=\"UTF-8\" />
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />
   <title>공모전 Daily Update</title>
-  <meta name=\"description\" content=\"매일 자동으로 갱신되는 공모전 공개 페이지\" />
+  <meta name=\"description\" content=\"30분마다 자동으로 갱신되는 공모전 공개 페이지\" />
   <style>
     :root {{
       --bg: #0f172a;
@@ -171,12 +171,13 @@ def render_html(contests: List[Contest], generated_at: str) -> str:
   <main class=\"wrap\">
     <section class=\"hero\">
       <h1>공모전 Daily Update</h1>
-      <p>콘테스트코리아 공개 목록을 기준으로 주요 공모전 정보를 수집해 매일 자동 갱신하는 페이지입니다.</p>
+      <p>콘테스트코리아 공개 목록을 기준으로 주요 공모전 정보를 수집해 30분마다 자동 갱신하는 페이지입니다.</p>
     </section>
 
     <section class=\"summary\">
       <div class=\"pill\">총 {len(contests)}건 수집</div>
       <div class=\"pill\">마지막 업데이트: {generated_at}</div>
+      <div class=\"pill\">갱신 주기: 30분</div>
       <div class=\"pill\">배포 방식: GitHub Pages</div>
     </section>
 
@@ -185,7 +186,7 @@ def render_html(contests: List[Contest], generated_at: str) -> str:
     </section>
 
     <footer>
-      데이터 출처: ContestKorea 공개 목록 페이지 / 본 페이지는 학습·과제용 자동 수집 결과입니다.
+      데이터 출처: ContestKorea 공개 목록 페이지 / GitHub Actions가 30분마다 스크래핑 후 변경 사항이 있을 때만 자동 커밋합니다.
     </footer>
   </main>
 </body>

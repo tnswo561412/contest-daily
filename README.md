@@ -1,6 +1,6 @@
 # Contest Daily Update
 
-공모전 정보를 스크래핑해 매일 자동으로 갱신하고, GitHub Pages로 공개하는 과제용 프로젝트입니다.
+공모전 정보를 스크래핑해 30분마다 자동으로 갱신하고, GitHub Pages로 공개하는 과제용 프로젝트입니다.
 
 ## 구성
 - `scrape.py`: 콘테스트코리아 공모전 목록 스크래핑 + `contests.json`, `index.html` 생성
@@ -26,8 +26,10 @@ python scrape.py
 5. 몇 분 뒤 공개 URL 생성
 
 ## 자동 업데이트
-- `.github/workflows/update.yml`이 매일 오전 9시(KST 기준 자정 UTC)와 수동 실행에서 동작합니다.
-- 스크래핑 결과가 바뀌면 자동으로 커밋합니다.
+- `.github/workflows/update.yml`이 `*/30 * * * *` 크론으로 30분마다 실행됩니다.
+- 실행 때마다 `scrape.py`가 최신 목록을 다시 수집합니다.
+- `contests.json`, `index.html`에 변경이 있을 때만 자동 커밋합니다.
+- 필요하면 GitHub Actions의 **Run workflow**로 수동 실행도 가능합니다.
 
 ## 발표용 설명 문장
-> Python으로 공모전 정보를 스크래핑하고, GitHub Actions를 이용해 매일 자동으로 갱신했습니다. 갱신된 결과는 GitHub Pages에 배포하여 누구나 접근 가능한 공개 웹페이지 형태로 제공했습니다.
+> Python으로 공모전 정보를 스크래핑하고, GitHub Actions를 이용해 30분마다 자동 갱신되도록 구성했습니다. 갱신된 결과는 GitHub Pages에 배포하여 누구나 접근 가능한 공개 웹페이지 형태로 제공했습니다.
