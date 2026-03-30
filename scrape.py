@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 from html import escape
 from pathlib import Path
 from typing import Iterable, List
-from urllib.parse import urljoin
+from urllib.parse import parse_qs, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -44,7 +44,7 @@ session.headers.update(
 
 
 def build_list_url(page: int) -> str:
-    return f"{LIST_URL}?displayrow={DISPLAY_ROWS}&int_gbn=1&Page={page}"
+    return f"{LIST_URL}?displayrow={DISPLAY_ROWS}&int_gbn=1&page={page}"
 
 
 def fetch_html(url: str) -> str:
@@ -63,6 +63,24 @@ def normalize_field(text: str, prefixes: Iterable[str] = ()) -> str:
         if value.startswith(prefix):
             value = value[len(prefix) :].strip()
     return value.strip(" .:-")
+
+
+def detect_total_pages(html: str) -> int:
+    soup = BeautifulSoup(html, "html.parser")
+    pages: set[int] = set()
+
+    for anchor in soup.select("div.pagination a[href]"):
+        href = anchor.get("href", "")
+        query = parse_qs(urlparse(urljoin(LIST_URL, href)).query)
+        page_values = query.get("page") or query.get("Page")
+        if not page_values:
+            continue
+        try:
+            pages.add(int(page_values[0]))
+        except ValueError:
+            continue
+
+    return max(pages) if pages else 1
 
 
 def parse_contests(html: str) -> List[Contest]:
@@ -118,14 +136,18 @@ def parse_contests(html: str) -> List[Contest]:
     return contests
 
 
-def collect_contests() -> tuple[List[Contest], int, bool]:
+def collect_contests() -> tuple[List[Contest], int, bool, int]:
     dedup: dict[str, Contest] = {}
     previous_signature: tuple[str, ...] | None = None
     pages_collected = 0
     duplicate_page_detected = False
 
-    for page in range(1, MAX_PAGES + 1):
-        html = fetch_html(build_list_url(page))
+    first_html = fetch_html(build_list_url(1))
+    total_pages = detect_total_pages(first_html)
+    page_htmls = [(1, first_html)]
+    page_htmls.extend((page, fetch_html(build_list_url(page))) for page in range(2, min(total_pages, MAX_PAGES) + 1))
+
+    for page, html in page_htmls:
         page_items = parse_contests(html)
         if not page_items:
             break
@@ -144,7 +166,7 @@ def collect_contests() -> tuple[List[Contest], int, bool]:
     contests = list(dedup.values())
     if not contests:
         raise RuntimeError("파싱된 공모전이 없습니다. 사이트 구조가 바뀌었는지 확인하세요.")
-    return contests, pages_collected, duplicate_page_detected
+    return contests, pages_collected, duplicate_page_detected, total_pages
 
 
 def status_rank(contest: Contest) -> tuple[int, str, str]:
@@ -212,7 +234,9 @@ def render_section(title: str, subtitle: str, contests: List[Contest]) -> str:
     """.strip()
 
 
-def render_html(contests: List[Contest], generated_at: str, pages_collected: int, duplicate_page_detected: bool) -> str:
+def render_html(
+    contests: List[Contest], generated_at: str, pages_collected: int, duplicate_page_detected: bool, total_pages: int
+) -> str:
     contests = sorted(contests, key=status_rank)
     open_items, upcoming_items, others = split_groups(contests)
     source_url = build_list_url(1)
@@ -296,6 +320,7 @@ def render_html(contests: List[Contest], generated_at: str, pages_collected: int
       <div class=\"pill\">마지막 업데이트: {escape(generated_at)}</div>
       <div class=\"pill\">갱신 주기: 30분</div>
       <div class=\"pill\">시도 범위: 최대 {MAX_PAGES}페이지 / 페이지당 {DISPLAY_ROWS}건</div>
+      <div class=\"pill\">사이트 탐지 페이지 수: {total_pages}페이지</div>
       <div class=\"pill\">{escape(page_note)}</div>
     </section>
 
@@ -312,7 +337,7 @@ def render_html(contests: List[Contest], generated_at: str, pages_collected: int
 
 
 def main() -> None:
-    contests, pages_collected, duplicate_page_detected = collect_contests()
+    contests, pages_collected, duplicate_page_detected, total_pages = collect_contests()
     generated_at = datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S KST")
 
     contests = sorted(contests, key=status_rank)
@@ -329,6 +354,7 @@ def main() -> None:
         "crawl_result": {
             "pages_collected": pages_collected,
             "duplicate_page_detected": duplicate_page_detected,
+            "site_total_pages_detected": total_pages,
         },
         "generated_at": generated_at,
         "count": len(contests),
@@ -341,7 +367,10 @@ def main() -> None:
     }
 
     OUTPUT_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    OUTPUT_HTML.write_text(render_html(contests, generated_at, pages_collected, duplicate_page_detected), encoding="utf-8")
+    OUTPUT_HTML.write_text(
+        render_html(contests, generated_at, pages_collected, duplicate_page_detected, total_pages),
+        encoding="utf-8",
+    )
 
     print(f"Saved {len(contests)} contests to {OUTPUT_JSON} and {OUTPUT_HTML}")
 
