@@ -15,6 +15,7 @@ SITE_ROOT = "https://www.contestkorea.com/sub/"
 LIST_URL = urljoin(SITE_ROOT, "list.php")
 DISPLAY_ROWS = 12
 MAX_PAGES = 5
+MAX_STORED_ITEMS = 50
 REQUEST_TIMEOUT = 30
 KST = timezone(timedelta(hours=9))
 OUTPUT_JSON = Path("contests.json")
@@ -33,6 +34,9 @@ class Contest:
     status_day: str
     status_text: str
     detail_url: str
+    first_seen_at: str = ""
+    last_seen_at: str = ""
+    is_current: bool = True
 
 
 session = requests.Session()
@@ -69,8 +73,10 @@ def detect_total_pages(html: str) -> int:
     soup = BeautifulSoup(html, "html.parser")
     pages: set[int] = set()
 
-    for anchor in soup.select("div.pagination a[href]"):
+    for anchor in soup.select("a[href]"):
         href = anchor.get("href", "")
+        if "list.php" not in href:
+            continue
         query = parse_qs(urlparse(urljoin(LIST_URL, href)).query)
         page_values = query.get("page") or query.get("Page")
         if not page_values:
@@ -136,7 +142,7 @@ def parse_contests(html: str) -> List[Contest]:
     return contests
 
 
-def collect_contests() -> tuple[List[Contest], int, bool, int]:
+def collect_current_contests() -> tuple[List[Contest], int, bool, int]:
     dedup: dict[str, Contest] = {}
     previous_signature: tuple[str, ...] | None = None
     pages_collected = 0
@@ -147,7 +153,7 @@ def collect_contests() -> tuple[List[Contest], int, bool, int]:
     page_htmls = [(1, first_html)]
     page_htmls.extend((page, fetch_html(build_list_url(page))) for page in range(2, min(total_pages, MAX_PAGES) + 1))
 
-    for page, html in page_htmls:
+    for _, html in page_htmls:
         page_items = parse_contests(html)
         if not page_items:
             break
@@ -169,9 +175,63 @@ def collect_contests() -> tuple[List[Contest], int, bool, int]:
     return contests, pages_collected, duplicate_page_detected, total_pages
 
 
+def load_previous_contests() -> list[Contest]:
+    if not OUTPUT_JSON.exists():
+        return []
+    try:
+        payload = json.loads(OUTPUT_JSON.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return []
+
+    items = payload.get("items", [])
+    contests: list[Contest] = []
+    for item in items:
+        try:
+            contests.append(Contest(**item))
+        except TypeError:
+            continue
+    return contests
+
+
+def merge_contests(current_contests: list[Contest], previous_contests: list[Contest], generated_at: str) -> tuple[list[Contest], int]:
+    merged: dict[str, Contest] = {contest.detail_url: contest for contest in previous_contests}
+    new_count = 0
+
+    for contest in current_contests:
+        previous = merged.get(contest.detail_url)
+        if previous:
+            contest.first_seen_at = previous.first_seen_at or previous.last_seen_at or generated_at
+        else:
+            contest.first_seen_at = generated_at
+            new_count += 1
+        contest.last_seen_at = generated_at
+        contest.is_current = True
+        merged[contest.detail_url] = contest
+
+    current_urls = {contest.detail_url for contest in current_contests}
+    for url, contest in list(merged.items()):
+        if url not in current_urls:
+            contest.is_current = False
+            if not contest.first_seen_at:
+                contest.first_seen_at = contest.last_seen_at or generated_at
+            merged[url] = contest
+
+    ordered = sorted(
+        merged.values(),
+        key=lambda contest: (
+            0 if contest.is_current else 1,
+            -(datetime.strptime(contest.last_seen_at or generated_at, "%Y-%m-%d %H:%M:%S KST").timestamp()),
+            contest.title,
+        ),
+    )
+    return ordered[:MAX_STORED_ITEMS], new_count
+
+
 def status_rank(contest: Contest) -> tuple[int, str, str]:
     status = contest.status_text
-    if "접수중" in status:
+    if not contest.is_current:
+        priority = 3
+    elif "접수중" in status:
         priority = 0
     elif "접수예정" in status:
         priority = 1
@@ -182,11 +242,13 @@ def status_rank(contest: Contest) -> tuple[int, str, str]:
     return priority, contest.status_day, contest.title
 
 
-def split_groups(contests: List[Contest]) -> tuple[List[Contest], List[Contest], List[Contest]]:
-    open_items = [contest for contest in contests if "접수중" in contest.status_text]
-    upcoming_items = [contest for contest in contests if "접수예정" in contest.status_text]
-    others = [contest for contest in contests if contest not in open_items and contest not in upcoming_items]
-    return open_items, upcoming_items, others
+def split_groups(contests: List[Contest]) -> tuple[List[Contest], List[Contest], List[Contest], List[Contest]]:
+    current = [contest for contest in contests if contest.is_current]
+    open_items = [contest for contest in current if "접수중" in contest.status_text]
+    upcoming_items = [contest for contest in current if "접수예정" in contest.status_text]
+    other_current = [contest for contest in current if contest not in open_items and contest not in upcoming_items]
+    archived = [contest for contest in contests if not contest.is_current]
+    return open_items, upcoming_items, other_current, archived
 
 
 def render_card(contest: Contest) -> str:
@@ -195,10 +257,19 @@ def render_card(contest: Contest) -> str:
         if contest.announcement_date and contest.announcement_date != "-"
         else ""
     )
+    seen_block = ""
+    if contest.first_seen_at:
+        seen_block += f'<div><span>처음 수집</span><strong>{escape(contest.first_seen_at)}</strong></div>'
+    if contest.last_seen_at:
+        seen_block += f'<div><span>마지막 확인</span><strong>{escape(contest.last_seen_at)}</strong></div>'
+    archive_badge = '<span class="badge archive">보관됨</span>' if not contest.is_current else ""
     return f"""
       <article class=\"card\">
         <div class=\"card-top\">
-          <span class=\"badge category\">{escape(contest.category)}</span>
+          <div class=\"badge-wrap\">
+            <span class=\"badge category\">{escape(contest.category)}</span>
+            {archive_badge}
+          </div>
           <span class=\"badge status\">{escape(contest.status_day)} {escape(contest.status_text)}</span>
         </div>
         <h3>{escape(contest.title)}</h3>
@@ -208,6 +279,7 @@ def render_card(contest: Contest) -> str:
           <div><span>접수</span><strong>{escape(contest.reception_period)}</strong></div>
           <div><span>심사</span><strong>{escape(contest.evaluation_period)}</strong></div>
           {announcement}
+          {seen_block}
         </div>
         <a href=\"{escape(contest.detail_url, quote=True)}\" target=\"_blank\" rel=\"noopener noreferrer\">상세 보기</a>
       </article>
@@ -235,10 +307,10 @@ def render_section(title: str, subtitle: str, contests: List[Contest]) -> str:
 
 
 def render_html(
-    contests: List[Contest], generated_at: str, pages_collected: int, duplicate_page_detected: bool, total_pages: int
+    contests: List[Contest], generated_at: str, pages_collected: int, duplicate_page_detected: bool, total_pages: int, new_count: int
 ) -> str:
     contests = sorted(contests, key=status_rank)
-    open_items, upcoming_items, others = split_groups(contests)
+    open_items, upcoming_items, other_current, archived = split_groups(contests)
     source_url = build_list_url(1)
     page_note = (
         f"실제 유효 수집 페이지: {pages_collected}페이지"
@@ -249,7 +321,8 @@ def render_html(
     sections = [
         render_section("접수중", "지금 바로 지원 가능한 공모전", open_items),
         render_section("접수예정", "곧 열리는 공모전", upcoming_items),
-        render_section("기타", "상태가 접수중/접수예정 외로 표시된 항목", others),
+        render_section("기타 현재 항목", "현재 목록에 있지만 상태가 접수중/접수예정 외인 항목", other_current),
+        render_section("보관된 이전 항목", "지금은 첫 페이지 최신 목록에서 내려갔지만 기록으로 보관한 공모전", archived),
     ]
     sections_html = "\n\n".join(section for section in sections if section)
 
@@ -259,16 +332,13 @@ def render_html(
   <meta charset=\"UTF-8\" />
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />
   <title>공모전 Daily Update</title>
-  <meta name=\"description\" content=\"콘테스트코리아 공개 목록을 30분마다 다시 수집해 보여주는 공모전 페이지\" />
+  <meta name=\"description\" content=\"콘테스트코리아 공개 목록을 30분마다 다시 수집하고 이전 항목도 최대 50개까지 누적 보관하는 공모전 페이지\" />
   <style>
     :root {{
       --bg: #0f172a;
       --panel: rgba(17, 24, 39, 0.95);
-      --panel-2: #1f2937;
       --text: #e5e7eb;
       --muted: #9ca3af;
-      --accent: #38bdf8;
-      --accent-2: #f59e0b;
       --border: rgba(255,255,255,0.08);
       --shadow: 0 14px 30px rgba(0,0,0,0.25);
     }}
@@ -278,7 +348,7 @@ def render_html(
     .wrap {{ max-width: 1200px; margin: 0 auto; padding: 40px 20px 80px; }}
     .hero {{ margin-bottom: 28px; }}
     .hero h1 {{ font-size: 2.4rem; margin: 0 0 12px; }}
-    .hero p {{ margin: 0; color: var(--muted); line-height: 1.7; max-width: 860px; }}
+    .hero p {{ margin: 0; color: var(--muted); line-height: 1.7; max-width: 900px; }}
     .summary {{ display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0 36px; }}
     .pill {{ background: rgba(56, 189, 248, 0.12); color: #bae6fd; border: 1px solid rgba(56, 189, 248, 0.25); padding: 10px 14px; border-radius: 999px; font-size: 0.95rem; }}
     .section {{ margin-top: 34px; }}
@@ -289,9 +359,11 @@ def render_html(
     .grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }}
     .card {{ background: var(--panel); border: 1px solid var(--border); border-radius: 18px; padding: 18px; box-shadow: var(--shadow); }}
     .card-top {{ display: flex; justify-content: space-between; gap: 8px; margin-bottom: 12px; }}
+    .badge-wrap {{ display: flex; flex-wrap: wrap; gap: 8px; }}
     .badge {{ display: inline-flex; align-items: center; padding: 6px 10px; border-radius: 999px; font-size: 0.8rem; }}
     .badge.category {{ background: rgba(245, 158, 11, 0.14); color: #fde68a; }}
     .badge.status {{ background: rgba(56, 189, 248, 0.14); color: #bae6fd; text-align: right; }}
+    .badge.archive {{ background: rgba(244, 63, 94, 0.14); color: #fecdd3; }}
     .card h3 {{ margin: 0 0 12px; font-size: 1.08rem; line-height: 1.45; }}
     .card p {{ margin: 6px 0; color: var(--muted); line-height: 1.5; }}
     .meta {{ display: grid; gap: 10px; margin: 16px 0; padding: 14px; background: rgba(255,255,255,0.03); border-radius: 14px; }}
@@ -310,13 +382,14 @@ def render_html(
   <main class=\"wrap\">
     <section class=\"hero\">
       <h1>공모전 Daily Update</h1>
-      <p>콘테스트코리아 공개 목록을 기준으로 최근 공모전 데이터를 다시 수집해 보여줍니다. GitHub Actions가 30분마다 실행되고, 변경이 있을 때만 결과 파일을 업데이트합니다.</p>
+      <p>콘테스트코리아 공개 목록을 30분마다 다시 수집하고, 현재 목록에서 내려간 항목도 최대 {MAX_STORED_ITEMS}개까지 누적 보관합니다. 그래서 새 공모전이 올라오면 기존 12개를 덮어쓰는 대신 이전 항목도 기록으로 남습니다.</p>
     </section>
 
     <section class=\"summary\">
-      <div class=\"pill\">총 {len(contests)}건 수집</div>
-      <div class=\"pill\">접수중 {len(open_items)}건</div>
-      <div class=\"pill\">접수예정 {len(upcoming_items)}건</div>
+      <div class=\"pill\">누적 보관 {len(contests)}건</div>
+      <div class=\"pill\">현재 항목 {len(open_items) + len(upcoming_items) + len(other_current)}건</div>
+      <div class=\"pill\">보관된 이전 항목 {len(archived)}건</div>
+      <div class=\"pill\">이번 실행 신규 추가 {new_count}건</div>
       <div class=\"pill\">마지막 업데이트: {escape(generated_at)}</div>
       <div class=\"pill\">갱신 주기: 30분</div>
       <div class=\"pill\">시도 범위: 최대 {MAX_PAGES}페이지 / 페이지당 {DISPLAY_ROWS}건</div>
@@ -328,7 +401,7 @@ def render_html(
 
     <footer>
       데이터 출처: <a href=\"{escape(source_url, quote=True)}\" target=\"_blank\" rel=\"noopener noreferrer\">ContestKorea 공개 목록</a><br />
-      수집 기준: `int_gbn=1` 목록을 조회하고, 상태를 `접수중 → 접수예정 → 기타` 순으로 정리합니다. 상세 링크 기준으로 중복 제거하며, 페이지 응답이 반복되면 추가 수집을 중단합니다.
+      수집 기준: `int_gbn=1` 목록을 조회하고, 상세 링크 기준으로 중복 제거 후 최대 {MAX_STORED_ITEMS}개까지 보관합니다. 현재 목록에 없는 항목은 삭제하지 않고 `보관됨` 상태로 남깁니다.
     </footer>
   </main>
 </body>
@@ -337,38 +410,43 @@ def render_html(
 
 
 def main() -> None:
-    contests, pages_collected, duplicate_page_detected, total_pages = collect_contests()
+    current_contests, pages_collected, duplicate_page_detected, total_pages = collect_current_contests()
     generated_at = datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S KST")
+    previous_contests = load_previous_contests()
+    contests, new_count = merge_contests(current_contests, previous_contests, generated_at)
 
     contests = sorted(contests, key=status_rank)
-    open_items, upcoming_items, others = split_groups(contests)
+    open_items, upcoming_items, other_current, archived = split_groups(contests)
 
     payload = {
         "source": LIST_URL,
         "filters": {
             "display_rows": DISPLAY_ROWS,
             "max_pages": MAX_PAGES,
+            "max_stored_items": MAX_STORED_ITEMS,
             "int_gbn": 1,
-            "status_priority": ["접수중", "접수예정", "기타"],
+            "status_priority": ["접수중", "접수예정", "기타 현재 항목", "보관된 이전 항목"],
         },
         "crawl_result": {
             "pages_collected": pages_collected,
             "duplicate_page_detected": duplicate_page_detected,
             "site_total_pages_detected": total_pages,
+            "new_items_added_this_run": new_count,
         },
         "generated_at": generated_at,
         "count": len(contests),
         "counts_by_status": {
             "open": len(open_items),
             "upcoming": len(upcoming_items),
-            "other": len(others),
+            "other_current": len(other_current),
+            "archived": len(archived),
         },
         "items": [asdict(contest) for contest in contests],
     }
 
     OUTPUT_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     OUTPUT_HTML.write_text(
-        render_html(contests, generated_at, pages_collected, duplicate_page_detected, total_pages),
+        render_html(contests, generated_at, pages_collected, duplicate_page_detected, total_pages, new_count),
         encoding="utf-8",
     )
 
