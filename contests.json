@@ -18,11 +18,11 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 0
   },
-  "generated_at": "2026-04-05 23:06:46 KST",
+  "generated_at": "2026-04-06 00:02:23 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 1,
+    "open": 11,
+    "upcoming": 0,
     "other_current": 1,
     "archived": 38
   },
@@ -35,11 +35,11 @@
       "reception_period": "03.27~04.17",
       "evaluation_period": "04.22~05.01",
       "announcement_date": "05.01",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604030001",
       "first_seen_at": "2026-04-03 19:22:40 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -50,11 +50,11 @@
       "reception_period": "03.24~04.24",
       "evaluation_period": "04.27~05.24",
       "announcement_date": "05.29",
-      "status_day": "D-19",
+      "status_day": "D-18",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604030040",
       "first_seen_at": "2026-04-03 19:22:40 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -65,11 +65,11 @@
       "reception_period": "03.16~04.24",
       "evaluation_period": "05.25~05.31",
       "announcement_date": "-",
-      "status_day": "D-19",
+      "status_day": "D-18",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604020087",
       "first_seen_at": "2026-04-03 15:47:38 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -80,11 +80,11 @@
       "reception_period": "03.26~04.27",
       "evaluation_period": "05.01~06.30",
       "announcement_date": "-",
-      "status_day": "D-22",
+      "status_day": "D-21",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604030002",
       "first_seen_at": "2026-04-03 15:47:38 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -95,11 +95,11 @@
       "reception_period": "04.01~05.01",
       "evaluation_period": "04.01~05.01",
       "announcement_date": "-",
-      "status_day": "D-26",
+      "status_day": "D-25",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604030050",
       "first_seen_at": "2026-04-03 19:22:40 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -110,11 +110,11 @@
       "reception_period": "03.31~05.05",
       "evaluation_period": "05.08~05.11",
       "announcement_date": "05.15",
-      "status_day": "D-30",
+      "status_day": "D-29",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604030052",
       "first_seen_at": "2026-04-03 19:22:40 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -125,11 +125,11 @@
       "reception_period": "03.30~05.06",
       "evaluation_period": "05.07~05.31",
       "announcement_date": "06.05",
-      "status_day": "D-31",
+      "status_day": "D-30",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604030048",
       "first_seen_at": "2026-04-03 19:22:40 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -140,11 +140,11 @@
       "reception_period": "04.01~05.09",
       "evaluation_period": "04.01~07.01",
       "announcement_date": "-",
-      "status_day": "D-34",
+      "status_day": "D-33",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604030056",
       "first_seen_at": "2026-04-03 19:22:40 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -155,26 +155,11 @@
       "reception_period": "04.03~05.17",
       "evaluation_period": "05.18~05.31",
       "announcement_date": "06.01",
-      "status_day": "D-42",
+      "status_day": "D-41",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604030007",
       "first_seen_at": "2026-04-03 15:47:38 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 양구군 관광기념품 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "양구군",
-      "target": "해당자 ▶",
-      "reception_period": "03.23~06.30",
-      "evaluation_period": "07.01~08.31",
-      "announcement_date": "09.01",
-      "status_day": "D-86",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604030038",
-      "first_seen_at": "2026-04-03 19:22:40 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -185,11 +170,26 @@
       "reception_period": "04.06~05.29",
       "evaluation_period": "06.01~07.22",
       "announcement_date": "07.22",
-      "status_day": "D-54",
-      "status_text": "접수예정",
+      "status_day": "D-53",
+      "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604030054",
       "first_seen_at": "2026-04-03 19:22:40 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 양구군 관광기념품 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "양구군",
+      "target": "해당자 ▶",
+      "reception_period": "03.23~06.30",
+      "evaluation_period": "07.01~08.31",
+      "announcement_date": "09.01",
+      "status_day": "D-85",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604030038",
+      "first_seen_at": "2026-04-03 19:22:40 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
@@ -200,11 +200,11 @@
       "reception_period": "03.04~04.10",
       "evaluation_period": "04.11~04.17",
       "announcement_date": "04.18",
-      "status_day": "D-5",
+      "status_day": "D-4",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603160017",
       "first_seen_at": "2026-04-03 15:47:38 KST",
-      "last_seen_at": "2026-04-05 23:06:46 KST",
+      "last_seen_at": "2026-04-06 00:02:23 KST",
       "is_current": true
     },
     {
