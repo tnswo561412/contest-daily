@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 4
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-04-06 14:29:38 KST",
+  "generated_at": "2026-04-06 16:10:15 KST",
   "count": 50,
   "counts_by_status": {
     "open": 11,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202603300079",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604020073",
       "first_seen_at": "2026-04-06 14:29:38 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
+      "is_current": true
+    },
+    {
+      "title": "[한국노인인력개발원] 캐릭터 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "한국노인인력개발원",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.06~05.01",
+      "evaluation_period": "05.04~05.22",
+      "announcement_date": "-",
+      "status_day": "D-25",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604060002",
+      "first_seen_at": "2026-04-06 16:10:15 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604030009",
       "first_seen_at": "2026-04-06 14:29:38 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 국가데이터 활용대회",
+      "category": "아이디어•건축•창업",
+      "host": "국가데이터처",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.06~05.07",
+      "evaluation_period": "07.07~09.01",
+      "announcement_date": "09.01",
+      "status_day": "D-31",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060020",
+      "first_seen_at": "2026-04-06 16:10:15 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
+      "is_current": true
+    },
+    {
+      "title": "제7회 MDF 패션디자인 콘테스트",
+      "category": "미술•디자인•웹툰",
+      "host": "MD재단",
+      "target": "대학생 , 대학원생",
+      "reception_period": "04.06~05.07",
+      "evaluation_period": "05.08~05.22",
+      "announcement_date": "-",
+      "status_day": "D-31",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604060024",
+      "first_seen_at": "2026-04-06 16:10:15 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
@@ -84,37 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603160009",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 국제아동미술대회",
-      "category": "미술•디자인•웹툰",
-      "host": "월간교육신문",
-      "target": "유치원 , 초등학생",
-      "reception_period": "04.05~05.20",
-      "evaluation_period": "05.26~06.08",
-      "announcement_date": "06.09",
-      "status_day": "D-44",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604050002",
-      "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 이천 세라믹 테카르트 디자인 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "이천시, 한국세라믹기술원 이천분원",
-      "target": "대학생 , 일반인",
-      "reception_period": "03.26~05.21",
-      "evaluation_period": "03.26~05.21",
-      "announcement_date": "-",
-      "status_day": "D-45",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603310031",
-      "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202603110054",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202603310037",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604020064",
       "first_seen_at": "2026-04-06 14:29:38 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202604020007",
       "first_seen_at": "2026-04-06 14:29:38 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 전주영상위원회 전북 장편영화 제작지원 공모",
-      "category": "사진•영상•영화제",
-      "host": "전주영상위원회",
-      "target": "해당자 ▶",
-      "reception_period": "04.06~04.15",
-      "evaluation_period": "04.06~04.15",
-      "announcement_date": "-",
-      "status_day": "D-9",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603310032",
-      "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603160006",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 16:10:15 KST",
       "is_current": true
     },
     {
