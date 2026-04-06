@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-04-06 11:54:11 KST",
+  "generated_at": "2026-04-06 14:29:38 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 2,
-    "other_current": 1,
+    "open": 11,
+    "upcoming": 1,
+    "other_current": 0,
     "archived": 38
   },
   "items": [
@@ -39,22 +39,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202603300079",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
-      "title": "2026년 전국 통합데이터 활용 공모전",
-      "category": "학문•과학•IT",
-      "host": "행정안전부",
-      "target": "대학생 , 일반인",
-      "reception_period": "03.30~04.28",
-      "evaluation_period": "03.30~04.28",
-      "announcement_date": "04.28",
-      "status_day": "D-22",
+      "title": "2026년 제46회 장애인의 날(장애주간) 4.20이음 프로젝트-캘리그라피",
+      "category": "미술•디자인•웹툰",
+      "host": "마산장애인복지관",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.02~04.30",
+      "evaluation_period": "05.01~05.31",
+      "announcement_date": "-",
+      "status_day": "D-24",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202603300074",
-      "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604020073",
+      "first_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "is_current": true
+    },
+    {
+      "title": "애니메이션 'LUNARIA' BGM 공모전 레모네이션",
+      "category": "음악•콩쿠르•댄스",
+      "host": "레몬사운드",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.01~05.01",
+      "evaluation_period": "04.01~05.01",
+      "announcement_date": "-",
+      "status_day": "D-25",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604030009",
+      "first_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603160009",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604050002",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603310031",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202603110054",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
@@ -129,22 +144,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202603310037",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
-      "title": "제22회 광명전국 빛 사진공모전",
-      "category": "사진•영상•영화제",
-      "host": "(사)한국사진작가협회 광명지부",
+      "title": "2026 아두이노 메이커 공모전",
+      "category": "학문•과학•IT",
+      "host": "(주)엔티렉스",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "03.31~06.30",
-      "evaluation_period": "03.31~06.30",
-      "announcement_date": "07.13",
+      "reception_period": "04.01~06.30",
+      "evaluation_period": "07.01~07.31",
+      "announcement_date": "07.31",
       "status_day": "D-85",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603310024",
-      "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604020064",
+      "first_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
+      "is_current": true
+    },
+    {
+      "title": "제31회 도시연구세미나 발표공모 - 도시돌봄의 재구성(~6/30 마감)",
+      "category": "The 다양한 분야",
+      "host": "인천연구원 학술지 편집위원회",
+      "target": "대학원생",
+      "reception_period": "04.01~06.30",
+      "evaluation_period": "07.01~07.10",
+      "announcement_date": "07.10",
+      "status_day": "D-85",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202604020007",
+      "first_seen_at": "2026-04-06 14:29:38 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
@@ -159,22 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603310032",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
-      "is_current": true
-    },
-    {
-      "title": "제9회 대구광역시장배 생활무용대회",
-      "category": "음악•콩쿠르•댄스",
-      "host": "대구광역시 생활무용협회",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 일반인",
-      "reception_period": "04.20~05.14",
-      "evaluation_period": "05.23",
-      "announcement_date": "05.23",
-      "status_day": "D-38",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202603310029",
-      "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603160006",
       "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 장애인식개선 체험기 공모전",
-      "category": "문학•문예",
-      "host": "화성시아르담복지관",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "03.17~04.13",
-      "evaluation_period": "04.14~04.20",
-      "announcement_date": "04.21",
-      "status_day": "D-7",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202603200051",
-      "first_seen_at": "2026-04-06 11:54:11 KST",
-      "last_seen_at": "2026-04-06 11:54:11 KST",
+      "last_seen_at": "2026-04-06 14:29:38 KST",
       "is_current": true
     },
     {
