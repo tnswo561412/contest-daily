@@ -18,12 +18,12 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 1
   },
-  "generated_at": "2026-04-07 19:10:33 KST",
+  "generated_at": "2026-04-07 20:30:23 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 11,
+    "open": 10,
     "upcoming": 1,
-    "other_current": 0,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604070024",
       "first_seen_at": "2026-04-07 14:48:46 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060097",
       "first_seen_at": "2026-04-07 16:25:00 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604070058",
       "first_seen_at": "2026-04-07 14:48:46 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070078",
       "first_seen_at": "2026-04-07 19:10:33 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -99,22 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604060077",
       "first_seen_at": "2026-04-07 14:48:46 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
-      "is_current": true
-    },
-    {
-      "title": "제3회 쉬엄쉬엄 한강 3종 축제",
-      "category": "스포츠",
-      "host": "서울특별시, 서울특별시체육회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "03.31~05.15",
-      "evaluation_period": "06.05~06.07",
-      "announcement_date": "-",
-      "status_day": "D-38",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202603300024",
-      "first_seen_at": "2026-04-07 12:38:03 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604060085",
       "first_seen_at": "2026-04-07 14:48:46 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604060086",
       "first_seen_at": "2026-04-07 14:48:46 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060087",
       "first_seen_at": "2026-04-07 14:48:46 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604060118",
       "first_seen_at": "2026-04-07 12:38:03 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604060095",
       "first_seen_at": "2026-04-07 14:48:46 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070004",
       "first_seen_at": "2026-04-07 16:25:00 KST",
-      "last_seen_at": "2026-04-07 19:10:33 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 제47회 선농대제 기념 온라인 어린이 미술대회",
+      "category": "미술•디자인•웹툰",
+      "host": "선농대제보존위원회",
+      "target": "초등학생 , 해당자 ▶",
+      "reception_period": "03.23~04.12",
+      "evaluation_period": "04.13~04.14",
+      "announcement_date": "04.15",
+      "status_day": "D-5",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604070065",
+      "first_seen_at": "2026-04-07 20:30:23 KST",
+      "last_seen_at": "2026-04-07 20:30:23 KST",
       "is_current": true
     },
     {
