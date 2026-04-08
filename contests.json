@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 3
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-04-08 16:41:40 KST",
+  "generated_at": "2026-04-08 18:08:21 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
-    "upcoming": 3,
-    "other_current": 2,
+    "upcoming": 4,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
+    {
+      "title": "K-Architecture 100 표지 디자인 공모",
+      "category": "미술•디자인•웹툰",
+      "host": "건축세계",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.07~04.20",
+      "evaluation_period": "04.21~04.30",
+      "announcement_date": "04.30",
+      "status_day": "D-12",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604080011",
+      "first_seen_at": "2026-04-08 18:08:21 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
+      "is_current": true
+    },
     {
       "title": "한부모가족을 응원하는 N행시 공모전",
       "category": "문학•문예",
@@ -39,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604030023",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604080006",
       "first_seen_at": "2026-04-08 16:41:40 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604080002",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604080018",
       "first_seen_at": "2026-04-08 14:49:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -99,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604060059",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 기흥구 생활 불편 개선 제안 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "기흥구",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.06~05.04",
-      "evaluation_period": "05.05~06.29",
-      "announcement_date": "06.30",
-      "status_day": "D-26",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060057",
-      "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070079",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604080008",
       "first_seen_at": "2026-04-08 16:41:40 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604080041",
       "first_seen_at": "2026-04-08 14:49:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 제2회 양평징검다리영화제 단편영화 공모전",
+      "category": "사진•영상•영화제",
+      "host": "양평군청(양평군영상미디어센터)",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.14~05.10",
+      "evaluation_period": "05.12~05.29",
+      "announcement_date": "-",
+      "status_day": "D-32",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604080013",
+      "first_seen_at": "2026-04-08 18:08:21 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604070081",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604080005",
       "first_seen_at": "2026-04-08 16:41:40 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
-      "is_current": true
-    },
-    {
-      "title": "고교 일학습병행(도제학교) 인식 개선 슬로건 공모전",
-      "category": "네이밍•슬로건",
-      "host": "한국산업인력공단",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "04.06~04.15",
-      "evaluation_period": "04.16~04.26",
-      "announcement_date": "04.27",
-      "status_day": "D-7",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604070031",
-      "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 18:08:21 KST",
       "is_current": true
     },
     {
