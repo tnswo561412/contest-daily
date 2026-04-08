@@ -16,47 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 2
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-04-08 14:49:22 KST",
+  "generated_at": "2026-04-08 16:41:40 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 8,
+    "open": 7,
     "upcoming": 3,
-    "other_current": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
-    {
-      "title": "2026년 제3회 세종시 기후·환경 장원급제 어린이 시·그림 대회",
-      "category": "문학•문예",
-      "host": "세종특별자치시, 세종기후·환경네트워크",
-      "target": "초등학생 , 해당자 ▶",
-      "reception_period": "04.06~04.20",
-      "evaluation_period": "04.25",
-      "announcement_date": "-",
-      "status_day": "D-12",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604060036",
-      "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
-      "is_current": true
-    },
-    {
-      "title": "지역특화 경남관광 협업 프로젝트 공모",
-      "category": "아이디어•건축•창업",
-      "host": "문화체육관광부, 한국관광공사, 경상남도, 경남관광재단 외",
-      "target": "해당자 ▶",
-      "reception_period": "03.27~04.24",
-      "evaluation_period": "03.27~04.24",
-      "announcement_date": "-",
-      "status_day": "D-16",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604020058",
-      "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
-      "is_current": true
-    },
     {
       "title": "한부모가족을 응원하는 N행시 공모전",
       "category": "문학•문예",
@@ -69,7 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604030023",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "is_current": true
+    },
+    {
+      "title": "CICA 미술관 국제전 “Doers Do” 공모",
+      "category": "미술•디자인•웹툰",
+      "host": "CICA 미술관",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "04.08~04.27",
+      "evaluation_period": "04.08~04.27",
+      "announcement_date": "05.04",
+      "status_day": "D-19",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604080006",
+      "first_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604080002",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604080018",
       "first_seen_at": "2026-04-08 14:49:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604060059",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060057",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070079",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "is_current": true
+    },
+    {
+      "title": "제1회 법정스님 학술상 논문 공모",
+      "category": "학문•과학•IT",
+      "host": "(사)맑고 향기롭게",
+      "target": "대학원생",
+      "reception_period": "07.20~08.23",
+      "evaluation_period": "09.01~09.25",
+      "announcement_date": "09.28",
+      "status_day": "D-137",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604080008",
+      "first_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
@@ -159,22 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604080041",
       "first_seen_at": "2026-04-08 14:49:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
-      "is_current": true
-    },
-    {
-      "title": "제2회 대구학원연합회 전국무용경연대회",
-      "category": "음악•콩쿠르•댄스",
-      "host": "대구학원총연합회",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 일반인",
-      "reception_period": "04.15~06.10",
-      "evaluation_period": "06.14",
-      "announcement_date": "06.14",
-      "status_day": "D-63",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604060053",
-      "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604070081",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 서울영커리언스 인턴십 (여름,가을학기) 참여 기업 모집",
+      "category": "아이디어•건축•창업",
+      "host": "서울창조경제혁신센터",
+      "target": "대학생",
+      "reception_period": "04.08~04.13",
+      "evaluation_period": "04.13~04.17",
+      "announcement_date": "04.18",
+      "status_day": "D-5",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604080005",
+      "first_seen_at": "2026-04-08 16:41:40 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604070031",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 16:41:40 KST",
       "is_current": true
     },
     {
