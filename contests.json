@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-04-08 12:40:22 KST",
+  "generated_at": "2026-04-08 14:49:22 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
-    "upcoming": 4,
+    "open": 8,
+    "upcoming": 3,
     "other_current": 1,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604060036",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604020058",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604030023",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604080002",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
+      "is_current": true
+    },
+    {
+      "title": "대전형 모두의 가게 이름 공모전",
+      "category": "네이밍•슬로건",
+      "host": "밀알복지관",
+      "target": "해당자 ▶",
+      "reception_period": "04.06~04.30",
+      "evaluation_period": "05.01~05.28",
+      "announcement_date": "05.29",
+      "status_day": "D-22",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604080018",
+      "first_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604060059",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060057",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -129,37 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070079",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
-      "title": "2026 부산진구 [우리 동네 이야기] 글·그림 공모전",
-      "category": "문학•문예",
-      "host": "부산진구문학예술인협의회",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 일반인 , 해당자 ▶",
-      "reception_period": "05.04~05.15",
-      "evaluation_period": "05.18~05.28",
-      "announcement_date": "05.29",
-      "status_day": "D-37",
+      "title": "군산시 공공자전거 명칭 시민 공모전",
+      "category": "네이밍•슬로건",
+      "host": "군산시",
+      "target": "해당자 ▶",
+      "reception_period": "04.09~04.24",
+      "evaluation_period": "04.27~05.13",
+      "announcement_date": "05.14",
+      "status_day": "D-16",
       "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604020055",
-      "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 부산진구 백양산 애진봉 철쭉꽃 사진 공모전",
-      "category": "사진•영상•영화제",
-      "host": "부산진구문학예술인협의회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "05.04~05.15",
-      "evaluation_period": "05.18~05.28",
-      "announcement_date": "05.29",
-      "status_day": "D-37",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604020056",
-      "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604080041",
+      "first_seen_at": "2026-04-08 14:49:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604060053",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604070081",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604070031",
       "first_seen_at": "2026-04-08 12:40:22 KST",
-      "last_seen_at": "2026-04-08 12:40:22 KST",
+      "last_seen_at": "2026-04-08 14:49:22 KST",
       "is_current": true
     },
     {
