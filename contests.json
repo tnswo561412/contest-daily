@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 3
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-04-10 15:00:49 KST",
+  "generated_at": "2026-04-10 17:07:53 KST",
   "count": 50,
   "counts_by_status": {
     "open": 9,
@@ -39,22 +39,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604090048",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
-      "title": "뮤지컬 천년의 불꽃 김유신 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "디스뮤지컬",
-      "target": "일반인",
-      "reception_period": "04.04~04.25",
-      "evaluation_period": "04.04~04.25",
-      "announcement_date": "-",
-      "status_day": "D-15",
+      "title": "[2026 설악무산문화축전 : 제4회 설악청소년문화축전] 전국 어린이 사생대회",
+      "category": "미술•디자인•웹툰",
+      "host": "(재)설악만해사상실천선양회",
+      "target": "유치원 , 초등학생",
+      "reception_period": "03.20~04.26",
+      "evaluation_period": "05.16",
+      "announcement_date": "05.16",
+      "status_day": "D-16",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604060044",
-      "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604100031",
+      "first_seen_at": "2026-04-10 17:07:53 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
+      "is_current": true
+    },
+    {
+      "title": "[제4회 설악청소년문화축전] 전국 청소년 스트리트댄스 페스티벌",
+      "category": "음악•콩쿠르•댄스",
+      "host": "(재)설악만해사상실천선양회",
+      "target": "초등학생 , 중학생 , 고등학생",
+      "reception_period": "03.20~04.26",
+      "evaluation_period": "05.17",
+      "announcement_date": "-",
+      "status_day": "D-16",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604100035",
+      "first_seen_at": "2026-04-10 17:07:53 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604100015",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604090069",
       "first_seen_at": "2026-04-10 15:00:49 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060058",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604100002",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -129,22 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604060049",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
-      "is_current": true
-    },
-    {
-      "title": "기독교뮤지컬 <평양의 그날 우리의 그날> 남/여 배우 모집",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "하나무브먼트",
-      "target": "일반인",
-      "reception_period": "04.04~04.18",
-      "evaluation_period": "04.04~04.18",
-      "announcement_date": "-",
-      "status_day": "D-8",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604060047",
-      "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604100029",
       "first_seen_at": "2026-04-10 15:00:49 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604100004",
       "first_seen_at": "2026-04-10 15:00:49 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604090085",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604100009",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 17:07:53 KST",
       "is_current": true
     },
     {
