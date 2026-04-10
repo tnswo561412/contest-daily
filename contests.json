@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-04-10 12:48:21 KST",
+  "generated_at": "2026-04-10 15:00:49 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 8,
-    "upcoming": 0,
-    "other_current": 4,
+    "open": 9,
+    "upcoming": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604090048",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604060044",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
@@ -69,22 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604100015",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
-      "title": "제8회 한국문예협회 신인작가 문학작품 공모전",
-      "category": "문학•문예",
-      "host": "한국문예협회",
-      "target": "해당자 ▶",
-      "reception_period": "04.06~05.02",
-      "evaluation_period": "04.06~05.02",
+      "title": "2026 지역특화 첨단 디지털 콘텐츠 제작 지원사업 모집 공고",
+      "category": "학문•과학•IT",
+      "host": "전주정보문화산업진흥원",
+      "target": "고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.08~05.07",
+      "evaluation_period": "04.08~05.07",
       "announcement_date": "-",
-      "status_day": "D-22",
+      "status_day": "D-27",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604060034",
-      "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604090069",
+      "first_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060058",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604100002",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604060049",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604060047",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년도 제9회 권태응문학상 작품공모전",
+      "category": "문학•문예",
+      "host": "충주시",
+      "target": "일반인",
+      "reception_period": "04.03~06.30",
+      "evaluation_period": "07.01~08.31",
+      "announcement_date": "-",
+      "status_day": "D-81",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604100029",
+      "first_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
+      "is_current": true
+    },
+    {
+      "title": "제5회 수원특례시 청소년 정책 제안대회",
+      "category": "아이디어•건축•창업",
+      "host": "수원시청소년청년재단 수원청소년문화센터",
+      "target": "중학생 , 고등학생 , 대학생 , 해당자 ▶",
+      "reception_period": "04.27~05.27",
+      "evaluation_period": "05.28~06.02",
+      "announcement_date": "06.05",
+      "status_day": "D-47",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604100004",
+      "first_seen_at": "2026-04-10 15:00:49 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
@@ -159,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604090085",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
@@ -174,37 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604100009",
       "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
-      "is_current": true
-    },
-    {
-      "title": "​​2027-28 뮤지컬 <스쿨오브락> 최초 한국어 공연 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "에스앤코㈜",
-      "target": "해당자 ▶",
-      "reception_period": "04.05~04.15",
-      "evaluation_period": "04.05~04.15",
-      "announcement_date": "-",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604060043",
-      "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 성주 영라이트 페스타",
-      "category": "음악•콩쿠르•댄스",
-      "host": "성주군축제추진위원회",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생",
-      "reception_period": "03.30~04.03",
-      "evaluation_period": "05.16",
-      "announcement_date": "05.16",
-      "status_day": "",
-      "status_text": "심사대기",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604060039",
-      "first_seen_at": "2026-04-10 12:48:21 KST",
-      "last_seen_at": "2026-04-10 12:48:21 KST",
+      "last_seen_at": "2026-04-10 15:00:49 KST",
       "is_current": true
     },
     {
