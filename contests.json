@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 3
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-04-13 15:01:08 KST",
+  "generated_at": "2026-04-13 17:29:18 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 1,
+    "open": 11,
+    "upcoming": 0,
     "other_current": 1,
     "archived": 38
   },
   "items": [
+    {
+      "title": "2026 부산 스텝업 댄스 페스티벌 참가자 모집",
+      "category": "음악•콩쿠르•댄스",
+      "host": "부산광역시/부산일보/(사)청년문화진흥협회",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "03.19~04.24",
+      "evaluation_period": "04.25~05.10",
+      "announcement_date": "-",
+      "status_day": "D-11",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604130061",
+      "first_seen_at": "2026-04-13 17:29:18 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
+      "is_current": true
+    },
     {
       "title": "2026년 충남관광 사진·영상 공모전",
       "category": "사진•영상•영화제",
@@ -39,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604130002",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604130044",
       "first_seen_at": "2026-04-13 15:01:08 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604130010",
       "first_seen_at": "2026-04-13 15:01:08 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604070059",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604110001",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604130013",
       "first_seen_at": "2026-04-13 15:01:08 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604130003",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070061",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604070064",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604070055",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
-      "is_current": true
-    },
-    {
-      "title": "제5회 아름다운 동해시사진 전국공모전",
-      "category": "사진•영상•영화제",
-      "host": "동해예총",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.03~08.08",
-      "evaluation_period": "08.10~08.18",
-      "announcement_date": "08.18",
-      "status_day": "D-117",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070049",
-      "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604070051",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 17:29:18 KST",
       "is_current": true
     },
     {
