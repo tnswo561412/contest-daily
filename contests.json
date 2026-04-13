@@ -16,47 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-04-13 12:24:14 KST",
+  "generated_at": "2026-04-13 15:01:08 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
+    "open": 10,
     "upcoming": 1,
-    "other_current": 2,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
-    {
-      "title": "2026년 톡톡(talk)한 아이디어 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "광양시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.06~04.24",
-      "evaluation_period": "04.06~04.24",
-      "announcement_date": "-",
-      "status_day": "D-11",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060117",
-      "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 농산물가공 제품개발 아이디어 공모",
-      "category": "아이디어•건축•창업",
-      "host": "고양시",
-      "target": "해당자 ▶",
-      "reception_period": "04.06~04.30",
-      "evaluation_period": "04.06~04.30",
-      "announcement_date": "-",
-      "status_day": "D-17",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604060114",
-      "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
-      "is_current": true
-    },
     {
       "title": "2026년 충남관광 사진·영상 공모전",
       "category": "사진•영상•영화제",
@@ -69,7 +39,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604130002",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 마인드 마라톤",
+      "category": "스포츠",
+      "host": "한국수력원자력, 더버터",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.09~05.08",
+      "evaluation_period": "04.09~05.08",
+      "announcement_date": "-",
+      "status_day": "D-25",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604130044",
+      "first_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 올릭스 IP 크리에이터톤",
+      "category": "아이디어•건축•창업",
+      "host": "(주)삼우이머션",
+      "target": "초등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.13~05.10",
+      "evaluation_period": "05.11~05.15",
+      "announcement_date": "-",
+      "status_day": "D-27",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604130010",
+      "first_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604070059",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604110001",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
+      "is_current": true
+    },
+    {
+      "title": "제3회 법정스님과 함께하는 땅끝해남 에세이 공모전",
+      "category": "문학•문예",
+      "host": "도서출판 북산",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.10~06.10",
+      "evaluation_period": "06.11~06.30",
+      "announcement_date": "06.30",
+      "status_day": "D-58",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604130013",
+      "first_seen_at": "2026-04-13 15:01:08 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604130003",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070061",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604070064",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604070055",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070049",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 윤리경영 콘텐츠 윤리이모티콘 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "한국전기안전공사",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.02~04.17",
-      "evaluation_period": "04.02~04.17",
-      "announcement_date": "-",
-      "status_day": "D-4",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604060115",
-      "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604070051",
       "first_seen_at": "2026-04-13 12:24:14 KST",
-      "last_seen_at": "2026-04-13 12:24:14 KST",
+      "last_seen_at": "2026-04-13 15:01:08 KST",
       "is_current": true
     },
     {
