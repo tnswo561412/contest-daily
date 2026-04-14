@@ -18,7 +18,7 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 1
   },
-  "generated_at": "2026-04-14 18:04:12 KST",
+  "generated_at": "2026-04-14 19:46:56 KST",
   "count": 50,
   "counts_by_status": {
     "open": 8,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604080035",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -54,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604130048",
       "first_seen_at": "2026-04-14 14:29:41 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
-      "is_current": true
-    },
-    {
-      "title": "제22회 제천국제음악영화제 출품 공모",
-      "category": "사진•영상•영화제",
-      "host": "제천국제음악영화제",
-      "target": "일반인",
-      "reception_period": "04.01~04.30",
-      "evaluation_period": "05.01~08.28",
-      "announcement_date": "08.31",
-      "status_day": "D-16",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604070083",
-      "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604080038",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604140002",
       "first_seen_at": "2026-04-14 16:09:08 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604140005",
       "first_seen_at": "2026-04-14 14:29:41 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604140006",
       "first_seen_at": "2026-04-14 18:04:12 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604080039",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
+      "is_current": true
+    },
+    {
+      "title": "「가치그린(Green) 우리 대전」 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "대전사회혁신센터",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "04.01~04.22",
+      "evaluation_period": "04.24",
+      "announcement_date": "04.27",
+      "status_day": "D-8",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604140035",
+      "first_seen_at": "2026-04-14 19:46:56 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604140026",
       "first_seen_at": "2026-04-14 14:29:41 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604080029",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604070084",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604080034",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 18:04:12 KST",
+      "last_seen_at": "2026-04-14 19:46:56 KST",
       "is_current": true
     },
     {
