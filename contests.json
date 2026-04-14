@@ -18,30 +18,15 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 0
   },
-  "generated_at": "2026-04-14 23:06:12 KST",
+  "generated_at": "2026-04-15 00:50:34 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 8,
+    "open": 7,
     "upcoming": 3,
-    "other_current": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
-    {
-      "title": "2026년 달성군 정책제안 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "달성군",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.06~04.24",
-      "evaluation_period": "04.27~06.29",
-      "announcement_date": "06.30",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604080035",
-      "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
-      "is_current": true
-    },
     {
       "title": "2026 한-인도 AI 영상 및 에세이 공모전",
       "category": "사진•영상•영화제",
@@ -50,11 +35,11 @@
       "reception_period": "04.10~04.30",
       "evaluation_period": "05.01~05.11",
       "announcement_date": "05.13",
-      "status_day": "D-16",
+      "status_day": "D-15",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604130048",
       "first_seen_at": "2026-04-14 14:29:41 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -65,11 +50,11 @@
       "reception_period": "04.08~05.03",
       "evaluation_period": "05.04~06.19",
       "announcement_date": "06.22",
-      "status_day": "D-19",
+      "status_day": "D-18",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604080038",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -80,11 +65,11 @@
       "reception_period": "04.14~05.05",
       "evaluation_period": "05.06~05.14",
       "announcement_date": "05.15",
-      "status_day": "D-21",
+      "status_day": "D-20",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604140002",
       "first_seen_at": "2026-04-14 16:09:08 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -95,11 +80,11 @@
       "reception_period": "04.06~05.17",
       "evaluation_period": "05.17~12.31",
       "announcement_date": "-",
-      "status_day": "D-33",
+      "status_day": "D-32",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604140005",
       "first_seen_at": "2026-04-14 14:29:41 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -110,11 +95,11 @@
       "reception_period": "04.13~05.18",
       "evaluation_period": "05.19~06.03",
       "announcement_date": "06.05",
-      "status_day": "D-34",
+      "status_day": "D-33",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604140006",
       "first_seen_at": "2026-04-14 18:04:12 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -125,26 +110,26 @@
       "reception_period": "04.01~06.14",
       "evaluation_period": "04.01~06.14",
       "announcement_date": "-",
-      "status_day": "D-61",
+      "status_day": "D-60",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604080039",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
-      "title": "「가치그린(Green) 우리 대전」 공모전",
+      "title": "2026년 달성군 정책제안 공모전",
       "category": "아이디어•건축•창업",
-      "host": "대전사회혁신센터",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "04.01~04.22",
-      "evaluation_period": "04.24",
-      "announcement_date": "04.27",
-      "status_day": "D-8",
+      "host": "달성군",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.06~04.24",
+      "evaluation_period": "04.27~06.29",
+      "announcement_date": "06.30",
+      "status_day": "D-9",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604140035",
-      "first_seen_at": "2026-04-14 19:46:56 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604080035",
+      "first_seen_at": "2026-04-14 11:56:00 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -155,11 +140,11 @@
       "reception_period": "04.27~04.30",
       "evaluation_period": "05.01~06.29",
       "announcement_date": "06.30",
-      "status_day": "D-16",
+      "status_day": "D-15",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604140026",
       "first_seen_at": "2026-04-14 14:29:41 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -170,11 +155,11 @@
       "reception_period": "05.01~06.05",
       "evaluation_period": "06.13",
       "announcement_date": "-",
-      "status_day": "D-52",
+      "status_day": "D-51",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604080029",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -185,11 +170,11 @@
       "reception_period": "05.12~06.05",
       "evaluation_period": "06.08~06.24",
       "announcement_date": "06.25",
-      "status_day": "D-52",
+      "status_day": "D-51",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604070084",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
@@ -200,11 +185,26 @@
       "reception_period": "04.06~04.17",
       "evaluation_period": "04.20~06.29",
       "announcement_date": "06.30",
-      "status_day": "D-3",
+      "status_day": "D-2",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604080034",
       "first_seen_at": "2026-04-14 11:56:00 KST",
-      "last_seen_at": "2026-04-14 23:06:12 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
+      "is_current": true
+    },
+    {
+      "title": "「가치그린(Green) 우리 대전」 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "대전사회혁신센터",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "04.01~04.22",
+      "evaluation_period": "04.24",
+      "announcement_date": "04.27",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604140035",
+      "first_seen_at": "2026-04-14 19:46:56 KST",
+      "last_seen_at": "2026-04-15 00:50:34 KST",
       "is_current": true
     },
     {
