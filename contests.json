@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 11
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-04-15 12:48:41 KST",
+  "generated_at": "2026-04-15 15:02:41 KST",
   "count": 50,
   "counts_by_status": {
     "open": 9,
-    "upcoming": 1,
-    "other_current": 2,
+    "upcoming": 2,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -39,22 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604140055",
       "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 새만금 보리밭 축제 제4회 보리밭 어린이 사생대회",
-      "category": "미술•디자인•웹툰",
-      "host": "진봉면지역발전협의회",
-      "target": "초등학생",
-      "reception_period": "04.08~04.30",
-      "evaluation_period": "05.01",
-      "announcement_date": "-",
-      "status_day": "D-15",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604090017",
-      "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604140060",
       "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
       "is_current": true
     },
     {
@@ -84,22 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604090030",
       "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
-      "is_current": true
-    },
-    {
-      "title": "A2O ZALPHA AUDITION",
-      "category": "음악•콩쿠르•댄스",
-      "host": "A2O 엔터테인먼트 코리아",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.01~12.31",
-      "evaluation_period": "04.01~12.31",
-      "announcement_date": "-",
-      "status_day": "D-260",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604090021",
-      "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
       "is_current": true
     },
     {
@@ -114,7 +84,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604140006",
       "first_seen_at": "2026-04-14 18:04:12 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
+      "is_current": true
+    },
+    {
+      "title": "제31회 대덕백일장",
+      "category": "문학•문예",
+      "host": "대전광역시 대덕구",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.10~05.23",
+      "evaluation_period": "05.26~06.04",
+      "announcement_date": "06.08",
+      "status_day": "D-38",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604150003",
+      "first_seen_at": "2026-04-15 15:02:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 아름다운 우리말 이름 가게 찾기 공모전",
+      "category": "네이밍•슬로건",
+      "host": "동아대학교 국어문화원",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.13~05.31",
+      "evaluation_period": "06.01~06.04",
+      "announcement_date": "06.05",
+      "status_day": "D-46",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604150026",
+      "first_seen_at": "2026-04-15 15:02:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
       "is_current": true
     },
     {
@@ -129,22 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604140054",
       "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
-      "is_current": true
-    },
-    {
-      "title": "2027-28 뮤지컬 <웨이트리스> 최초 한국어 공연 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "에스앤코㈜",
-      "target": "해당자 ▶",
-      "reception_period": "04.09~04.23",
-      "evaluation_period": "04.24~06.29",
-      "announcement_date": "06.30",
-      "status_day": "D-8",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604090023",
-      "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604090038",
       "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
+      "is_current": true
+    },
+    {
+      "title": "청춘예찬 영화제",
+      "category": "사진•영상•영화제",
+      "host": "병무청",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.09~07.17",
+      "evaluation_period": "07.17~08.31",
+      "announcement_date": "08.31",
+      "status_day": "D-93",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604150006",
+      "first_seen_at": "2026-04-15 15:02:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604090032",
       "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
+      "is_current": true
+    },
+    {
+      "title": "아시아예술인재국제그랑프리 한국 경연 대회",
+      "category": "음악•콩쿠르•댄스",
+      "host": "아시아예술인재국제그랑프리 한국지부, 사)러브락",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생",
+      "reception_period": "04.20~05.16",
+      "evaluation_period": "05.18~05.28",
+      "announcement_date": "05.29",
+      "status_day": "D-31",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604150013",
+      "first_seen_at": "2026-04-15 15:02:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604140050",
       "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 국립정동극장 세실 창작ing 뮤지컬 <돌쇠전> 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "국립정동극장",
-      "target": "해당자 ▶",
-      "reception_period": "04.08~04.18",
-      "evaluation_period": "04.08~04.18",
-      "announcement_date": "-",
-      "status_day": "D-3",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604090027",
-      "first_seen_at": "2026-04-15 12:48:41 KST",
-      "last_seen_at": "2026-04-15 12:48:41 KST",
+      "last_seen_at": "2026-04-15 15:02:41 KST",
       "is_current": true
     },
     {
