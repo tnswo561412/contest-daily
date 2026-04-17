@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 6
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-04-17 14:33:53 KST",
+  "generated_at": "2026-04-17 16:55:42 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 3,
+    "open": 10,
+    "upcoming": 2,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202603160016",
       "first_seen_at": "2026-04-17 14:33:53 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604170014",
       "first_seen_at": "2026-04-17 14:33:53 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604170027",
       "first_seen_at": "2026-04-17 14:33:53 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604160005",
       "first_seen_at": "2026-04-17 11:56:25 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 전 국민 감사 캠페인 마음을 전하는 글판 문안 공모",
+      "category": "네이밍•슬로건",
+      "host": "교보교육재단",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.14~05.06",
+      "evaluation_period": "05.07~05.31",
+      "announcement_date": "-",
+      "status_day": "D-19",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604170059",
+      "first_seen_at": "2026-04-17 16:55:42 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604160042",
       "first_seen_at": "2026-04-17 11:56:25 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "담양을 위한 따뜻한 제안, 고향사랑기금사업 아이디어 공모",
+      "category": "아이디어•건축•창업",
+      "host": "담양군",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.13~05.08",
+      "evaluation_period": "05.25~06.30",
+      "announcement_date": "07.31",
+      "status_day": "D-21",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604170004",
+      "first_seen_at": "2026-04-17 16:55:42 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -114,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604170005",
       "first_seen_at": "2026-04-17 14:33:53 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -129,22 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604150076",
       "first_seen_at": "2026-04-17 14:33:53 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 전국 대학생 UAM 올림피아드",
-      "category": "학문•과학•IT",
-      "host": "국토교통부, 한국교통안전공단",
-      "target": "대학생 , 대학원생",
-      "reception_period": "04.10~05.31",
-      "evaluation_period": "06.01~06.30",
-      "announcement_date": "-",
-      "status_day": "D-44",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604160002",
-      "first_seen_at": "2026-04-17 11:56:25 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604170033",
       "first_seen_at": "2026-04-17 14:33:53 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604160033",
       "first_seen_at": "2026-04-17 11:56:25 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
-      "is_current": true
-    },
-    {
-      "title": "YouthCanvas 청소년 예술·문학 공모전",
-      "category": "문학•문예",
-      "host": "NovaCanvas",
-      "target": "중학생 , 고등학생",
-      "reception_period": "05.01~05.31",
-      "evaluation_period": "06.01~06.30",
-      "announcement_date": "07.01",
-      "status_day": "D-44",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604160081",
-      "first_seen_at": "2026-04-17 11:56:25 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604160041",
       "first_seen_at": "2026-04-17 11:56:25 KST",
-      "last_seen_at": "2026-04-17 14:33:53 KST",
+      "last_seen_at": "2026-04-17 16:55:42 KST",
       "is_current": true
     },
     {
