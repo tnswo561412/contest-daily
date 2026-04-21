@@ -18,11 +18,11 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 2
   },
-  "generated_at": "2026-04-21 17:18:01 KST",
+  "generated_at": "2026-04-21 19:02:22 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
-    "upcoming": 5,
+    "open": 8,
+    "upcoming": 4,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604160035",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604200091",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604200063",
       "first_seen_at": "2026-04-21 17:18:01 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604200074",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604200011",
       "first_seen_at": "2026-04-21 15:05:06 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -114,22 +114,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604200009",
       "first_seen_at": "2026-04-21 15:05:06 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
-      "title": "제7회 대전광역시(NEW ARTIST) 전국음악콩쿠르",
+      "title": "2026년 한국영재클래식피아노콩쿠르 (6월)",
       "category": "음악•콩쿠르•댄스",
-      "host": "(주)엠엔아이컬쳐",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 일반인",
-      "reception_period": "04.03~06.07",
-      "evaluation_period": "06.13",
-      "announcement_date": "06.13",
-      "status_day": "D-47",
+      "host": "한국예능교육사",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 일반인",
+      "reception_period": "04.21~06.01",
+      "evaluation_period": "04.21~06.01",
+      "announcement_date": "-",
+      "status_day": "D-41",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604160022",
-      "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604210008",
+      "first_seen_at": "2026-04-21 19:02:22 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 지식재산 데이터 활용 창업 경진대회",
+      "category": "아이디어•건축•창업",
+      "host": "지식재산처",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.20~06.11",
+      "evaluation_period": "06.12~07.23",
+      "announcement_date": "-",
+      "status_day": "D-51",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604210004",
+      "first_seen_at": "2026-04-21 19:02:22 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604160031",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202602110059",
       "first_seen_at": "2026-04-21 15:05:06 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604210012",
       "first_seen_at": "2026-04-21 15:05:06 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604210001",
       "first_seen_at": "2026-04-21 17:18:01 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 제4회 전국 뮤지컬 콩쿠르",
-      "category": "음악•콩쿠르•댄스",
-      "host": "한국공연문화예술협회",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 일반인",
-      "reception_period": "05.13~06.12",
-      "evaluation_period": "06.13",
-      "announcement_date": "06.13",
-      "status_day": "D-52",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604160023",
-      "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 19:02:22 KST",
       "is_current": true
     },
     {
