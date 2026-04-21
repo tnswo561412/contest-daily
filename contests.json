@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 4
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-04-21 15:05:06 KST",
+  "generated_at": "2026-04-21 17:18:01 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604160035",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604200091",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
+      "is_current": true
+    },
+    {
+      "title": "평화·통일·민주시민교육 기구 명칭 공모전",
+      "category": "네이밍•슬로건",
+      "host": "통일부 국립평화통일민주교육원",
+      "target": "중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "04.20~05.19",
+      "evaluation_period": "04.20~05.19",
+      "announcement_date": "-",
+      "status_day": "D-28",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604200063",
+      "first_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604200074",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604200011",
       "first_seen_at": "2026-04-21 15:05:06 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -99,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604200009",
       "first_seen_at": "2026-04-21 15:05:06 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
-      "is_current": true
-    },
-    {
-      "title": "티에스 전국 신인 음악 콩쿠르(청주)",
-      "category": "음악•콩쿠르•댄스",
-      "host": "티에스 뮤직 컴퍼니",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 일반인",
-      "reception_period": "04.20~06.01",
-      "evaluation_period": "06.06",
-      "announcement_date": "06.06",
-      "status_day": "D-41",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604160021",
-      "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604160022",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604160031",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202602110059",
       "first_seen_at": "2026-04-21 15:05:06 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -174,22 +174,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604210012",
       "first_seen_at": "2026-04-21 15:05:06 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
-      "title": "포항예술고등학교 제28회 전국중학생 미술실기대회",
-      "category": "미술•디자인•웹툰",
-      "host": "포항예술고등학교, 포항CBS",
-      "target": "중학생",
-      "reception_period": "04.27~05.27",
-      "evaluation_period": "05.30",
-      "announcement_date": "05.30",
-      "status_day": "D-36",
+      "title": "제45회 복사골 백일장 사생(그림) 공모전",
+      "category": "문학•문예",
+      "host": "부천시, 부천문화원",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.01~05.26",
+      "evaluation_period": "06.01~06.03",
+      "announcement_date": "06.04",
+      "status_day": "D-35",
       "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604160017",
-      "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604210001",
+      "first_seen_at": "2026-04-21 17:18:01 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604160023",
       "first_seen_at": "2026-04-21 12:52:18 KST",
-      "last_seen_at": "2026-04-21 15:05:06 KST",
+      "last_seen_at": "2026-04-21 17:18:01 KST",
       "is_current": true
     },
     {
