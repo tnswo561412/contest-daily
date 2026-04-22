@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 2
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-04-22 16:56:46 KST",
+  "generated_at": "2026-04-22 18:44:42 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 2,
+    "open": 9,
+    "upcoming": 3,
     "other_current": 0,
     "archived": 38
   },
   "items": [
-    {
-      "title": "제5회 보훈학술논문공모전",
-      "category": "학문•과학•IT",
-      "host": "보훈교육연구원",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.21~08.28",
-      "evaluation_period": "08.31~11.05",
-      "announcement_date": "11.06",
-      "status_day": "D-128",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604170012",
-      "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
-      "is_current": true
-    },
     {
       "title": "제1회 서울 플레이엄 AI 게임 챌린지",
       "category": "학문•과학•IT",
@@ -54,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604170022",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604170021",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604170026",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604170015",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604220001",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604220008",
       "first_seen_at": "2026-04-22 16:56:46 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604150047",
       "first_seen_at": "2026-04-22 14:31:16 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604190007",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604220002",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604220009",
       "first_seen_at": "2026-04-22 16:56:46 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년도 국회의장배 청년 토론대회",
+      "category": "학문•과학•IT",
+      "host": "대한민국 국회",
+      "target": "대학생",
+      "reception_period": "05.18~06.08",
+      "evaluation_period": "06.09~06.16",
+      "announcement_date": "06.16",
+      "status_day": "D-47",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604220041",
+      "first_seen_at": "2026-04-22 18:44:42 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604170020",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-22 16:56:46 KST",
+      "last_seen_at": "2026-04-22 18:44:42 KST",
       "is_current": true
     },
     {
