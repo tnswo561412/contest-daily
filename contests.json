@@ -18,58 +18,28 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 3
   },
-  "generated_at": "2026-04-23 12:18:17 KST",
+  "generated_at": "2026-04-23 14:42:29 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 2,
-    "other_current": 1,
+    "open": 7,
+    "upcoming": 3,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
     {
-      "title": "제1회 서울 플레이엄 AI 게임 챌린지",
-      "category": "학문•과학•IT",
-      "host": "서울시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.10~05.07",
-      "evaluation_period": "05.08~09.17",
-      "announcement_date": "09.18",
-      "status_day": "D-14",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604170022",
-      "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 한국 시사만화 탄생 117주년 ‘이도영 시사만화상’ 공모",
-      "category": "미술•디자인•웹툰",
-      "host": "전국시사만화협회",
-      "target": "해당자 ▶",
-      "reception_period": "04.20~05.10",
-      "evaluation_period": "04.20~05.10",
+      "title": "롯데 키즈 오케스트라 2026 단원 모집",
+      "category": "음악•콩쿠르•댄스",
+      "host": "롯데백화점",
+      "target": "초등학생 , 중학생",
+      "reception_period": "04.17~05.11",
+      "evaluation_period": "05.23~05.24",
       "announcement_date": "-",
-      "status_day": "D-17",
+      "status_day": "D-18",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604170026",
-      "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
-      "is_current": true
-    },
-    {
-      "title": "MY KPOP STAR",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "뉴스핌",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.13~05.12",
-      "evaluation_period": "05.13",
-      "announcement_date": "-",
-      "status_day": "D-19",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604220001",
-      "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604210011",
+      "first_seen_at": "2026-04-23 14:42:29 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -84,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604220050",
       "first_seen_at": "2026-04-23 12:18:17 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -99,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604230008",
       "first_seen_at": "2026-04-23 12:18:17 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -114,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604220008",
       "first_seen_at": "2026-04-22 16:56:46 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -129,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604220029",
       "first_seen_at": "2026-04-23 12:18:17 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -144,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604150047",
       "first_seen_at": "2026-04-22 14:31:16 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -159,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604190007",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -174,7 +144,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604220009",
       "first_seen_at": "2026-04-22 16:56:46 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
+      "is_current": true
+    },
+    {
+      "title": "제18회 황토골 무안 전국요리 경연대회 참가자 모집",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "무안군",
+      "target": "중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "05.18~06.07",
+      "evaluation_period": "06.27",
+      "announcement_date": "06.11",
+      "status_day": "D-45",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604160036",
+      "first_seen_at": "2026-04-23 14:42:29 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604220041",
       "first_seen_at": "2026-04-22 18:44:42 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604220002",
       "first_seen_at": "2026-04-22 11:56:09 KST",
-      "last_seen_at": "2026-04-23 12:18:17 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
+      "is_current": true
+    },
+    {
+      "title": "남해 250K : RUN TO SEA",
+      "category": "스포츠",
+      "host": "주식회사 팜프라",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "04.06~04.30",
+      "evaluation_period": "06.06",
+      "announcement_date": "-",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604170048",
+      "first_seen_at": "2026-04-23 14:42:29 KST",
+      "last_seen_at": "2026-04-23 14:42:29 KST",
       "is_current": true
     },
     {
