@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 9
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-04-23 17:02:29 KST",
+  "generated_at": "2026-04-23 19:09:37 KST",
   "count": 50,
   "counts_by_status": {
     "open": 8,
@@ -39,7 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604230011",
       "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
+      "is_current": true
+    },
+    {
+      "title": "[한국관광공사] 대국민 K-관광 ‘여행의 한 수!’",
+      "category": "아이디어•건축•창업",
+      "host": "문화체육관광부",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "04.22~05.12",
+      "evaluation_period": "05.13~05.31",
+      "announcement_date": "-",
+      "status_day": "D-19",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604220050",
+      "first_seen_at": "2026-04-23 19:09:37 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604220044",
       "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604230008",
       "first_seen_at": "2026-04-23 12:18:17 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -84,22 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604230007",
       "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
-      "is_current": true
-    },
-    {
-      "title": "제7회 전국 문해력 대상",
-      "category": "문학•문예",
-      "host": "(재)한국교육문화재단",
-      "target": "초등학생 , 중학생 , 고등학생",
-      "reception_period": "04.03~05.22",
-      "evaluation_period": "05.30~06.06",
-      "announcement_date": "-",
-      "status_day": "D-29",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604230016",
-      "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604230026",
       "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604230010",
       "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604230046",
       "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604230003",
       "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604160036",
       "first_seen_at": "2026-04-23 14:42:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604230002",
       "first_seen_at": "2026-04-23 17:02:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604170048",
       "first_seen_at": "2026-04-23 14:42:29 KST",
-      "last_seen_at": "2026-04-23 17:02:29 KST",
+      "last_seen_at": "2026-04-23 19:09:37 KST",
       "is_current": true
     },
     {
