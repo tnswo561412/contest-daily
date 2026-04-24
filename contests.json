@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-04-24 12:20:17 KST",
+  "generated_at": "2026-04-24 14:55:00 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
+    "open": 8,
     "upcoming": 2,
-    "other_current": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202603190035",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -54,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604230070",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 박정희대통령 기념 공모전",
-      "category": "사진•영상•영화제",
-      "host": "구미시, (사)박정희대통령생가보존회, 바겆ㅇ희대통령기념재단",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.20~09.30",
-      "evaluation_period": "10.01~10.29",
-      "announcement_date": "10.30",
-      "status_day": "D-159",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604200055",
-      "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604230069",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604230062",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603190031",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603170013",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604200062",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604230066",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -174,22 +159,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604200060",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
-      "title": "2026 제1회 경기도어린이박물관 창작 그림책 공모",
-      "category": "문학•문예",
-      "host": "경기도어린이박물관",
+      "title": "대교 50주년 사진 공모전 - 당신을 배웁니다",
+      "category": "사진•영상•영화제",
+      "host": "(주)대교",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "05.04~06.05",
-      "evaluation_period": "06.08~07.10",
-      "announcement_date": "07.13",
-      "status_day": "D-42",
+      "reception_period": "04.27~06.30",
+      "evaluation_period": "04.27~06.30",
+      "announcement_date": "-",
+      "status_day": "D-67",
       "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604200046",
-      "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604170072",
+      "first_seen_at": "2026-04-24 14:55:00 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604200065",
       "first_seen_at": "2026-04-24 12:20:17 KST",
-      "last_seen_at": "2026-04-24 12:20:17 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 장애인학대 예방의 날 첫 시행기념 '학대예방의 날 슬로건 공모전'",
+      "category": "네이밍•슬로건",
+      "host": "경기남부장애인권익옹호기관",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.13~04.30",
+      "evaluation_period": "05.01~05.15",
+      "announcement_date": "05.22",
+      "status_day": "D-6",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604200081",
+      "first_seen_at": "2026-04-24 14:55:00 KST",
+      "last_seen_at": "2026-04-24 14:55:00 KST",
       "is_current": true
     },
     {
