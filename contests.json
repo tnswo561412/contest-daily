@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 6
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-04-27 18:38:41 KST",
+  "generated_at": "2026-04-27 20:47:19 KST",
   "count": 50,
   "counts_by_status": {
     "open": 8,
@@ -27,21 +27,6 @@
     "archived": 38
   },
   "items": [
-    {
-      "title": "시골'S런 - 양주 꿀런",
-      "category": "스포츠",
-      "host": "스파인더",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.02~05.08",
-      "evaluation_period": "05.16",
-      "announcement_date": "05.16",
-      "status_day": "D-11",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604210017",
-      "first_seen_at": "2026-04-27 13:08:05 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
-      "is_current": true
-    },
     {
       "title": "2026 라이브음악극 <안녕!B612:어린왕자> 멀티배우(남,녀) 오디션",
       "category": "요리•뷰티•배우•오디션",
@@ -54,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604210019",
       "first_seen_at": "2026-04-27 13:08:05 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604200096",
       "first_seen_at": "2026-04-27 13:08:05 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604270042",
       "first_seen_at": "2026-04-27 18:38:41 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604270054",
       "first_seen_at": "2026-04-27 18:38:41 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202604010036",
       "first_seen_at": "2026-04-27 18:38:41 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 제4회 대전부르스 창작가요제",
+      "category": "음악•콩쿠르•댄스",
+      "host": "대전광역시, 대전정보문화산업진흥원",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.27~06.30",
+      "evaluation_period": "07.01~07.31",
+      "announcement_date": "-",
+      "status_day": "D-64",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604270085",
+      "first_seen_at": "2026-04-27 20:47:19 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604270011",
       "first_seen_at": "2026-04-27 18:38:41 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604210023",
       "first_seen_at": "2026-04-27 13:08:05 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604200098",
       "first_seen_at": "2026-04-27 13:08:05 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604270006",
       "first_seen_at": "2026-04-27 18:38:41 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604270010",
       "first_seen_at": "2026-04-27 18:38:41 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604270056",
       "first_seen_at": "2026-04-27 16:15:53 KST",
-      "last_seen_at": "2026-04-27 18:38:41 KST",
+      "last_seen_at": "2026-04-27 20:47:19 KST",
       "is_current": true
     },
     {
