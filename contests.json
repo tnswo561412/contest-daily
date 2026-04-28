@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-04-29 07:02:33 KST",
+  "generated_at": "2026-04-29 08:29:14 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 6,
-    "upcoming": 2,
-    "other_current": 4,
+    "open": 8,
+    "upcoming": 3,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
+    {
+      "title": "대방청소년센터 3x3 청소년 농구대회",
+      "category": "스포츠",
+      "host": "대방청소년센터",
+      "target": "중학생",
+      "reception_period": "04.24~05.09",
+      "evaluation_period": "05.10~05.15",
+      "announcement_date": "-",
+      "status_day": "D-10",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202604240040",
+      "first_seen_at": "2026-04-29 08:29:14 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
+      "is_current": true
+    },
     {
       "title": "2026 안산 스타트업 청년창업 경진대회",
       "category": "학문•과학•IT",
@@ -39,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604270082",
       "first_seen_at": "2026-04-28 10:16:37 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604200066",
       "first_seen_at": "2026-04-28 13:58:37 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604280009",
       "first_seen_at": "2026-04-28 16:36:39 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
+      "is_current": true
+    },
+    {
+      "title": "아이누리 자연스럽게 먹자! 지구도 건강하게! 그림 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "아이누리, CJ프레시웨이",
+      "target": "해당자 ▶",
+      "reception_period": "04.27~06.19",
+      "evaluation_period": "06.20~07.07",
+      "announcement_date": "-",
+      "status_day": "D-51",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604270076",
+      "first_seen_at": "2026-04-29 08:29:14 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
@@ -84,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604270080",
       "first_seen_at": "2026-04-28 10:16:37 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
@@ -99,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604270030",
       "first_seen_at": "2026-04-28 10:16:37 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
@@ -114,7 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604220061",
       "first_seen_at": "2026-04-28 10:16:37 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
+      "is_current": true
+    },
+    {
+      "title": "제32회 전국한지공예대전",
+      "category": "미술•디자인•웹툰",
+      "host": "전주시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.04~09.06",
+      "evaluation_period": "09.16",
+      "announcement_date": "09.16",
+      "status_day": "D-130",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604280003",
+      "first_seen_at": "2026-04-29 08:29:14 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
@@ -129,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604210036",
       "first_seen_at": "2026-04-28 13:58:37 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
@@ -144,37 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604280064",
       "first_seen_at": "2026-04-28 19:19:53 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 오직봄툰 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "봄툰",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "03.11~04.30",
-      "evaluation_period": "05.01~05.19",
-      "announcement_date": "05.20",
-      "status_day": "D-1",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603310014",
-      "first_seen_at": "2026-04-28 16:36:39 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
-      "is_current": true
-    },
-    {
-      "title": "[메트로 아카이브: 가족] 사진 공모전",
-      "category": "사진•영상•영화제",
-      "host": "부산교통공사",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.20~05.03",
-      "evaluation_period": "05.04~05.14",
-      "announcement_date": "05.15",
-      "status_day": "D-4",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604220015",
-      "first_seen_at": "2026-04-28 13:58:37 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604280010",
       "first_seen_at": "2026-04-28 16:36:39 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 뉴미디어랩 창작기관 공모",
-      "category": "The 다양한 분야",
-      "host": "MBC C&I",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "04.21~05.06",
-      "evaluation_period": "05.07~05.22",
-      "announcement_date": "05.25",
-      "status_day": "D-7",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202604210063",
-      "first_seen_at": "2026-04-28 13:58:37 KST",
-      "last_seen_at": "2026-04-29 07:02:33 KST",
+      "last_seen_at": "2026-04-29 08:29:14 KST",
       "is_current": true
     },
     {
