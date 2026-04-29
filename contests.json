@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 8
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-04-29 10:18:44 KST",
+  "generated_at": "2026-04-29 13:55:08 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 6,
-    "upcoming": 2,
-    "other_current": 4,
+    "open": 8,
+    "upcoming": 1,
+    "other_current": 3,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604020023",
       "first_seen_at": "2026-04-29 10:18:44 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
+      "is_current": true
+    },
+    {
+      "title": "대한변리사회 창립 80주년 기념 슬로건 공모전",
+      "category": "네이밍•슬로건",
+      "host": "대한변리사회",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "04.27~05.10",
+      "evaluation_period": "05.12~05.13",
+      "announcement_date": "05.14",
+      "status_day": "D-11",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604290021",
+      "first_seen_at": "2026-04-29 13:55:08 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
@@ -54,22 +69,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603240016",
       "first_seen_at": "2026-04-29 10:18:44 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
-      "title": "2026 강릉단오제 영산홍 챌린지",
+      "title": "예천,‘폼’미쳤다! 2026 예천홍보 영상·숏폼 공모전",
       "category": "사진•영상•영화제",
-      "host": "(사)강릉단오제위원회",
+      "host": "예천군",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.28~05.25",
-      "evaluation_period": "05.27",
-      "announcement_date": "05.29",
-      "status_day": "D-26",
+      "reception_period": "04.20~11.13",
+      "evaluation_period": "11.13~11.30",
+      "announcement_date": "12.04",
+      "status_day": "D-198",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604280009",
-      "first_seen_at": "2026-04-28 16:36:39 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604290005",
+      "first_seen_at": "2026-04-29 13:55:08 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
+      "is_current": true
+    },
+    {
+      "title": "대한민국 문화도시 전주, 전통문화기반 아트앤테크 프로젝트 공모",
+      "category": "아이디어•건축•창업",
+      "host": "전주시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.23~05.21",
+      "evaluation_period": "05.25~06.18",
+      "announcement_date": "-",
+      "status_day": "D-22",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604280021",
+      "first_seen_at": "2026-04-29 13:55:08 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
@@ -84,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604010038",
       "first_seen_at": "2026-04-29 10:18:44 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
@@ -99,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604010066",
       "first_seen_at": "2026-04-29 10:18:44 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
@@ -114,37 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202603200048",
       "first_seen_at": "2026-04-29 10:18:44 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
-      "title": "2026년 고성군 청렴 슬로건 공모전",
-      "category": "네이밍•슬로건",
-      "host": "경남 고성군",
-      "target": "초등학생 , 중학생 , 고등학생 , 해당자 ▶",
-      "reception_period": "05.01~05.31",
-      "evaluation_period": "05.01~05.31",
-      "announcement_date": "-",
-      "status_day": "D-32",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604210036",
-      "first_seen_at": "2026-04-28 13:58:37 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
-      "is_current": true
-    },
-    {
-      "title": "제4회 2026년 직지콘텐츠 공모전",
-      "category": "문학•문예",
-      "host": "청주고인쇄박물관",
+      "title": "제18회 효(孝)만화공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "경민대학교(미래교육혁신센터)",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.01~07.26",
-      "evaluation_period": "08.01~08.31",
+      "reception_period": "05.01~06.30",
+      "evaluation_period": "07.01~07.31",
       "announcement_date": "-",
-      "status_day": "D-88",
+      "status_day": "D-62",
       "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604280064",
-      "first_seen_at": "2026-04-28 19:19:53 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604280020",
+      "first_seen_at": "2026-04-29 13:55:08 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604070032",
       "first_seen_at": "2026-04-29 10:18:44 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202603230028",
       "first_seen_at": "2026-04-29 10:18:44 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202603200055",
       "first_seen_at": "2026-04-29 10:18:44 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
-      "is_current": true
-    },
-    {
-      "title": "제14회 한국창작문화예술공모대전",
-      "category": "미술•디자인•웹툰",
-      "host": "세계미술작가교류협회",
-      "target": "고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.28~05.04",
-      "evaluation_period": "05.12~05.26",
-      "announcement_date": "05.29",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604280010",
-      "first_seen_at": "2026-04-28 16:36:39 KST",
-      "last_seen_at": "2026-04-29 10:18:44 KST",
+      "last_seen_at": "2026-04-29 13:55:08 KST",
       "is_current": true
     },
     {
