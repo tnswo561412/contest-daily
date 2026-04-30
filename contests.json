@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 11
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-04-30 20:14:21 KST",
+  "generated_at": "2026-04-30 22:06:36 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 6,
-    "upcoming": 6,
+    "open": 5,
+    "upcoming": 7,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604300031",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -54,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604290096",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
-      "is_current": true
-    },
-    {
-      "title": "제3회 충주 고구려 패션 디자인 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "(재)충주문화관광재단",
-      "target": "중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "04.28~05.27",
-      "evaluation_period": "05.28~06.04",
-      "announcement_date": "06.04",
-      "status_day": "D-27",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604300002",
-      "first_seen_at": "2026-04-30 12:56:22 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604300001",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604300005",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604300011",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604300068",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 농촌관광 아이디어 경진대회",
+      "category": "아이디어•건축•창업",
+      "host": "농림축산식품부, 농촌진흥청",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "05.26~05.31",
+      "evaluation_period": "06.08~07.03",
+      "announcement_date": "07.03",
+      "status_day": "D-31",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604300058",
+      "first_seen_at": "2026-04-30 22:06:36 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604300041",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604300060",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604300065",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604300040",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604300030",
       "first_seen_at": "2026-04-30 20:14:21 KST",
-      "last_seen_at": "2026-04-30 20:14:21 KST",
+      "last_seen_at": "2026-04-30 22:06:36 KST",
       "is_current": true
     },
     {
