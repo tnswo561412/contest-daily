@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 11
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-05-04 12:37:50 KST",
+  "generated_at": "2026-05-04 15:42:46 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 0,
+    "open": 8,
+    "upcoming": 1,
     "other_current": 3,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604270032",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605020002",
       "first_seen_at": "2026-05-02 15:10:28 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -69,22 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202604270034",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
-      "is_current": true
-    },
-    {
-      "title": "뮤지컬 <영웅> 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "(주)에이콤",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "04.27~05.25",
-      "evaluation_period": "04.27~05.25",
-      "announcement_date": "-",
-      "status_day": "D-21",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604270016",
-      "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604270031",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604270035",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604270019",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604250007",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605040005",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
+      "is_current": true
+    },
+    {
+      "title": "아시아 스토리 개발 및 웹툰 제작 개발 파트너즈 모집",
+      "category": "미술•디자인•웹툰",
+      "host": "국립아시아문화전당재단",
+      "target": "해당자 ▶",
+      "reception_period": "06.01~06.30",
+      "evaluation_period": "07.01~07.31",
+      "announcement_date": "08.07",
+      "status_day": "D-57",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604290082",
+      "first_seen_at": "2026-05-04 15:42:46 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "캠페인마감",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604270037",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604270015",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604250005",
       "first_seen_at": "2026-05-04 12:37:50 KST",
-      "last_seen_at": "2026-05-04 12:37:50 KST",
+      "last_seen_at": "2026-05-04 15:42:46 KST",
       "is_current": true
     },
     {
