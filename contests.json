@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 9
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-05-06 15:32:47 KST",
+  "generated_at": "2026-05-06 18:27:13 KST",
   "count": 50,
   "counts_by_status": {
     "open": 10,
@@ -28,33 +28,18 @@
   },
   "items": [
     {
-      "title": "[PRP사이언스] 올리디아 CM송 공모전",
-      "category": "음악•콩쿠르•댄스",
-      "host": "PRP사이언스",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "04.20~05.19",
-      "evaluation_period": "05.21~05.29",
-      "announcement_date": "06.18",
-      "status_day": "D-13",
+      "title": "제9회 기상·기후테크 창업 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "부산지방기상청",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.04~05.22",
+      "evaluation_period": "06.09~07.12",
+      "announcement_date": "07.13",
+      "status_day": "D-16",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605040055",
-      "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
-      "is_current": true
-    },
-    {
-      "title": "송덕사 『부처님오신날 사생대회 및 백일장』",
-      "category": "미술•디자인•웹툰",
-      "host": "대한불교조계종 송덕사",
-      "target": "유치원 , 초등학생",
-      "reception_period": "05.05~05.21",
-      "evaluation_period": "05.24",
-      "announcement_date": "05.24",
-      "status_day": "D-15",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605040052",
-      "first_seen_at": "2026-05-04 20:22:45 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605060003",
+      "first_seen_at": "2026-05-06 18:27:13 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604280047",
       "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605050018",
       "first_seen_at": "2026-05-06 12:35:00 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
+      "is_current": true
+    },
+    {
+      "title": "부천FC1995 레드 크리에이터 챌린지(부천FC1995 숏츠 챌린지) 출품 공모",
+      "category": "사진•영상•영화제",
+      "host": "(사)부천국제애니메이션페스티벌 조직위원회",
+      "target": "중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "04.27~06.03",
+      "evaluation_period": "06.04~06.30",
+      "announcement_date": "07.03",
+      "status_day": "D-28",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605060014",
+      "first_seen_at": "2026-05-06 18:27:13 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
+      "is_current": true
+    },
+    {
+      "title": "자폐성 장애 인식 개선을 위한 그림 공모전 그림으로 말해요",
+      "category": "미술•디자인•웹툰",
+      "host": "한국자폐인사랑협회",
+      "target": "해당자 ▶",
+      "reception_period": "05.04~06.05",
+      "evaluation_period": "06.08~06.12",
+      "announcement_date": "06.12",
+      "status_day": "D-30",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605060008",
+      "first_seen_at": "2026-05-06 18:27:13 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
@@ -99,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604280035",
       "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 부산 도시브랜드 굿즈(상품) 디자인 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "부산광역시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.27~06.17",
-      "evaluation_period": "07.20~07.22",
-      "announcement_date": "07.28",
-      "status_day": "D-42",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604300015",
-      "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605040064",
       "first_seen_at": "2026-05-06 12:35:00 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604280042",
       "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
+      "is_current": true
+    },
+    {
+      "title": "시편 150 프로젝트 공모제 Season 3",
+      "category": "음악•콩쿠르•댄스",
+      "host": "복음의전함",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.01~07.31",
+      "evaluation_period": "05.01~07.31",
+      "announcement_date": "-",
+      "status_day": "D-86",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605060006",
+      "first_seen_at": "2026-05-06 18:27:13 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
@@ -159,22 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604280040",
       "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
-      "is_current": true
-    },
-    {
-      "title": "부산일러스트레이션페어V.7 포스터 공모전 [THE POSTER BUSAN 2026]",
-      "category": "미술•디자인•웹툰",
-      "host": "(주)오씨메이커스",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.29~08.10",
-      "evaluation_period": "08.11~08.21",
-      "announcement_date": "08.24",
-      "status_day": "D-96",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604300064",
-      "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604280025",
       "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202604280032",
       "first_seen_at": "2026-05-06 15:32:47 KST",
-      "last_seen_at": "2026-05-06 15:32:47 KST",
+      "last_seen_at": "2026-05-06 18:27:13 KST",
       "is_current": true
     },
     {
