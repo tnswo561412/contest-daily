@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 5
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-05-07 16:48:22 KST",
+  "generated_at": "2026-05-07 19:28:09 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 6,
-    "upcoming": 3,
+    "open": 7,
+    "upcoming": 2,
     "other_current": 3,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605070009",
       "first_seen_at": "2026-05-07 16:48:22 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605060111",
       "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604290033",
       "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
+      "is_current": true
+    },
+    {
+      "title": "제6회 백호임제문학상 백호나주문인상 후보작 추천 공모",
+      "category": "문학•문예",
+      "host": "백호임제문학상운영위원회",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "05.01~05.31",
+      "evaluation_period": "06.01~08.07",
+      "announcement_date": "08.10",
+      "status_day": "D-24",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604290028",
+      "first_seen_at": "2026-05-07 19:28:09 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605060112",
       "first_seen_at": "2026-05-07 16:48:22 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604290077",
       "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605070007",
       "first_seen_at": "2026-05-07 16:48:22 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605070001",
       "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -144,22 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605070003",
       "first_seen_at": "2026-05-07 16:48:22 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 과천시 양성평등 작품 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "과천시여성단체협의회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.04~06.22",
-      "evaluation_period": "06.23~07.09",
-      "announcement_date": "07.10",
-      "status_day": "D-46",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605060113",
-      "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605060114",
       "first_seen_at": "2026-05-07 16:48:22 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605060101",
       "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604290076",
       "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 19:28:09 KST",
       "is_current": true
     },
     {
