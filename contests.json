@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 6
+    "new_items_added_this_run": 5
   },
-  "generated_at": "2026-05-07 13:58:58 KST",
+  "generated_at": "2026-05-07 16:48:22 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 5,
+    "open": 6,
     "upcoming": 3,
-    "other_current": 4,
+    "other_current": 3,
     "archived": 38
   },
   "items": [
+    {
+      "title": "전남광주통합특별시 임시 CI 디자인 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "전라남도, 광주광역시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.27~05.17",
+      "evaluation_period": "05.18~06.08",
+      "announcement_date": "06.22",
+      "status_day": "D-10",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605070009",
+      "first_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "is_current": true
+    },
     {
       "title": "2026년 유기농데이 기념 인스타툰 공모전",
       "category": "미술•디자인•웹툰",
@@ -39,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605060111",
       "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
@@ -54,22 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604290033",
       "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
-      "title": "제6회 백호임제문학상 백호나주문인상 후보작 추천 공모",
-      "category": "문학•문예",
-      "host": "백호임제문학상운영위원회",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "05.01~05.31",
-      "evaluation_period": "06.01~08.07",
-      "announcement_date": "08.10",
-      "status_day": "D-24",
+      "title": "제24회 임베디드SW경진대회",
+      "category": "학문•과학•IT",
+      "host": "산업통상부",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.06~06.10",
+      "evaluation_period": "09.04~10.31",
+      "announcement_date": "-",
+      "status_day": "D-34",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202604290028",
-      "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605060112",
+      "first_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202604290077",
       "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
@@ -93,13 +108,13 @@
       "host": "강릉과학산업진흥원",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
       "reception_period": "04.22~06.30",
-      "evaluation_period": "07.01~11.26",
-      "announcement_date": "11.27",
+      "evaluation_period": "07.01~07.31",
+      "announcement_date": "-",
       "status_day": "D-54",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604290017",
-      "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605070007",
+      "first_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605070001",
       "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
+      "is_current": true
+    },
+    {
+      "title": "제68회 전국학생음악경연대회",
+      "category": "음악•콩쿠르•댄스",
+      "host": "(사)충북예총",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생",
+      "reception_period": "05.18~06.08",
+      "evaluation_period": "06.13",
+      "announcement_date": "06.15",
+      "status_day": "D-32",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605070003",
+      "first_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
@@ -129,37 +159,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605060113",
       "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
-      "title": "2026 아름다운 영주 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "영주시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.31~08.14",
-      "evaluation_period": "07.31~08.14",
-      "announcement_date": "-",
-      "status_day": "D-99",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604290026",
-      "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 KSEA 미래 서비스 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "KSEA 한국서비스교육전문협회",
-      "target": "대학생 , 해당자 ▶",
-      "reception_period": "04.27~05.10",
-      "evaluation_period": "05.11~05.27",
-      "announcement_date": "05.27",
-      "status_day": "D-3",
+      "title": "2026 K-WORLD MISS SUPERMODEL QUEEN 대한민국 대표 선발대회",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "SDA종합예술학교, 서울리더스포럼",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "05.06~05.08",
+      "evaluation_period": "05.11",
+      "announcement_date": "05.11",
+      "status_day": "D-1",
       "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202604290012",
-      "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605060114",
+      "first_seen_at": "2026-05-07 16:48:22 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605060101",
       "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
-      "is_current": true
-    },
-    {
-      "title": "20주년 연극 <유츄프라카치아> 배우 모집",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "극단 비유",
-      "target": "일반인",
-      "reception_period": "04.28~05.12",
-      "evaluation_period": "04.28~05.12",
-      "announcement_date": "-",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202604290020",
-      "first_seen_at": "2026-05-07 10:17:47 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604290076",
       "first_seen_at": "2026-05-07 13:58:58 KST",
-      "last_seen_at": "2026-05-07 13:58:58 KST",
+      "last_seen_at": "2026-05-07 16:48:22 KST",
       "is_current": true
     },
     {
