@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 3
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-05-08 17:22:46 KST",
+  "generated_at": "2026-05-08 19:04:42 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
+    "open": 11,
     "upcoming": 0,
-    "other_current": 2,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202605080048",
       "first_seen_at": "2026-05-08 15:53:55 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605080035",
       "first_seen_at": "2026-05-08 15:53:55 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605080021",
       "first_seen_at": "2026-05-08 13:38:56 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605080049",
       "first_seen_at": "2026-05-08 15:53:55 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605080020",
       "first_seen_at": "2026-05-08 13:38:56 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605080014",
       "first_seen_at": "2026-05-08 15:53:55 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "굿네이버스 공익 캠페인 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "굿네이버스",
+      "target": "해당자 ▶",
+      "reception_period": "04.15~10.30",
+      "evaluation_period": "11.02~11.13",
+      "announcement_date": "-",
+      "status_day": "D-175",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605080094",
+      "first_seen_at": "2026-05-08 19:04:42 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605070067",
       "first_seen_at": "2026-05-08 17:22:46 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605070073",
       "first_seen_at": "2026-05-08 17:22:46 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605080013",
       "first_seen_at": "2026-05-08 13:38:56 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605070072",
       "first_seen_at": "2026-05-08 17:22:46 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 제23회 빛고을 울트라마라톤",
-      "category": "스포츠",
-      "host": "빛고을울트라조직위원회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "01.01~05.13",
-      "evaluation_period": "06.13~06.14",
-      "announcement_date": "-",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605080011",
-      "first_seen_at": "2026-05-08 13:38:56 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605080057",
       "first_seen_at": "2026-05-08 15:53:55 KST",
-      "last_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-08 19:04:42 KST",
       "is_current": true
     },
     {
