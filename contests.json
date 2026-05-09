@@ -18,12 +18,12 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 0
   },
-  "generated_at": "2026-05-09 22:59:09 KST",
+  "generated_at": "2026-05-10 00:04:07 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
+    "open": 8,
     "upcoming": 3,
-    "other_current": 0,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -35,11 +35,11 @@
       "reception_period": "09.14~09.12",
       "evaluation_period": "09.13",
       "announcement_date": "-",
-      "status_day": "D-126",
+      "status_day": "D-125",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605080035",
       "first_seen_at": "2026-05-08 15:53:55 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -50,11 +50,11 @@
       "reception_period": "05.08~05.24",
       "evaluation_period": "05.31~06.19",
       "announcement_date": "06.19",
-      "status_day": "D-15",
+      "status_day": "D-14",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605080089",
       "first_seen_at": "2026-05-08 20:54:36 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -65,11 +65,11 @@
       "reception_period": "05.06~05.26",
       "evaluation_period": "05.26~06.30",
       "announcement_date": "-",
-      "status_day": "D-17",
+      "status_day": "D-16",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605080096",
       "first_seen_at": "2026-05-08 20:54:36 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -80,11 +80,11 @@
       "reception_period": "04.15~10.30",
       "evaluation_period": "11.02~11.13",
       "announcement_date": "-",
-      "status_day": "D-174",
+      "status_day": "D-173",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605080094",
       "first_seen_at": "2026-05-08 19:04:42 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -95,11 +95,11 @@
       "reception_period": "04.03~05.29",
       "evaluation_period": "05.29~12.31",
       "announcement_date": "12.11",
-      "status_day": "D-20",
+      "status_day": "D-19",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605070067",
       "first_seen_at": "2026-05-08 17:22:46 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -110,11 +110,11 @@
       "reception_period": "05.04~05.31",
       "evaluation_period": "05.04~05.31",
       "announcement_date": "-",
-      "status_day": "D-22",
+      "status_day": "D-21",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605070073",
       "first_seen_at": "2026-05-08 17:22:46 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -125,11 +125,11 @@
       "reception_period": "05.07~06.05",
       "evaluation_period": "07.01~07.31",
       "announcement_date": "-",
-      "status_day": "D-27",
+      "status_day": "D-26",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605080067",
       "first_seen_at": "2026-05-08 20:54:36 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -140,26 +140,11 @@
       "reception_period": "05.06~07.17",
       "evaluation_period": "07.20~07.31",
       "announcement_date": "09.07",
-      "status_day": "D-69",
+      "status_day": "D-68",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605080062",
       "first_seen_at": "2026-05-08 20:54:36 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 무등산국립공원 탐방객 추억 사진 공모전",
-      "category": "사진•영상•영화제",
-      "host": "국립공원공단 무등산국립공원사무소",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "05.08~05.17",
-      "evaluation_period": "05.18~06.10",
-      "announcement_date": "05.10",
-      "status_day": "D-8",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605070072",
-      "first_seen_at": "2026-05-08 17:22:46 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -170,11 +155,11 @@
       "reception_period": "08.18~08.28",
       "evaluation_period": "09.07~09.15",
       "announcement_date": "09.18",
-      "status_day": "D-111",
+      "status_day": "D-110",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605080097",
       "first_seen_at": "2026-05-08 20:54:36 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -185,11 +170,11 @@
       "reception_period": "06.01~06.12",
       "evaluation_period": "06.13~07.02",
       "announcement_date": "07.03",
-      "status_day": "D-34",
+      "status_day": "D-33",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605080072",
       "first_seen_at": "2026-05-08 20:54:36 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
@@ -200,11 +185,26 @@
       "reception_period": "05.15~06.30",
       "evaluation_period": "07.06~07.24",
       "announcement_date": "07.31",
-      "status_day": "D-52",
+      "status_day": "D-51",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605080018",
       "first_seen_at": "2026-05-08 20:54:36 KST",
-      "last_seen_at": "2026-05-09 22:59:09 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 무등산국립공원 탐방객 추억 사진 공모전",
+      "category": "사진•영상•영화제",
+      "host": "국립공원공단 무등산국립공원사무소",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.08~05.17",
+      "evaluation_period": "05.18~06.10",
+      "announcement_date": "05.10",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605070072",
+      "first_seen_at": "2026-05-08 17:22:46 KST",
+      "last_seen_at": "2026-05-10 00:04:07 KST",
       "is_current": true
     },
     {
