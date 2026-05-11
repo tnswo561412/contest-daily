@@ -18,7 +18,7 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 0
   },
-  "generated_at": "2026-05-11 21:41:15 KST",
+  "generated_at": "2026-05-12 00:57:48 KST",
   "count": 50,
   "counts_by_status": {
     "open": 8,
@@ -35,11 +35,11 @@
       "reception_period": "05.07~05.22",
       "evaluation_period": "05.07~05.22",
       "announcement_date": "-",
-      "status_day": "D-11",
+      "status_day": "D-10",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605080052",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -50,11 +50,11 @@
       "reception_period": "05.03~05.22",
       "evaluation_period": "05.03~05.22",
       "announcement_date": "-",
-      "status_day": "D-11",
+      "status_day": "D-10",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605040031",
       "first_seen_at": "2026-05-11 10:25:17 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -65,11 +65,11 @@
       "reception_period": "04.23~05.24",
       "evaluation_period": "06.09~06.23",
       "announcement_date": "06.23",
-      "status_day": "D-13",
+      "status_day": "D-12",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605100015",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -80,11 +80,11 @@
       "reception_period": "05.04~05.31",
       "evaluation_period": "06.01~07.30",
       "announcement_date": "07.31",
-      "status_day": "D-20",
+      "status_day": "D-19",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605050019",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -95,11 +95,11 @@
       "reception_period": "05.11~06.07",
       "evaluation_period": "06.27",
       "announcement_date": "-",
-      "status_day": "D-27",
+      "status_day": "D-26",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605110005",
       "first_seen_at": "2026-05-11 18:49:06 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -110,11 +110,11 @@
       "reception_period": "05.04~06.10",
       "evaluation_period": "06.24",
       "announcement_date": "06.24",
-      "status_day": "D-30",
+      "status_day": "D-29",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605040045",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -125,11 +125,11 @@
       "reception_period": "05.11~06.10",
       "evaluation_period": "06.13~06.14",
       "announcement_date": "-",
-      "status_day": "D-30",
+      "status_day": "D-29",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605080070",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -140,11 +140,11 @@
       "reception_period": "05.11~05.20",
       "evaluation_period": "05.21~06.08",
       "announcement_date": "06.09",
-      "status_day": "D-9",
+      "status_day": "D-8",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202605110028",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -155,11 +155,11 @@
       "reception_period": "06.01~06.11",
       "evaluation_period": "06.14~06.20",
       "announcement_date": "06.20",
-      "status_day": "D-31",
+      "status_day": "D-30",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605040046",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -170,11 +170,11 @@
       "reception_period": "05.17",
       "evaluation_period": "05.17",
       "announcement_date": "05.22",
-      "status_day": "D-6",
+      "status_day": "D-5",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605100016",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -185,11 +185,11 @@
       "reception_period": "07.01~07.31",
       "evaluation_period": "08.01~09.27",
       "announcement_date": "09.28",
-      "status_day": "D-81",
+      "status_day": "D-80",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605100014",
       "first_seen_at": "2026-05-11 14:35:38 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
@@ -200,11 +200,11 @@
       "reception_period": "05.11~05.17",
       "evaluation_period": "05.12~06.05",
       "announcement_date": "06.08",
-      "status_day": "D-6",
+      "status_day": "D-5",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202605040034",
       "first_seen_at": "2026-05-11 10:25:17 KST",
-      "last_seen_at": "2026-05-11 21:41:15 KST",
+      "last_seen_at": "2026-05-12 00:57:48 KST",
       "is_current": true
     },
     {
