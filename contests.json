@@ -18,12 +18,12 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 1
   },
-  "generated_at": "2026-05-12 19:04:43 KST",
+  "generated_at": "2026-05-12 21:24:52 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
+    "open": 9,
     "upcoming": 2,
-    "other_current": 0,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605110070",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605060050",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -69,22 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605110069",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
-      "is_current": true
-    },
-    {
-      "title": "퓨리토 서울 상품기획 공모전",
-      "category": "The 다양한 분야",
-      "host": "하이네이처(주)",
-      "target": "일반인",
-      "reception_period": "05.04~05.31",
-      "evaluation_period": "06.01~06.05",
-      "announcement_date": "06.08",
-      "status_day": "D-19",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202605050017",
-      "first_seen_at": "2026-05-12 16:23:11 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605060037",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605120004",
       "first_seen_at": "2026-05-12 19:04:43 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605110056",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605060044",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605110063",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605110060",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605050021",
       "first_seen_at": "2026-05-12 16:23:11 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605110045",
       "first_seen_at": "2026-05-12 13:23:55 KST",
-      "last_seen_at": "2026-05-12 19:04:43 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 제2회 스테들러 유튜브 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "스테들러",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.29~05.19",
+      "evaluation_period": "05.20~05.21",
+      "announcement_date": "05.22",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605080095",
+      "first_seen_at": "2026-05-12 21:24:52 KST",
+      "last_seen_at": "2026-05-12 21:24:52 KST",
       "is_current": true
     },
     {
