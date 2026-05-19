@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 1
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-05-19 19:23:21 KST",
+  "generated_at": "2026-05-19 22:40:50 KST",
   "count": 50,
   "counts_by_status": {
     "open": 9,
@@ -27,21 +27,6 @@
     "archived": 38
   },
   "items": [
-    {
-      "title": "2026 제2회 함소아 어린이날 그림 그리기 대회",
-      "category": "미술•디자인•웹툰",
-      "host": "함소아한의원",
-      "target": "유치원 , 초등학생",
-      "reception_period": "05.01~05.31",
-      "evaluation_period": "06.01~06.19",
-      "announcement_date": "06.22",
-      "status_day": "D-12",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605130036",
-      "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
-      "is_current": true
-    },
     {
       "title": "대경문화예술고등학교장배 전국 중고등학생 e스포츠 대회(발로란트)",
       "category": "스포츠",
@@ -54,22 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605190001",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
-      "title": "2026년 K-eco 환경사랑 미술대회",
+      "title": "제2회 새우깡 어린이 그림 대회",
       "category": "미술•디자인•웹툰",
-      "host": "한국환경공단, 대구경북환경본부",
+      "host": "농심",
       "target": "초등학생",
-      "reception_period": "05.04~06.04",
-      "evaluation_period": "06.07",
-      "announcement_date": "07.01",
-      "status_day": "D-16",
+      "reception_period": "05.01~05.31",
+      "evaluation_period": "06.01~06.20",
+      "announcement_date": "06.25",
+      "status_day": "D-12",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605130038",
-      "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604300045",
+      "first_seen_at": "2026-05-19 22:40:50 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605190044",
       "first_seen_at": "2026-05-19 15:12:33 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605130058",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605120061",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605130059",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
+      "is_current": true
+    },
+    {
+      "title": "공존: 금강산관광, 우리 이야기 공모전",
+      "category": "사진•영상•영화제",
+      "host": "고성군",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 해당자 ▶",
+      "reception_period": "04.20~06.12",
+      "evaluation_period": "06.13~06.28",
+      "announcement_date": "06.30",
+      "status_day": "D-24",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604210038",
+      "first_seen_at": "2026-05-19 22:40:50 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605130042",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605130055",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604160075",
       "first_seen_at": "2026-05-19 19:23:21 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605130023",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605190033",
       "first_seen_at": "2026-05-19 15:12:33 KST",
-      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 22:40:50 KST",
       "is_current": true
     },
     {
