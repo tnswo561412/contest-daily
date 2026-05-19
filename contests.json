@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 2
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-05-19 15:12:33 KST",
+  "generated_at": "2026-05-19 19:23:21 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 2,
+    "open": 9,
+    "upcoming": 3,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605130036",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -54,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202605190001",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
-      "is_current": true
-    },
-    {
-      "title": "제2회 새우깡 어린이 그림 대회",
-      "category": "미술•디자인•웹툰",
-      "host": "농심",
-      "target": "초등학생",
-      "reception_period": "05.01~05.31",
-      "evaluation_period": "06.01~06.20",
-      "announcement_date": "06.25",
-      "status_day": "D-12",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604300045",
-      "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -84,13 +69,13 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605130038",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
       "title": "2026년 제6대 대전 서구의회 청소년의회 의원 모집",
       "category": "아이디어•건축•창업",
-      "host": "대전광역시 서구 의회",
+      "host": "대전광역시 서구의회",
       "target": "중학생 , 고등학생",
       "reception_period": "05.11~06.05",
       "evaluation_period": "05.11~06.05",
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605190044",
       "first_seen_at": "2026-05-19 15:12:33 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605130058",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605120061",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605130059",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605130042",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605130055",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
+      "is_current": true
+    },
+    {
+      "title": "구미 지산샛강 생태공원 사계절 전국 미술공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "한국예총 구미지회",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "06.22~06.24",
+      "evaluation_period": "06.25~06.28",
+      "announcement_date": "06.29",
+      "status_day": "D-36",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604160075",
+      "first_seen_at": "2026-05-19 19:23:21 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605130023",
       "first_seen_at": "2026-05-19 10:30:19 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
@@ -198,13 +198,13 @@
       "host": "전라남도",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
       "reception_period": "07.01~07.31",
-      "evaluation_period": "07.01~07.31",
+      "evaluation_period": "07.31~09.18",
       "announcement_date": "09.18",
       "status_day": "D-73",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605190033",
       "first_seen_at": "2026-05-19 15:12:33 KST",
-      "last_seen_at": "2026-05-19 15:12:33 KST",
+      "last_seen_at": "2026-05-19 19:23:21 KST",
       "is_current": true
     },
     {
