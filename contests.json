@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-05-20 13:47:17 KST",
+  "generated_at": "2026-05-20 17:28:06 KST",
   "count": 50,
   "counts_by_status": {
     "open": 10,
@@ -39,22 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605140027",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 당진수필 독서감상문 공모",
-      "category": "문학•문예",
-      "host": "당진수필문학회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "05.01~09.30",
-      "evaluation_period": "05.01~09.30",
-      "announcement_date": "-",
-      "status_day": "D-133",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605140079",
-      "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202605140081",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605190081",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605190034",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605190043",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605200003",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
+      "is_current": true
+    },
+    {
+      "title": "4회 부산국제장애인인권영화제 단편 영화 공모 안내",
+      "category": "사진•영상•영화제",
+      "host": "사랑샘복지회, 한국장애인연맹 부산DPI",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "04.01~06.30",
+      "evaluation_period": "07.01~07.30",
+      "announcement_date": "-",
+      "status_day": "D-41",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605200024",
+      "first_seen_at": "2026-05-20 17:28:06 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605190040",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605200008",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605190089",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605190046",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605190052",
       "first_seen_at": "2026-05-20 13:47:17 KST",
-      "last_seen_at": "2026-05-20 13:47:17 KST",
+      "last_seen_at": "2026-05-20 17:28:06 KST",
       "is_current": true
     },
     {
