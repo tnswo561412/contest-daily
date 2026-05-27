@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 11
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-05-27 13:56:10 KST",
+  "generated_at": "2026-05-27 17:42:02 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
-    "upcoming": 2,
+    "open": 8,
+    "upcoming": 1,
     "other_current": 3,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605140080",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605200035",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605190103",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 K- SEOUL MODEL 세계대회 한국대표 선발대회",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "K-서울 모델 세계대회 한국선발대회 조직위원회",
+      "target": "고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.25~07.12",
+      "evaluation_period": "05.26~08.29",
+      "announcement_date": "08.29",
+      "status_day": "D-46",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605260077",
+      "first_seen_at": "2026-05-27 17:42:02 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605190102",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605190085",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605190093",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -129,22 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202605270011",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 광명시 도서 제작 지원 작품 공모",
-      "category": "문학•문예",
-      "host": "광명시 도서관정책과",
-      "target": "해당자 ▶",
-      "reception_period": "06.01~06.30",
-      "evaluation_period": "07.01~07.14",
-      "announcement_date": "07.15",
-      "status_day": "D-34",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605200047",
-      "first_seen_at": "2026-05-27 09:11:48 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605200041",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605200037",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605200038",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605200040",
       "first_seen_at": "2026-05-27 13:56:10 KST",
-      "last_seen_at": "2026-05-27 13:56:10 KST",
+      "last_seen_at": "2026-05-27 17:42:02 KST",
       "is_current": true
     },
     {
