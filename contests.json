@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-05-27 07:49:44 KST",
+  "generated_at": "2026-05-27 09:11:48 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 12,
-    "upcoming": 0,
+    "open": 11,
+    "upcoming": 1,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605260065",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 경상북도 한복창작 해커톤대회",
+      "category": "아이디어•건축•창업",
+      "host": "경상북도, 한국한복진흥원",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "05.18~06.12",
+      "evaluation_period": "07.02~07.03",
+      "announcement_date": "07.03",
+      "status_day": "D-16",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605200044",
+      "first_seen_at": "2026-05-27 09:11:48 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605260060",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -69,22 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605170009",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 국제 시각문화 심포지엄 및 국제전 공모",
-      "category": "미술•디자인•웹툰",
-      "host": "CICA 미술관",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "05.26~06.19",
-      "evaluation_period": "05.26~06.19",
-      "announcement_date": "06.25",
-      "status_day": "D-23",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605260041",
-      "first_seen_at": "2026-05-26 17:34:16 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605260033",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605260047",
       "first_seen_at": "2026-05-26 17:34:16 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605260063",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605260032",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605260043",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -174,22 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202605260040",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
-      "is_current": true
-    },
-    {
-      "title": "1st Rising Star 뮤지컬·연기 모의 실기고사",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "청강문화산업대학교",
-      "target": "고등학생",
-      "reception_period": "05.18~06.05",
-      "evaluation_period": "06.13~06.19",
-      "announcement_date": "06.22",
-      "status_day": "D-9",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605260026",
-      "first_seen_at": "2026-05-26 17:34:16 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605260054",
       "first_seen_at": "2026-05-27 01:26:24 KST",
-      "last_seen_at": "2026-05-27 07:49:44 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 광명시 도서 제작 지원 작품 공모",
+      "category": "문학•문예",
+      "host": "광명시 도서관정책과",
+      "target": "해당자 ▶",
+      "reception_period": "06.01~06.30",
+      "evaluation_period": "07.01~07.14",
+      "announcement_date": "07.15",
+      "status_day": "D-34",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605200047",
+      "first_seen_at": "2026-05-27 09:11:48 KST",
+      "last_seen_at": "2026-05-27 09:11:48 KST",
       "is_current": true
     },
     {
