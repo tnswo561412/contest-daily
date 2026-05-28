@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-05-28 13:50:35 KST",
+  "generated_at": "2026-05-28 17:44:25 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 8,
-    "upcoming": 3,
+    "open": 6,
+    "upcoming": 5,
     "other_current": 1,
     "archived": 38
   },
@@ -39,22 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605210035",
       "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 양파 소비 촉진을 위한 대국민 숏폼영상 공모전",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "농림축산식품부",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "05.26~06.13",
-      "evaluation_period": "06.14~06.30",
-      "announcement_date": "07.01",
-      "status_day": "D-16",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202605270008",
-      "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605210049",
       "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
@@ -84,22 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605270065",
       "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 제14회 50년 후의 바다상상하기 그림 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "머니투데이",
-      "target": "유치원 , 초등학생",
-      "reception_period": "05.04~06.19",
-      "evaluation_period": "05.04~07.03",
-      "announcement_date": "07.03",
-      "status_day": "D-22",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605270002",
-      "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
@@ -114,22 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605270063",
       "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
-      "title": "2027 충청 유니버시아드대회 공식상품 디자인 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "재단법인 2027 충청권 하계세계대학경기대회 조직위워회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "05.27~07.27",
-      "evaluation_period": "07.28~08.05",
-      "announcement_date": "08.05",
-      "status_day": "D-60",
+      "title": "K-POP VIBE SEOUL DANCE COMPETITION",
+      "category": "음악•콩쿠르•댄스",
+      "host": "서울특별시",
+      "target": "대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.25~06.30",
+      "evaluation_period": "05.01~06.30",
+      "announcement_date": "07.03",
+      "status_day": "D-33",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605270053",
-      "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605260075",
+      "first_seen_at": "2026-05-28 17:44:25 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
@@ -144,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605270068",
       "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
@@ -159,22 +129,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605210040",
       "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
-      "title": "쇼팽음악영재콩쿨",
-      "category": "음악•콩쿠르•댄스",
-      "host": "한국쇼팽음악연구회CMC",
+      "title": "2026년 장애아동지원센터 별칭 공모전",
+      "category": "네이밍•슬로건",
+      "host": "한국장애인개발원",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.01~07.01",
-      "evaluation_period": "07.04",
-      "announcement_date": "07.04",
-      "status_day": "D-34",
+      "reception_period": "06.01~06.14",
+      "evaluation_period": "07.15~07.09",
+      "announcement_date": "07.10",
+      "status_day": "D-17",
       "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202605270009",
-      "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202605280057",
+      "first_seen_at": "2026-05-28 17:44:25 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
@@ -189,7 +159,37 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605210028",
       "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 한국주니어수학올림피아드(KJMO)",
+      "category": "학문•과학•IT",
+      "host": "대한수학회",
+      "target": "초등학생 , 중학생",
+      "reception_period": "06.17~07.28",
+      "evaluation_period": "06.17~07.28",
+      "announcement_date": "09.30",
+      "status_day": "D-61",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202605280033",
+      "first_seen_at": "2026-05-28 17:44:25 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
+      "is_current": true
+    },
+    {
+      "title": "제14회 해양 우수원고 모집",
+      "category": "문학•문예",
+      "host": "한국해양문학연구소",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "06.01~08.31",
+      "evaluation_period": "09.01~09.14",
+      "announcement_date": "09.15",
+      "status_day": "D-95",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202605260074",
+      "first_seen_at": "2026-05-28 17:44:25 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202605210025",
       "first_seen_at": "2026-05-28 13:50:35 KST",
-      "last_seen_at": "2026-05-28 13:50:35 KST",
+      "last_seen_at": "2026-05-28 17:44:25 KST",
       "is_current": true
     },
     {
