@@ -18,7 +18,7 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 0
   },
-  "generated_at": "2026-06-10 01:38:48 KST",
+  "generated_at": "2026-06-10 04:17:34 KST",
   "count": 50,
   "counts_by_status": {
     "open": 11,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606090012",
       "first_seen_at": "2026-06-09 16:54:38 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202605070015",
       "first_seen_at": "2026-06-09 12:55:21 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606090008",
       "first_seen_at": "2026-06-09 16:54:38 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606080090",
       "first_seen_at": "2026-06-09 12:55:21 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202604170073",
       "first_seen_at": "2026-06-09 16:54:38 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606090047",
       "first_seen_at": "2026-06-09 20:21:01 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202601220053",
       "first_seen_at": "2026-06-09 23:00:15 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606090018",
       "first_seen_at": "2026-06-09 12:55:21 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606090007",
       "first_seen_at": "2026-06-09 12:55:21 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606090011",
       "first_seen_at": "2026-06-09 16:54:38 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606090019",
       "first_seen_at": "2026-06-09 16:54:38 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606080026",
       "first_seen_at": "2026-06-09 12:55:21 KST",
-      "last_seen_at": "2026-06-10 01:38:48 KST",
+      "last_seen_at": "2026-06-10 04:17:34 KST",
       "is_current": true
     },
     {
