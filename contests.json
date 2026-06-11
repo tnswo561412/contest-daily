@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 3
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-06-11 18:14:17 KST",
+  "generated_at": "2026-06-11 22:01:18 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 3,
+    "open": 8,
+    "upcoming": 4,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606100017",
       "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606100067",
       "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -69,37 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606100060",
       "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
-      "title": "영암달빛전국동요대회",
-      "category": "음악•콩쿠르•댄스",
-      "host": "(사)한국음악협회 영암군지부",
+      "title": "대한민국 K-선비한복모델호남예선대회",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "K-선비한복모델선발대회 운영위원회",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.10~07.10",
-      "evaluation_period": "07.11",
-      "announcement_date": "07.11",
-      "status_day": "D-29",
+      "reception_period": "06.11~07.22",
+      "evaluation_period": "06.11~07.25",
+      "announcement_date": "07.25",
+      "status_day": "D-41",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202606100018",
-      "first_seen_at": "2026-06-11 18:14:17 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
-      "is_current": true
-    },
-    {
-      "title": "제11회 수원시 건강한 내-일, 행복한 내일 동영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "수원시비정규직노동자복지센터",
-      "target": "해당자 ▶",
-      "reception_period": "06.01~07.15",
-      "evaluation_period": "07.16~08.14",
-      "announcement_date": "08.19",
-      "status_day": "D-34",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606100003",
-      "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202606110002",
+      "first_seen_at": "2026-06-11 22:01:18 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606090010",
       "first_seen_at": "2026-06-11 18:14:17 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606100064",
       "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202606110001",
       "first_seen_at": "2026-06-11 18:14:17 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202606100026",
       "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606100031",
       "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606100021",
       "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606100036",
       "first_seen_at": "2026-06-11 13:50:12 KST",
-      "last_seen_at": "2026-06-11 18:14:17 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 이순신의 부산대첩 숏폼 공모전",
+      "category": "사진•영상•영화제",
+      "host": "사단법인 부산대첩기념사업회",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "06.15~09.10",
+      "evaluation_period": "09.14~09.22",
+      "announcement_date": "09.30",
+      "status_day": "D-91",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606110009",
+      "first_seen_at": "2026-06-11 22:01:18 KST",
+      "last_seen_at": "2026-06-11 22:01:18 KST",
       "is_current": true
     },
     {
