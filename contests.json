@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-06-15 06:16:36 KST",
+  "generated_at": "2026-06-15 07:43:04 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
+    "open": 9,
     "upcoming": 1,
-    "other_current": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606090006",
       "first_seen_at": "2026-06-12 14:15:21 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606120016",
       "first_seen_at": "2026-06-12 21:56:09 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606120001",
       "first_seen_at": "2026-06-12 21:56:09 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606120007",
       "first_seen_at": "2026-06-12 21:56:09 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202606140003",
       "first_seen_at": "2026-06-14 15:46:27 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -114,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606120036",
       "first_seen_at": "2026-06-12 21:56:09 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 제3회 샤롯데 독서미술대전",
-      "category": "미술•디자인•웹툰",
-      "host": "롯데장학재단",
-      "target": "초등학생 , 중학생",
-      "reception_period": "06.11~08.08",
-      "evaluation_period": "08.09~08.10",
-      "announcement_date": "08.10",
-      "status_day": "D-54",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606110033",
-      "first_seen_at": "2026-06-12 14:15:21 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606120003",
       "first_seen_at": "2026-06-12 14:15:21 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202606090063",
       "first_seen_at": "2026-06-12 14:15:21 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606120041",
       "first_seen_at": "2026-06-12 21:56:09 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606120008",
       "first_seen_at": "2026-06-12 18:43:31 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606120044",
       "first_seen_at": "2026-06-12 21:56:09 KST",
-      "last_seen_at": "2026-06-15 06:16:36 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
+      "is_current": true
+    },
+    {
+      "title": "코믹판타지 연극 '타임' - 서울공연 전배역 모집",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "윤컴퍼니",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "06.08~06.21",
+      "evaluation_period": "06.08~06.21",
+      "announcement_date": "-",
+      "status_day": "D-6",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202606090041",
+      "first_seen_at": "2026-06-15 07:43:04 KST",
+      "last_seen_at": "2026-06-15 07:43:04 KST",
       "is_current": true
     },
     {
