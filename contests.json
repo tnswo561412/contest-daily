@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 7
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-06-18 11:01:01 KST",
+  "generated_at": "2026-06-18 16:15:51 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
@@ -39,22 +39,52 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202606050070",
       "first_seen_at": "2026-06-17 21:19:39 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
-      "title": "시흥시청소년수련관 자율이용공간 네이밍 공모전",
-      "category": "네이밍•슬로건",
-      "host": "시흥시청소년수련관",
-      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 해당자 ▶",
-      "reception_period": "06.04~07.03",
-      "evaluation_period": "06.04~07.03",
-      "announcement_date": "07.18",
-      "status_day": "D-15",
+      "title": "2026 양평수박축제 가족수박 조각대회",
+      "category": "The 다양한 분야",
+      "host": "양평군, 양평군 청운면 수박축제추진위원회",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.28~06.30",
+      "evaluation_period": "07.04",
+      "announcement_date": "-",
+      "status_day": "D-12",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202606050056",
-      "first_seen_at": "2026-06-17 16:34:37 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202606080084",
+      "first_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "is_current": true
+    },
+    {
+      "title": "제2회 2026 양평수박축제 수박카빙대회",
+      "category": "The 다양한 분야",
+      "host": "양평군, 청운면 수박축제추진위원회",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "06.08~06.30",
+      "evaluation_period": "07.04",
+      "announcement_date": "-",
+      "status_day": "D-12",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202606080083",
+      "first_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 해양수산 창업 콘테스트",
+      "category": "아이디어•건축•창업",
+      "host": "해양수산부",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "06.10~07.17",
+      "evaluation_period": "07.29~09.30",
+      "announcement_date": "-",
+      "status_day": "D-29",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606170032",
+      "first_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
@@ -69,37 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606170025",
       "first_seen_at": "2026-06-17 16:34:37 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 목포가톨릭대학교 중독 예방교육 웹툰 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "목포가톨릭대학교 ANCHOR사업단",
-      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "06.15~07.31",
-      "evaluation_period": "08.01~08.10",
-      "announcement_date": "08.12",
-      "status_day": "D-43",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606170007",
-      "first_seen_at": "2026-06-17 16:34:37 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 미래여성경제인육성사업 창업아이디어 멘토링·IP권리화 프로그램(2차)",
-      "category": "아이디어•건축•창업",
-      "host": "중소벤처기업부",
-      "target": "고등학생 , 대학생 , 대학원생",
-      "reception_period": "06.15~07.31",
-      "evaluation_period": "08.03~08.28",
-      "announcement_date": "-",
-      "status_day": "D-43",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606170005",
-      "first_seen_at": "2026-06-17 16:34:37 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606170071",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606170070",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606170072",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606110065",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606120033",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606160023",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202606110069",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 11:01:01 KST",
+      "last_seen_at": "2026-06-18 16:15:51 KST",
       "is_current": true
     },
     {
