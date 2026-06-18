@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 3
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-06-18 16:15:51 KST",
+  "generated_at": "2026-06-18 20:35:24 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
-    "upcoming": 4,
-    "other_current": 1,
+    "upcoming": 5,
+    "other_current": 0,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202606050070",
       "first_seen_at": "2026-06-17 21:19:39 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202606080084",
       "first_seen_at": "2026-06-18 16:15:51 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202606080083",
       "first_seen_at": "2026-06-18 16:15:51 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -84,22 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606170032",
       "first_seen_at": "2026-06-18 16:15:51 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
-      "title": "2026 목포가톨릭대학교 중독 예방교육 숏폼 콘텐츠 공모전",
+      "title": "제13회 안전한 학교 공모전",
       "category": "사진•영상•영화제",
-      "host": "목포가톨릭대학교 ANCHOR사업단",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "06.15~07.24",
-      "evaluation_period": "07.25~08.09",
-      "announcement_date": "08.11",
-      "status_day": "D-36",
+      "host": "학교안전공제중앙회",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 해당자 ▶",
+      "reception_period": "06.17~07.27",
+      "evaluation_period": "08.01~08.31",
+      "announcement_date": "-",
+      "status_day": "D-39",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606170025",
-      "first_seen_at": "2026-06-17 16:34:37 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606180007",
+      "first_seen_at": "2026-06-18 20:35:24 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606170071",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606170070",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606170072",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
+      "is_current": true
+    },
+    {
+      "title": "제5회 경운대학교 지능형 모빌리티 SW경진대회",
+      "category": "학문•과학•IT",
+      "host": "경운대학교 / 경운대학교 소프트웨어중심대학사업",
+      "target": "해당자 ▶",
+      "reception_period": "06.22~07.17",
+      "evaluation_period": "07.21",
+      "announcement_date": "07.21",
+      "status_day": "D-29",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606180003",
+      "first_seen_at": "2026-06-18 20:35:24 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606110065",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606120033",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606160023",
       "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 군포독서대전 슬로건 및 아이디어 공모",
-      "category": "네이밍•슬로건",
-      "host": "군포시도서관",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.09~06.23",
-      "evaluation_period": "06.09~06.23",
-      "announcement_date": "-",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202606110069",
-      "first_seen_at": "2026-06-18 11:01:01 KST",
-      "last_seen_at": "2026-06-18 16:15:51 KST",
+      "last_seen_at": "2026-06-18 20:35:24 KST",
       "is_current": true
     },
     {
