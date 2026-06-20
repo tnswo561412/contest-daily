@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-06-20 10:35:39 KST",
+  "generated_at": "2026-06-20 15:25:46 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
+    "open": 10,
     "upcoming": 2,
-    "other_current": 1,
+    "other_current": 0,
     "archived": 38
   },
   "items": [
+    {
+      "title": "2026 호남IS해커톤",
+      "category": "학문•과학•IT",
+      "host": "(재)광주정보문화산업진흥원",
+      "target": "대학생 , 일반인 , 해당자 ▶",
+      "reception_period": "06.10~06.30",
+      "evaluation_period": "06.30~07.02",
+      "announcement_date": "07.03",
+      "status_day": "D-10",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606190049",
+      "first_seen_at": "2026-06-20 15:25:46 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
+      "is_current": true
+    },
     {
       "title": "카네기LEE 제1회 신인 아티스트 콩쿠르 개최",
       "category": "음악•콩쿠르•댄스",
@@ -39,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202606120034",
       "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
-      "is_current": true
-    },
-    {
-      "title": "계간 불교문예 신인상 공모",
-      "category": "문학•문예",
-      "host": "계간불교문예",
-      "target": "일반인",
-      "reception_period": "06.01~07.10",
-      "evaluation_period": "06.01~07.10",
-      "announcement_date": "-",
-      "status_day": "D-20",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606150034",
-      "first_seen_at": "2026-06-19 11:18:35 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606180004",
       "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606180057",
       "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
+      "is_current": true
+    },
+    {
+      "title": "핵융합에너지 X-이벤트 AI 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "한국핵융합에너지연구원",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "06.16~07.15",
+      "evaluation_period": "07.16~07.29",
+      "announcement_date": "08.07",
+      "status_day": "D-25",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606160024",
+      "first_seen_at": "2026-06-20 15:25:46 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606150059",
       "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
@@ -114,37 +129,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606180053",
       "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
-      "title": "제1회 미리 써 보는 유언장 작품 공모",
-      "category": "문학•문예",
-      "host": "산해정인성문화진흥회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.01~07.31",
-      "evaluation_period": "08.03~08.28",
-      "announcement_date": "08.31",
-      "status_day": "D-41",
+      "title": "전국공모 제52회 제주특별자치도 미술대전",
+      "category": "미술•디자인•웹툰",
+      "host": "한국미술협회 제주특별자치도지회",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "06.20~08.03",
+      "evaluation_period": "08.06",
+      "announcement_date": "08.06",
+      "status_day": "D-44",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606150021",
-      "first_seen_at": "2026-06-19 11:18:35 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606190007",
+      "first_seen_at": "2026-06-20 15:25:46 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
-      "title": "제2회 나라사랑정신 함양 호국 문예작품 공모",
-      "category": "문학•문예",
-      "host": "대한민국무공수훈자회 대구광역시지부",
+      "title": "2026 한국마사회 AI 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "한국마사회",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.01~07.31",
-      "evaluation_period": "08.03~08.28",
-      "announcement_date": "08.31",
-      "status_day": "D-41",
+      "reception_period": "06.15~08.15",
+      "evaluation_period": "08.17~09.30",
+      "announcement_date": "09.30",
+      "status_day": "D-56",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606150025",
-      "first_seen_at": "2026-06-19 11:18:35 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606170029",
+      "first_seen_at": "2026-06-20 15:25:46 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606150066",
       "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606190006",
       "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202606190008",
       "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 뮤지컬 '브람스' 전 배역 공개 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "PH E&M",
-      "target": "일반인",
-      "reception_period": "06.14~06.25",
-      "evaluation_period": "06.14~06.25",
-      "announcement_date": "-",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202606150040",
-      "first_seen_at": "2026-06-19 16:39:55 KST",
-      "last_seen_at": "2026-06-20 10:35:39 KST",
+      "last_seen_at": "2026-06-20 15:25:46 KST",
       "is_current": true
     },
     {
