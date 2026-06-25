@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 10
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-06-25 10:31:59 KST",
+  "generated_at": "2026-06-25 15:11:42 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 11,
-    "upcoming": 1,
+    "open": 9,
+    "upcoming": 3,
     "other_current": 0,
     "archived": 38
   },
   "items": [
-    {
-      "title": "제9회 국방과학기술대제전 DAPA 그림&영상 아이디어 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "방위사업청",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.24~07.15",
-      "evaluation_period": "07.16~07.29",
-      "announcement_date": "-",
-      "status_day": "D-20",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606240056",
-      "first_seen_at": "2026-06-24 19:54:13 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
-      "is_current": true
-    },
     {
       "title": "[제18회 서울국제초단편영화제] 'E-CUT : 솔지' 단편영화 제작 지원 작품 공모",
       "category": "사진•영상•영화제",
@@ -54,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606240009",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606240022",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -84,22 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606190036",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 국내재취업 브랜드 네이밍 & 캐치프레이즈 공모전",
-      "category": "네이밍•슬로건",
-      "host": "고용노동부, 한국산업인력공단",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.24~07.21",
-      "evaluation_period": "06.24~07.21",
-      "announcement_date": "-",
-      "status_day": "D-26",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202606240027",
-      "first_seen_at": "2026-06-24 16:50:09 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -114,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606190024",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -129,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606230012",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -144,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606190018",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -159,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606240011",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -174,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606240024",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -189,7 +159,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606190020",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "[AI화성 챌린지 'Part1'] 2026년 시민·공무원 AI 공모전",
+      "category": "학문•과학•IT",
+      "host": "화성시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "06.29~07.10",
+      "evaluation_period": "07.13~09.16",
+      "announcement_date": "09.17",
+      "status_day": "D-15",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606190034",
+      "first_seen_at": "2026-06-25 15:11:42 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 전북특별자치도 관광기념품 100선 상품 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "전북문화관광재단",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "07.30~08.03",
+      "evaluation_period": "07.30~08.03",
+      "announcement_date": "09.10",
+      "status_day": "D-39",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606150009",
+      "first_seen_at": "2026-06-25 15:11:42 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606190014",
       "first_seen_at": "2026-06-25 10:31:59 KST",
-      "last_seen_at": "2026-06-25 10:31:59 KST",
+      "last_seen_at": "2026-06-25 15:11:42 KST",
       "is_current": true
     },
     {
