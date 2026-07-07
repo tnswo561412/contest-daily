@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 10
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-07-07 16:42:48 KST",
+  "generated_at": "2026-07-07 20:11:33 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
-    "upcoming": 4,
+    "open": 8,
+    "upcoming": 3,
     "other_current": 1,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607060086",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607010065",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -69,22 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=040210001&str_no=202607070018",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 영양자작나무숲 온라인 사진 콘테스트",
-      "category": "사진•영상•영화제",
-      "host": "영양군",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.19~07.31",
-      "evaluation_period": "08.03~08.07",
-      "announcement_date": "08.14",
-      "status_day": "D-24",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607060065",
-      "first_seen_at": "2026-07-06 18:01:53 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202606290066",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
+      "is_current": true
+    },
+    {
+      "title": "[국가유산진흥원] 2026 궁중문화축전 AI 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "국가유산진흥원",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "07.06~08.16",
+      "evaluation_period": "08.17~09.20",
+      "announcement_date": "09.23",
+      "status_day": "D-40",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607060085",
+      "first_seen_at": "2026-07-07 20:11:33 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607060074",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 민주주의와 인권을 말하다 공모전",
+      "category": "문학•문예",
+      "host": "인천민주화운동센터",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "07.01~09.01",
+      "evaluation_period": "09.01~09.08",
+      "announcement_date": "09.09",
+      "status_day": "D-56",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607010007",
+      "first_seen_at": "2026-07-07 20:11:33 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -129,22 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607070005",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
-      "is_current": true
-    },
-    {
-      "title": "제7회 한국무궁화미술대전",
-      "category": "미술•디자인•웹툰",
-      "host": "사단법인 한국무궁화미술협회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.15~08.03",
-      "evaluation_period": "08.06",
-      "announcement_date": "08.15",
-      "status_day": "D-27",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607060092",
-      "first_seen_at": "2026-07-06 22:04:41 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607060015",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606290018",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607060079",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607060088",
       "first_seen_at": "2026-07-07 16:42:48 KST",
-      "last_seen_at": "2026-07-07 16:42:48 KST",
+      "last_seen_at": "2026-07-07 20:11:33 KST",
       "is_current": true
     },
     {
