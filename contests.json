@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-07-09 13:31:39 KST",
+  "generated_at": "2026-07-09 17:30:49 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 1,
-    "other_current": 1,
+    "open": 12,
+    "upcoming": 0,
+    "other_current": 0,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607020036",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607030050",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
+      "is_current": true
+    },
+    {
+      "title": "제8회 창업투자경진대회 B-스타트업 챌린지",
+      "category": "아이디어•건축•창업",
+      "host": "부산광역시 / BNK부산은행 / 부산MBC",
+      "target": "해당자 ▶",
+      "reception_period": "07.01~07.29",
+      "evaluation_period": "08.04~08.20",
+      "announcement_date": "10.08",
+      "status_day": "D-20",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607080070",
+      "first_seen_at": "2026-07-09 17:30:49 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607030045",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607080044",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607080046",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607020048",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607030055",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
@@ -144,13 +159,28 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607030043",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
+      "is_current": true
+    },
+    {
+      "title": "제7회 서초구 어린이 독서 감상문·감상화 공모전 「어린이, 평등을 읽다",
+      "category": "문학•문예",
+      "host": "서초여성가족플라자 잠원센터",
+      "target": "초등학생 , 해당자 ▶",
+      "reception_period": "07.08~09.04",
+      "evaluation_period": "09.07~09.27",
+      "announcement_date": "09.30",
+      "status_day": "D-57",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607080071",
+      "first_seen_at": "2026-07-09 17:30:49 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
       "title": "2026 안양천 하프 마라톤",
       "category": "스포츠",
-      "host": "(주)행복한가게",
+      "host": "(사)행복한가게",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
       "reception_period": "07.07~09.10",
       "evaluation_period": "09.19",
@@ -159,7 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607080007",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
@@ -174,37 +204,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607080066",
       "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
-      "is_current": true
-    },
-    {
-      "title": "제3회 성동구연맹회장기 마라톤",
-      "category": "스포츠",
-      "host": "성동구체육회",
-      "target": "일반인",
-      "reception_period": "07.10~08.30",
-      "evaluation_period": "10.10",
-      "announcement_date": "10.10",
-      "status_day": "D-52",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607030038",
-      "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
-      "is_current": true
-    },
-    {
-      "title": "[로그인보다 소중한 하루] 미디어 의존 예방 뮤지컬 배우 모집",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "예술 인테리어 해우",
-      "target": "일반인",
-      "reception_period": "07.02~07.15",
-      "evaluation_period": "07.02~07.15",
-      "announcement_date": "-",
-      "status_day": "D-6",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607030042",
-      "first_seen_at": "2026-07-09 13:31:39 KST",
-      "last_seen_at": "2026-07-09 13:31:39 KST",
+      "last_seen_at": "2026-07-09 17:30:49 KST",
       "is_current": true
     },
     {
