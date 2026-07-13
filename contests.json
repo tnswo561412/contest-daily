@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-07-13 12:48:32 KST",
+  "generated_at": "2026-07-13 16:23:53 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
+    "open": 11,
     "upcoming": 1,
-    "other_current": 1,
+    "other_current": 0,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607100045",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607070037",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
+      "is_current": true
+    },
+    {
+      "title": "「제7회 부산 대학-지역 상생 혁신 아이디어 경진대회」공고",
+      "category": "아이디어•건축•창업",
+      "host": "(재)부산테크노파크",
+      "target": "대학생",
+      "reception_period": "07.06~07.24",
+      "evaluation_period": "07.06~07.24",
+      "announcement_date": "08.31",
+      "status_day": "D-11",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607130004",
+      "first_seen_at": "2026-07-13 16:23:53 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202607120020",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 계간 『송림』 제2호 2회차 신인문학상 공모",
+      "category": "문학•문예",
+      "host": "도서출판 평생북",
+      "target": "일반인",
+      "reception_period": "07.10~07.31",
+      "evaluation_period": "08.01~08.04",
+      "announcement_date": "08.05",
+      "status_day": "D-18",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607130011",
+      "first_seen_at": "2026-07-13 16:23:53 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -84,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202607120017",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -99,22 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607070038",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 강릉시 미디어 아트 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "강릉시도시재생지원센터",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.13~08.14",
-      "evaluation_period": "08.17~08.28",
-      "announcement_date": "08.31",
-      "status_day": "D-32",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607070027",
-      "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607070058",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607070060",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607070051",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607070062",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607130006",
       "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026창작주체 선정작 연극 [별이 쏟아지는 물창 아래서] 배우 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "극단 백치들",
-      "target": "일반인",
-      "reception_period": "07.07~07.19",
-      "evaluation_period": "07.07~07.19",
-      "announcement_date": "-",
-      "status_day": "D-6",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607070048",
-      "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-13 12:48:32 KST",
+      "last_seen_at": "2026-07-13 16:23:53 KST",
       "is_current": true
     },
     {
