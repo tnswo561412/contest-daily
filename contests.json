@@ -16,45 +16,30 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 7
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-07-14 09:55:22 KST",
+  "generated_at": "2026-07-14 13:05:59 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 8,
-    "upcoming": 4,
+    "open": 9,
+    "upcoming": 3,
     "other_current": 0,
     "archived": 38
   },
   "items": [
     {
-      "title": "「제7회 부산 대학-지역 상생 혁신 아이디어 경진대회」공고",
-      "category": "아이디어•건축•창업",
-      "host": "(재)부산테크노파크",
-      "target": "대학생",
-      "reception_period": "07.06~07.24",
-      "evaluation_period": "07.06~07.24",
-      "announcement_date": "08.31",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607130004",
-      "first_seen_at": "2026-07-13 16:23:53 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
-      "is_current": true
-    },
-    {
-      "title": "순천시 민선9기 시정의 패러다임 大전환, 시민주권 시대 슬로건 공모전",
-      "category": "네이밍•슬로건",
-      "host": "순천시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.13~07.24",
-      "evaluation_period": "07.13~07.24",
+      "title": "움직이는 한국화 : 에이아이 미디어아트 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "CGV",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "07.01~10.23",
+      "evaluation_period": "07.01~10.23",
       "announcement_date": "-",
-      "status_day": "D-10",
+      "status_day": "D-101",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202607120020",
-      "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607080039",
+      "first_seen_at": "2026-07-14 13:05:59 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607130011",
       "first_seen_at": "2026-07-13 16:23:53 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 WAKEONE BOY AUDITION : THE BEGINNING",
+      "category": "음악•콩쿠르•댄스",
+      "host": "웨이크원(WAKEONE)",
+      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 해당자 ▶",
+      "reception_period": "07.01~08.03",
+      "evaluation_period": "08.08",
+      "announcement_date": "-",
+      "status_day": "D-20",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607140011",
+      "first_seen_at": "2026-07-14 13:05:59 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 용산형 ESG 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "용산구",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "07.08~08.09",
+      "evaluation_period": "08.10~08.24",
+      "announcement_date": "08.25",
+      "status_day": "D-26",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607080037",
+      "first_seen_at": "2026-07-14 13:05:59 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=040610001&str_no=202607080013",
       "first_seen_at": "2026-07-14 09:55:22 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
+      "is_current": true
+    },
+    {
+      "title": "1350고용노동부고객상담센터 숏폼 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "고용노동부 고용노동부고객상담센터",
+      "target": "중학생 , 고등학생 , 대학생 , 일반인 , 해당자 ▶",
+      "reception_period": "07.08~08.21",
+      "evaluation_period": "08.24~10.05",
+      "announcement_date": "10.06",
+      "status_day": "D-38",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607080032",
+      "first_seen_at": "2026-07-14 13:05:59 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
@@ -99,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607080011",
       "first_seen_at": "2026-07-14 09:55:22 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
@@ -114,22 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607080008",
       "first_seen_at": "2026-07-14 09:55:22 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 업사이클 디자인 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "서울특별시",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생",
-      "reception_period": "06.15~07.23",
-      "evaluation_period": "07.27~07.31",
-      "announcement_date": "08.04",
-      "status_day": "D-9",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607100045",
-      "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607080019",
       "first_seen_at": "2026-07-14 09:55:22 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607080022",
       "first_seen_at": "2026-07-14 09:55:22 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607080014",
       "first_seen_at": "2026-07-14 09:55:22 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607080020",
       "first_seen_at": "2026-07-14 09:55:22 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 인문가치 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "경상북도, 안동시",
-      "target": "중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "09.07~09.14",
-      "evaluation_period": "09.15~09.30",
-      "announcement_date": "-",
-      "status_day": "D-62",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607130006",
-      "first_seen_at": "2026-07-13 12:48:32 KST",
-      "last_seen_at": "2026-07-14 09:55:22 KST",
+      "last_seen_at": "2026-07-14 13:05:59 KST",
       "is_current": true
     },
     {
