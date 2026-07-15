@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 11
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-07-15 13:07:13 KST",
+  "generated_at": "2026-07-15 15:36:31 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607080068",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607140018",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607140060",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 청각장애인 바리스타 전국대회 참가자 모집",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "청음복지관",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "07.06~07.31",
+      "evaluation_period": "07.06~07.31",
+      "announcement_date": "-",
+      "status_day": "D-16",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607060039",
+      "first_seen_at": "2026-07-15 15:36:31 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607140012",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607090031",
       "first_seen_at": "2026-07-15 09:52:07 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -114,22 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607140071",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
-      "is_current": true
-    },
-    {
-      "title": "월드스마트시티엑스포(WSCE) 2026 Awards",
-      "category": "학문•과학•IT",
-      "host": "국토교통부",
-      "target": "일반인",
-      "reception_period": "07.14~07.24",
-      "evaluation_period": "07.24~08.23",
-      "announcement_date": "08.24",
-      "status_day": "D-9",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607140013",
-      "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607140079",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607140075",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607140047",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607140028",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607140015",
       "first_seen_at": "2026-07-15 13:07:13 KST",
-      "last_seen_at": "2026-07-15 13:07:13 KST",
+      "last_seen_at": "2026-07-15 15:36:31 KST",
       "is_current": true
     },
     {
