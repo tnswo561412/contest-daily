@@ -18,11 +18,11 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 1
   },
-  "generated_at": "2026-07-16 18:35:25 KST",
+  "generated_at": "2026-07-16 20:42:38 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 8,
-    "upcoming": 4,
+    "open": 9,
+    "upcoming": 3,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607100004",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607160005",
       "first_seen_at": "2026-07-16 18:35:25 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607100018",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607100014",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607100006",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607150061",
       "first_seen_at": "2026-07-16 13:40:29 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
+      "is_current": true
+    },
+    {
+      "title": "제1회 세계 주니어 국제법 모의법정대회",
+      "category": "The 다양한 분야",
+      "host": "퍼스트클래스 한남 (FIRST CLASS HANNAM)",
+      "target": "초등학생 , 중학생 , 고등학생 , 외국인",
+      "reception_period": "06.27~08.16",
+      "evaluation_period": "12.18~12.20",
+      "announcement_date": "-",
+      "status_day": "D-31",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607150077",
+      "first_seen_at": "2026-07-16 20:42:38 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607160006",
       "first_seen_at": "2026-07-16 16:24:33 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607100015",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607100003",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607150014",
       "first_seen_at": "2026-07-16 13:40:29 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607100017",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 지속가능발전 숏폼 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "국무조정실",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.20~09.18",
-      "evaluation_period": "07.20~09.18",
-      "announcement_date": "-",
-      "status_day": "D-64",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607100012",
-      "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-16 18:35:25 KST",
+      "last_seen_at": "2026-07-16 20:42:38 KST",
       "is_current": true
     },
     {
