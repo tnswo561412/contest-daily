@@ -18,7 +18,7 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 0
   },
-  "generated_at": "2026-07-19 23:02:04 KST",
+  "generated_at": "2026-07-20 00:31:38 KST",
   "count": 50,
   "counts_by_status": {
     "open": 8,
@@ -28,21 +28,6 @@
   },
   "items": [
     {
-      "title": "멍콕 '사운드 로고' 프로젝트",
-      "category": "음악•콩쿠르•댄스",
-      "host": "사운드컴바인",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.09~07.29",
-      "evaluation_period": "07.09~07.29",
-      "announcement_date": "-",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607100004",
-      "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
-      "is_current": true
-    },
-    {
       "title": "2026 제10회 051영화제 : 51초 영화 공모전",
       "category": "사진•영상•영화제",
       "host": "부산광역시사회복지협의회 / 부산일보사 / 부산광역시",
@@ -50,11 +35,11 @@
       "reception_period": "07.01~07.31",
       "evaluation_period": "08.01~08.31",
       "announcement_date": "-",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607160005",
       "first_seen_at": "2026-07-16 18:35:25 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -65,11 +50,11 @@
       "reception_period": "07.06~07.31",
       "evaluation_period": "08.03~08.19",
       "announcement_date": "08.20",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607100018",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -80,11 +65,11 @@
       "reception_period": "06.29~07.31",
       "evaluation_period": "06.29~07.31",
       "announcement_date": "-",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607100014",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -95,11 +80,11 @@
       "reception_period": "07.09~07.31",
       "evaluation_period": "08.03~08.20",
       "announcement_date": "08.21",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607100006",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -110,11 +95,11 @@
       "reception_period": "07.03~08.14",
       "evaluation_period": "07.03~08.14",
       "announcement_date": "09.11",
-      "status_day": "D-26",
+      "status_day": "D-25",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607150061",
       "first_seen_at": "2026-07-16 13:40:29 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -125,11 +110,11 @@
       "reception_period": "06.27~08.16",
       "evaluation_period": "12.18~12.20",
       "announcement_date": "-",
-      "status_day": "D-28",
+      "status_day": "D-27",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607150077",
       "first_seen_at": "2026-07-16 20:42:38 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -140,11 +125,26 @@
       "reception_period": "07.15~08.23",
       "evaluation_period": "08.24~09.30",
       "announcement_date": "-",
-      "status_day": "D-35",
+      "status_day": "D-34",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607160006",
       "first_seen_at": "2026-07-16 16:24:33 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
+      "is_current": true
+    },
+    {
+      "title": "멍콕 '사운드 로고' 프로젝트",
+      "category": "음악•콩쿠르•댄스",
+      "host": "사운드컴바인",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "07.09~07.29",
+      "evaluation_period": "07.09~07.29",
+      "announcement_date": "-",
+      "status_day": "D-9",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607100004",
+      "first_seen_at": "2026-07-16 10:02:12 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -155,11 +155,11 @@
       "reception_period": "07.27~08.14",
       "evaluation_period": "08.17~08.28",
       "announcement_date": "08.31",
-      "status_day": "D-26",
+      "status_day": "D-25",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607100003",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -170,11 +170,11 @@
       "reception_period": "08.10~08.31",
       "evaluation_period": "09.01~10.31",
       "announcement_date": "-",
-      "status_day": "D-43",
+      "status_day": "D-42",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607150014",
       "first_seen_at": "2026-07-16 13:40:29 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -185,11 +185,11 @@
       "reception_period": "08.03~09.11",
       "evaluation_period": "09.14~10.29",
       "announcement_date": "10.30",
-      "status_day": "D-54",
+      "status_day": "D-53",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607100017",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
@@ -200,11 +200,11 @@
       "reception_period": "07.13~07.24",
       "evaluation_period": "07.27~08.07",
       "announcement_date": "08.10",
-      "status_day": "D-5",
+      "status_day": "D-4",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607100015",
       "first_seen_at": "2026-07-16 10:02:12 KST",
-      "last_seen_at": "2026-07-19 23:02:04 KST",
+      "last_seen_at": "2026-07-20 00:31:38 KST",
       "is_current": true
     },
     {
