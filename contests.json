@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-07-24 15:28:38 KST",
+  "generated_at": "2026-07-24 18:05:02 KST",
   "count": 50,
   "counts_by_status": {
     "open": 9,
-    "upcoming": 3,
-    "other_current": 0,
+    "upcoming": 2,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
+    {
+      "title": "AI 지역문제해결 창업경진대회 챌린지 유형",
+      "category": "아이디어•건축•창업",
+      "host": "울산광역시, 울산과학기술원",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "07.23~08.07",
+      "evaluation_period": "08.12",
+      "announcement_date": "-",
+      "status_day": "D-14",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240007",
+      "first_seen_at": "2026-07-24 18:05:02 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
+      "is_current": true
+    },
     {
       "title": "「제4회 개인정보보호 모의재판 경연대회」 일반 참관인 모집",
       "category": "학문•과학•IT",
@@ -39,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607230025",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607230041",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240001",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607230033",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
@@ -99,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607230030",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
-      "is_current": true
-    },
-    {
-      "title": "MABC 2026 Making AI Beneficial Challenge",
-      "category": "학문•과학•IT",
-      "host": "업스테이지",
-      "target": "고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "07.08~08.31",
-      "evaluation_period": "09.01~09.18",
-      "announcement_date": "09.19",
-      "status_day": "D-38",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607230031",
-      "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607230051",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607230024",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607230060",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
@@ -174,37 +174,37 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607230035",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
-      "title": "<2026년 전주 로컬브랜딩 아이디어 해커톤 참가자 모집>",
-      "category": "아이디어•건축•창업",
-      "host": "전주소통협력센터",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "07.29~08.21",
-      "evaluation_period": "08.21~08.27",
-      "announcement_date": "08.27",
-      "status_day": "D-28",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607230026",
-      "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 현대리바트 영챌린지 (디자인·마케팅) 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "현대리바트",
-      "target": "대학생",
-      "reception_period": "08.03~09.13",
-      "evaluation_period": "09.14~11.30",
+      "title": "2026 보현산 별빛축제 청소년 AI 영상제",
+      "category": "사진•영상•영화제",
+      "host": "영천시",
+      "target": "초등학생 , 중학생 , 고등학생 , 해당자 ▶",
+      "reception_period": "08.03~08.28",
+      "evaluation_period": "08.31~09.04",
       "announcement_date": "-",
-      "status_day": "D-51",
+      "status_day": "D-35",
       "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607230028",
-      "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-24 15:28:38 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607240003",
+      "first_seen_at": "2026-07-24 18:05:02 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
+      "is_current": true
+    },
+    {
+      "title": "[연장접수]제33회 한라환경대상",
+      "category": "The 다양한 분야",
+      "host": "제주특별자치도, 한라일보사",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "06.08~07.31",
+      "evaluation_period": "08.05",
+      "announcement_date": "08.11",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607240002",
+      "first_seen_at": "2026-07-24 18:05:02 KST",
+      "last_seen_at": "2026-07-24 18:05:02 KST",
       "is_current": true
     },
     {
