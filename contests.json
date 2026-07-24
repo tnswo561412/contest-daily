@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-07-24 07:59:14 KST",
+  "generated_at": "2026-07-24 09:06:25 KST",
   "count": 50,
   "counts_by_status": {
     "open": 6,
-    "upcoming": 2,
-    "other_current": 4,
+    "upcoming": 1,
+    "other_current": 5,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607220059",
       "first_seen_at": "2026-07-23 12:17:19 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607230001",
       "first_seen_at": "2026-07-23 12:17:19 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607220058",
       "first_seen_at": "2026-07-23 12:17:19 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202607230021",
       "first_seen_at": "2026-07-23 15:15:41 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607230002",
       "first_seen_at": "2026-07-23 15:15:41 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -114,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607160062",
       "first_seen_at": "2026-07-23 12:17:19 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 인천형 주거복지정책 시민 아이디어 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "인천도시공사",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.27~08.10",
-      "evaluation_period": "08.11~08.28",
-      "announcement_date": "08.31",
-      "status_day": "D-17",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607160058",
-      "first_seen_at": "2026-07-23 12:17:19 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607230005",
       "first_seen_at": "2026-07-23 18:08:03 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607160059",
       "first_seen_at": "2026-07-23 12:17:19 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 어쩌다예술 [씨네마 우일] 시민대상 추억 아카이빙 공모",
+      "category": "문학•문예",
+      "host": "군산문화관광재단",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "07.01~07.31",
+      "evaluation_period": "07.01~07.31",
+      "announcement_date": "-",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607200057",
+      "first_seen_at": "2026-07-24 09:06:25 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607230008",
       "first_seen_at": "2026-07-23 18:08:03 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607150059",
       "first_seen_at": "2026-07-23 12:17:19 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607220066",
       "first_seen_at": "2026-07-23 12:17:19 KST",
-      "last_seen_at": "2026-07-24 07:59:14 KST",
+      "last_seen_at": "2026-07-24 09:06:25 KST",
       "is_current": true
     },
     {
