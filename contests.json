@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-07-25 11:55:36 KST",
+  "generated_at": "2026-07-25 14:46:18 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 2,
+    "open": 7,
+    "upcoming": 4,
     "other_current": 1,
     "archived": 38
   },
@@ -39,22 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240007",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
-      "is_current": true
-    },
-    {
-      "title": "「제4회 개인정보보호 모의재판 경연대회」 일반 참관인 모집",
-      "category": "학문•과학•IT",
-      "host": "개인정보보호위원회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.23~08.12",
-      "evaluation_period": "08.12~08.14",
-      "announcement_date": "08.14",
-      "status_day": "D-18",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607230025",
-      "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607230041",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
@@ -84,37 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240001",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 김유정신인문학상 공모",
-      "category": "문학•문예",
-      "host": "춘천문화재단",
-      "target": "대학생 , 대학원생 , 일반인 , 해당자 ▶",
-      "reception_period": "07.23~08.22",
-      "evaluation_period": "08.22~10.31",
-      "announcement_date": "-",
-      "status_day": "D-28",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607230033",
-      "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 한국에너지공단 Do드림 아이디어 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "한국에너지공단",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.15~08.31",
-      "evaluation_period": "09.01~10.30",
-      "announcement_date": "10.30",
-      "status_day": "D-37",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607230030",
-      "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
@@ -129,22 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607230051",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
-      "title": "2026 제주풍차런",
-      "category": "스포츠",
-      "host": "주식회사 어디감수광",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.08~09.04",
-      "evaluation_period": "07.08~09.04",
+      "title": "제3회 박자혜 청년외교광장 학술대회",
+      "category": "학문•과학•IT",
+      "host": "사단법인 외교광장",
+      "target": "대학생 , 대학원생",
+      "reception_period": "07.24~08.31",
+      "evaluation_period": "09.01~09.10",
       "announcement_date": "-",
-      "status_day": "D-41",
+      "status_day": "D-37",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607230024",
-      "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607240015",
+      "first_seen_at": "2026-07-25 14:46:18 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
@@ -159,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607230060",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
+      "is_current": true
+    },
+    {
+      "title": "『제1회 (사)한국부동산금융투자포럼 대학생 아이디어 공모대회』",
+      "category": "아이디어•건축•창업",
+      "host": "(사)힌국부동산금융투자포럼·한국토지주택공사",
+      "target": "대학생",
+      "reception_period": "07.21~10.30",
+      "evaluation_period": "11.06~11.13",
+      "announcement_date": "11.27",
+      "status_day": "D-97",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240011",
+      "first_seen_at": "2026-07-25 14:46:18 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
@@ -174,7 +144,37 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607240003",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
+      "is_current": true
+    },
+    {
+      "title": "세계 어린이 미술&디자인 대회",
+      "category": "미술•디자인•웹툰",
+      "host": "국제파인아트디자인협회",
+      "target": "유치원 , 초등학생",
+      "reception_period": "09.07~09.15",
+      "evaluation_period": "09.21~09.23",
+      "announcement_date": "09.29",
+      "status_day": "D-52",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607240060",
+      "first_seen_at": "2026-07-25 14:46:18 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 ‘0924 영상제’ 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "하남시청소년수련관",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "07.31~10.17",
+      "evaluation_period": "10.30~11.30",
+      "announcement_date": "11.27",
+      "status_day": "D-84",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607240021",
+      "first_seen_at": "2026-07-25 14:46:18 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607230035",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607240002",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-25 11:55:36 KST",
+      "last_seen_at": "2026-07-25 14:46:18 KST",
       "is_current": true
     },
     {
