@@ -18,7 +18,7 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 1
   },
-  "generated_at": "2026-07-27 17:02:29 KST",
+  "generated_at": "2026-07-27 20:52:01 KST",
   "count": 50,
   "counts_by_status": {
     "open": 8,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240007",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240001",
       "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607250001",
       "first_seen_at": "2026-07-27 13:22:55 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607220008",
       "first_seen_at": "2026-07-27 13:22:55 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 가족의 행복을 잇는 우수사례 이야기 공모전",
+      "category": "사진•영상•영화제",
+      "host": "한국건강가정진흥원",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "07.27~08.30",
+      "evaluation_period": "08.31~09.30",
+      "announcement_date": "-",
+      "status_day": "D-34",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607270070",
+      "first_seen_at": "2026-07-27 20:52:01 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607240015",
       "first_seen_at": "2026-07-25 14:46:18 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -114,22 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607240062",
       "first_seen_at": "2026-07-27 13:22:55 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
-      "is_current": true
-    },
-    {
-      "title": "제2회 유네스코 세계 시 낭송대회",
-      "category": "문학•문예",
-      "host": "사)한국유네스코 충북협회",
-      "target": "대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.01~09.30",
-      "evaluation_period": "11.02",
-      "announcement_date": "11.02",
-      "status_day": "D-65",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607230060",
-      "first_seen_at": "2026-07-27 17:02:29 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240011",
       "first_seen_at": "2026-07-25 14:46:18 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607240003",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607240060",
       "first_seen_at": "2026-07-25 14:46:18 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607240021",
       "first_seen_at": "2026-07-25 14:46:18 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607240002",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-27 17:02:29 KST",
+      "last_seen_at": "2026-07-27 20:52:01 KST",
       "is_current": true
     },
     {
