@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-07-27 23:44:12 KST",
+  "generated_at": "2026-07-28 02:01:03 KST",
   "count": 50,
   "counts_by_status": {
     "open": 8,
@@ -35,26 +35,11 @@
       "reception_period": "07.23~08.07",
       "evaluation_period": "08.12",
       "announcement_date": "-",
-      "status_day": "D-11",
+      "status_day": "D-10",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240007",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
-      "is_current": true
-    },
-    {
-      "title": "제10회 벤처창업아이템 경진대회",
-      "category": "아이디어•건축•창업",
-      "host": "한국폴리텍대학",
-      "target": "고등학생 , 대학생",
-      "reception_period": "06.08~08.16",
-      "evaluation_period": "09.05~10.21",
-      "announcement_date": "-",
-      "status_day": "D-20",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240001",
-      "first_seen_at": "2026-07-24 12:54:07 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -65,11 +50,11 @@
       "reception_period": "07.15~08.20",
       "evaluation_period": "08.30~09.06",
       "announcement_date": "-",
-      "status_day": "D-24",
+      "status_day": "D-23",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607250001",
       "first_seen_at": "2026-07-27 13:22:55 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -80,11 +65,11 @@
       "reception_period": "07.20~08.23",
       "evaluation_period": "08.24~09.03",
       "announcement_date": "09.04",
-      "status_day": "D-27",
+      "status_day": "D-26",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607220008",
       "first_seen_at": "2026-07-27 13:22:55 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -95,11 +80,26 @@
       "reception_period": "07.27~08.30",
       "evaluation_period": "08.31~09.30",
       "announcement_date": "-",
-      "status_day": "D-34",
+      "status_day": "D-33",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607270070",
       "first_seen_at": "2026-07-27 20:52:01 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 에이즈 및 성매개감염병 제대로, 제로로 숏폼 영상 콘텐츠 공모전",
+      "category": "사진•영상•영화제",
+      "host": "질병관리청",
+      "target": "대학생 , 대학원생 , 일반인 , 해당자 ▶",
+      "reception_period": "07.27~08.30",
+      "evaluation_period": "09.01~11.04",
+      "announcement_date": "11.04",
+      "status_day": "D-33",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606290002",
+      "first_seen_at": "2026-07-28 02:01:03 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -110,11 +110,11 @@
       "reception_period": "07.24~08.31",
       "evaluation_period": "09.01~09.10",
       "announcement_date": "-",
-      "status_day": "D-35",
+      "status_day": "D-34",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607240015",
       "first_seen_at": "2026-07-25 14:46:18 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -125,11 +125,11 @@
       "reception_period": "07.20~09.14",
       "evaluation_period": "09.15~09.16",
       "announcement_date": "09.16",
-      "status_day": "D-49",
+      "status_day": "D-48",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607240062",
       "first_seen_at": "2026-07-27 13:22:55 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -140,11 +140,11 @@
       "reception_period": "07.21~10.30",
       "evaluation_period": "11.06~11.13",
       "announcement_date": "11.27",
-      "status_day": "D-95",
+      "status_day": "D-94",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240011",
       "first_seen_at": "2026-07-25 14:46:18 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -155,11 +155,11 @@
       "reception_period": "08.03~08.28",
       "evaluation_period": "08.31~09.04",
       "announcement_date": "-",
-      "status_day": "D-32",
+      "status_day": "D-31",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607240003",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -170,11 +170,11 @@
       "reception_period": "09.07~09.15",
       "evaluation_period": "09.21~09.23",
       "announcement_date": "09.29",
-      "status_day": "D-50",
+      "status_day": "D-49",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607240060",
       "first_seen_at": "2026-07-25 14:46:18 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -185,11 +185,11 @@
       "reception_period": "07.31~10.17",
       "evaluation_period": "10.30~11.30",
       "announcement_date": "11.27",
-      "status_day": "D-82",
+      "status_day": "D-81",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607240021",
       "first_seen_at": "2026-07-25 14:46:18 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
@@ -200,11 +200,11 @@
       "reception_period": "06.08~07.31",
       "evaluation_period": "08.05",
       "announcement_date": "08.11",
-      "status_day": "D-4",
+      "status_day": "D-3",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607240002",
       "first_seen_at": "2026-07-24 18:05:02 KST",
-      "last_seen_at": "2026-07-27 23:44:12 KST",
+      "last_seen_at": "2026-07-28 02:01:03 KST",
       "is_current": true
     },
     {
