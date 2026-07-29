@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 6
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-07-29 13:20:08 KST",
+  "generated_at": "2026-07-29 16:20:59 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 8,
-    "upcoming": 4,
+    "open": 9,
+    "upcoming": 3,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607290006",
       "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607290002",
       "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 머니투데이방송 골든에이지어워즈 시니어모델 선발대회",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "MTN 머니투데이방송",
+      "target": "해당자 ▶",
+      "reception_period": "07.27~08.23",
+      "evaluation_period": "08.24~08.25",
+      "announcement_date": "-",
+      "status_day": "D-25",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607290008",
+      "first_seen_at": "2026-07-29 16:20:59 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607220008",
       "first_seen_at": "2026-07-29 09:58:13 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607280027",
       "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607290001",
       "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607200011",
       "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202606250056",
       "first_seen_at": "2026-07-29 09:58:13 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607240027",
       "first_seen_at": "2026-07-29 09:58:13 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -159,22 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607240042",
       "first_seen_at": "2026-07-29 09:58:13 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 제17회 계원 전국 중학생 음악콩쿠르",
-      "category": "음악•콩쿠르•댄스",
-      "host": "계원예술고등학교",
-      "target": "중학생",
-      "reception_period": "08.24~09.04",
-      "evaluation_period": "09.19",
-      "announcement_date": "09.19",
-      "status_day": "D-37",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607280009",
-      "first_seen_at": "2026-07-29 09:58:13 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607290005",
       "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607280010",
       "first_seen_at": "2026-07-29 09:58:13 KST",
-      "last_seen_at": "2026-07-29 13:20:08 KST",
+      "last_seen_at": "2026-07-29 16:20:59 KST",
       "is_current": true
     },
     {
