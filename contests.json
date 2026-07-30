@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 3
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-07-30 11:40:13 KST",
+  "generated_at": "2026-07-30 14:44:23 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
-    "upcoming": 4,
+    "open": 9,
+    "upcoming": 2,
     "other_current": 1,
     "archived": 38
   },
   "items": [
+    {
+      "title": "제23회 광주 추억의 충장축제 충장 K 퍼레이드(전국 경연 퍼레이드) 참여 단체 모집",
+      "category": "음악•콩쿠르•댄스",
+      "host": "충장축제 사무국",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "06.22~08.14",
+      "evaluation_period": "10.10",
+      "announcement_date": "10.10",
+      "status_day": "D-15",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607300006",
+      "first_seen_at": "2026-07-30 14:44:23 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
+      "is_current": true
+    },
     {
       "title": "마이크로소프트 X 체인지엑스 부산 지역사회 환경 지속가능성 CES 펀드",
       "category": "아이디어•건축•창업",
@@ -39,37 +54,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607280067",
       "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
-      "title": "제10회 선 아트홀 콩쿠르",
-      "category": "음악•콩쿠르•댄스",
-      "host": "SCC Sun Art Hall",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "07.29~08.19",
-      "evaluation_period": "08.22",
-      "announcement_date": "08.22",
-      "status_day": "D-20",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607290006",
-      "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 머니투데이방송 골든에이지어워즈 시니어모델 선발대회",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "MTN 머니투데이방송",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "07.27~08.23",
-      "evaluation_period": "08.24~08.25",
+      "title": "서울시X동그람이 2026 반려인 능력시험",
+      "category": "학문•과학•IT",
+      "host": "서울특별시, (주)동그람이",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "07.21~08.23",
+      "evaluation_period": "07.21~08.23",
       "announcement_date": "-",
       "status_day": "D-24",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607290008",
-      "first_seen_at": "2026-07-29 16:20:59 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607210057",
+      "first_seen_at": "2026-07-30 14:44:23 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 페스티벌 밴드 경연대회 CAMPY",
+      "category": "음악•콩쿠르•댄스",
+      "host": "중부대학교 문화예술체육학부 엔터테인먼트학전공",
+      "target": "중학생 , 고등학생",
+      "reception_period": "07.20~08.30",
+      "evaluation_period": "10.31",
+      "announcement_date": "-",
+      "status_day": "D-31",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607210055",
+      "first_seen_at": "2026-07-30 14:44:23 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607280048",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607280065",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607210050",
       "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
@@ -129,22 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607290030",
       "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
-      "title": "2026 K-INSAM AWARDS (제3회 전국 인삼제품 품평회/인삼 굿즈 콘테스트)",
-      "category": "The 다양한 분야",
-      "host": "금산군",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "08.03~08.21",
-      "evaluation_period": "08.25~09.09",
-      "announcement_date": "09.09",
-      "status_day": "D-22",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607230023",
-      "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "title": "제6회 나무와 목재사랑 그림그리기 대회",
+      "category": "미술•디자인•웹툰",
+      "host": "산림청·조선일보",
+      "target": "유치원 , 초등학생",
+      "reception_period": "06.15~09.30",
+      "evaluation_period": "10.01~10.22",
+      "announcement_date": "11.09",
+      "status_day": "D-62",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606240024",
+      "first_seen_at": "2026-07-30 14:44:23 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
@@ -159,22 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607280055",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 JC미디어X네이버시리즈 웹소설 공모전 <차세대 작가를 찾습니다> 현대판타지",
-      "category": "문학•문예",
-      "host": "작가컴퍼니, 네이버시리즈",
-      "target": "일반인",
-      "reception_period": "08.05~09.06",
-      "evaluation_period": "09.07~10.15",
-      "announcement_date": "10.16",
-      "status_day": "D-38",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607290005",
-      "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607280034",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607280066",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 14:44:23 KST",
       "is_current": true
     },
     {
