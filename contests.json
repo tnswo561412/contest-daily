@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-07-30 08:31:41 KST",
+  "generated_at": "2026-07-30 11:40:13 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
@@ -27,6 +27,21 @@
     "archived": 38
   },
   "items": [
+    {
+      "title": "마이크로소프트 X 체인지엑스 부산 지역사회 환경 지속가능성 CES 펀드",
+      "category": "아이디어•건축•창업",
+      "host": "ChangeX (체인지엑스)",
+      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 해당자 ▶",
+      "reception_period": "06.04~08.17",
+      "evaluation_period": "08.18~09.28",
+      "announcement_date": "-",
+      "status_day": "D-18",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607280067",
+      "first_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
+      "is_current": true
+    },
     {
       "title": "제10회 선 아트홀 콩쿠르",
       "category": "음악•콩쿠르•댄스",
@@ -39,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607290006",
       "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 ICT 표준 챌린지 공모전",
-      "category": "학문•과학•IT",
-      "host": "한국정보통신기술협회(TTA)",
-      "target": "대학생 , 대학원생 , 일반인 , 해당자 ▶",
-      "reception_period": "07.27~08.23",
-      "evaluation_period": "08.23~11.30",
-      "announcement_date": "-",
-      "status_day": "D-24",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607290002",
-      "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607290008",
       "first_seen_at": "2026-07-29 16:20:59 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607280048",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
@@ -99,37 +99,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607280065",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
-      "title": "제3회 서울 한강 국제영화제 작품공모",
-      "category": "사진•영상•영화제",
-      "host": "4.19혁명공로자회 서울특별시지부",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.20~08.31",
-      "evaluation_period": "08.17~09.11",
-      "announcement_date": "-",
-      "status_day": "D-32",
+      "title": "경기도 청소년활동 프로그램 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "경기도, (재)대건청소년회",
+      "target": "해당자 ▶",
+      "reception_period": "07.06~09.06",
+      "evaluation_period": "07.06~09.06",
+      "announcement_date": "10.14",
+      "status_day": "D-38",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607290001",
-      "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607210050",
+      "first_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
-      "title": "희귀•난치성질환 인식개선 콘텐츠 공모전",
-      "category": "사진•영상•영화제",
-      "host": "(사)한국희귀·난치성질환연합회·한국글로벌의약산업협회(KRPIA)",
+      "title": "2026 수성 건축·조경 시각작품 국제 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "수성문화재단",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.20~08.31",
-      "evaluation_period": "09.01~09.09",
-      "announcement_date": "09.10",
-      "status_day": "D-32",
+      "reception_period": "07.01~09.11",
+      "evaluation_period": "09.11~10.26",
+      "announcement_date": "10.27",
+      "status_day": "D-43",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607200011",
-      "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607290030",
+      "first_seen_at": "2026-07-30 11:40:13 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202607230023",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607280055",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607290005",
       "first_seen_at": "2026-07-29 13:20:08 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607280034",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607280066",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-30 08:31:41 KST",
+      "last_seen_at": "2026-07-30 11:40:13 KST",
       "is_current": true
     },
     {
