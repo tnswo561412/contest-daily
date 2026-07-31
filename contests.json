@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-07-31 09:05:06 KST",
+  "generated_at": "2026-07-31 13:00:48 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 11,
-    "upcoming": 0,
+    "open": 10,
+    "upcoming": 1,
     "other_current": 1,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607300006",
       "first_seen_at": "2026-07-30 14:44:23 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607280067",
       "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607290013",
       "first_seen_at": "2026-07-30 17:32:27 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607290025",
       "first_seen_at": "2026-07-30 17:32:27 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607210057",
       "first_seen_at": "2026-07-30 14:44:23 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -114,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607210055",
       "first_seen_at": "2026-07-30 14:44:23 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
-      "is_current": true
-    },
-    {
-      "title": "잡월드 청년 응원 프로젝트 <너의 근황을 들려줘> 공모전",
-      "category": "문학•문예",
-      "host": "한국잡월드",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "07.27~08.31",
-      "evaluation_period": "09.01~09.15",
-      "announcement_date": "09.16",
-      "status_day": "D-31",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607280065",
-      "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607210050",
       "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607290030",
       "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606240024",
       "first_seen_at": "2026-07-30 14:44:23 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607290016",
       "first_seen_at": "2026-07-30 17:32:27 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "is_current": true
+    },
+    {
+      "title": "6월 민주항쟁 39주년 기념 제8회 유월청소년창작가요제 참가자 모집",
+      "category": "음악•콩쿠르•댄스",
+      "host": "6월항쟁정신계승경남사업회, (사)경남6월항쟁기념사업회",
+      "target": "초등학생 , 중학생 , 고등학생",
+      "reception_period": "09.01~10.05",
+      "evaluation_period": "10.08",
+      "announcement_date": "10.12",
+      "status_day": "D-66",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607290031",
+      "first_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607280066",
       "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-31 09:05:06 KST",
+      "last_seen_at": "2026-07-31 13:00:48 KST",
       "is_current": true
     },
     {
