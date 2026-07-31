@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 1
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-07-31 13:00:48 KST",
+  "generated_at": "2026-07-31 16:22:42 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 1,
-    "other_current": 1,
+    "open": 8,
+    "upcoming": 4,
+    "other_current": 0,
     "archived": 38
   },
   "items": [
@@ -39,22 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607300006",
       "first_seen_at": "2026-07-30 14:44:23 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
-      "is_current": true
-    },
-    {
-      "title": "마이크로소프트 X 체인지엑스 부산 지역사회 환경 지속가능성 CES 펀드",
-      "category": "아이디어•건축•창업",
-      "host": "ChangeX (체인지엑스)",
-      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 해당자 ▶",
-      "reception_period": "06.04~08.17",
-      "evaluation_period": "08.18~09.28",
-      "announcement_date": "-",
-      "status_day": "D-17",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607280067",
-      "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607290013",
       "first_seen_at": "2026-07-30 17:32:27 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607290025",
       "first_seen_at": "2026-07-30 17:32:27 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607210057",
       "first_seen_at": "2026-07-30 14:44:23 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607210055",
       "first_seen_at": "2026-07-30 14:44:23 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
@@ -129,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607210050",
       "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 수성 건축·조경 시각작품 국제 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "수성문화재단",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.01~09.11",
-      "evaluation_period": "09.11~10.26",
-      "announcement_date": "10.27",
-      "status_day": "D-42",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607290030",
-      "first_seen_at": "2026-07-30 11:40:13 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
@@ -159,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606240024",
       "first_seen_at": "2026-07-30 14:44:23 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
@@ -174,37 +144,67 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607290016",
       "first_seen_at": "2026-07-30 17:32:27 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
-      "title": "6월 민주항쟁 39주년 기념 제8회 유월청소년창작가요제 참가자 모집",
-      "category": "음악•콩쿠르•댄스",
-      "host": "6월항쟁정신계승경남사업회, (사)경남6월항쟁기념사업회",
-      "target": "초등학생 , 중학생 , 고등학생",
-      "reception_period": "09.01~10.05",
-      "evaluation_period": "10.08",
-      "announcement_date": "10.12",
-      "status_day": "D-66",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607290031",
-      "first_seen_at": "2026-07-31 13:00:48 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
-      "is_current": true
-    },
-    {
-      "title": "용인한국외국어대학교부설고등학교 HAFS MIMUN XX 2026",
-      "category": "학문•과학•IT",
-      "host": "용인한국외국어대학교부설고등학교",
-      "target": "초등학생 , 중학생",
-      "reception_period": "07.25~08.05",
-      "evaluation_period": "08.15~08.16",
+      "title": "EIDER HIKER's DAY in 부안 변산마실길",
+      "category": "스포츠",
+      "host": "(주)아이더",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "08.07~08.19",
+      "evaluation_period": "10.02~10.05",
       "announcement_date": "-",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607280066",
-      "first_seen_at": "2026-07-29 19:09:47 KST",
-      "last_seen_at": "2026-07-31 13:00:48 KST",
+      "status_day": "D-19",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607220014",
+      "first_seen_at": "2026-07-31 16:22:42 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 제3회 해운대 환경 4컷 웹툰 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "부산광역시 해운대구",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.17~08.21",
+      "evaluation_period": "08.24~08.28",
+      "announcement_date": "09.07",
+      "status_day": "D-21",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607310002",
+      "first_seen_at": "2026-07-31 16:22:42 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "제8회 안양시 학생 창의과학 경진대회 참가자 모집",
+      "category": "학문•과학•IT",
+      "host": "안양시인재육성재단",
+      "target": "초등학생 , 중학생 , 고등학생 , 해당자 ▶",
+      "reception_period": "08.24~09.02",
+      "evaluation_period": "08.24~09.02",
+      "announcement_date": "09.18",
+      "status_day": "D-33",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607220011",
+      "first_seen_at": "2026-07-31 16:22:42 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "삼성전자 블루스페이스 멤버십을 위한 AI HOME Interior Design Contest 삼성전자 AI 기반 주거 공간 디자인 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "삼성전자",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "08.01~09.18",
+      "evaluation_period": "08.01~09.18",
+      "announcement_date": "10.16",
+      "status_day": "D-49",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607310009",
+      "first_seen_at": "2026-07-31 16:22:42 KST",
+      "last_seen_at": "2026-07-31 16:22:42 KST",
       "is_current": true
     },
     {
