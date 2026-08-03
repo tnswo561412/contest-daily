@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 1
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-08-03 12:21:53 KST",
+  "generated_at": "2026-08-03 15:44:21 KST",
   "count": 50,
   "counts_by_status": {
     "open": 11,
-    "upcoming": 1,
-    "other_current": 0,
+    "upcoming": 0,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607310014",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607310005",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607200009",
       "first_seen_at": "2026-08-03 12:21:53 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607310010",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607310012",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
@@ -114,37 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607310006",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
-      "title": "2026 대전예술제 전국가요제",
+      "title": "[대전] 3인조 퍼포먼스 걸그룹 ONLY 멤버 모집",
       "category": "음악•콩쿠르•댄스",
-      "host": "ST실용음악학원",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.30~08.31",
-      "evaluation_period": "09.01~09.02",
-      "announcement_date": "09.02",
-      "status_day": "D-28",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607300015",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 춘천연합마라톤",
-      "category": "스포츠",
-      "host": "연합뉴스 , 춘천시육상연맹",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.16~08.31",
-      "evaluation_period": "10.03",
+      "host": "뮤프링클",
+      "target": "대학생 , 대학원생 , 일반인 , 해당자 ▶",
+      "reception_period": "08.01~08.31",
+      "evaluation_period": "09.01~09.07",
       "announcement_date": "-",
       "status_day": "D-28",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607300010",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608010004",
+      "first_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607310013",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 새마을 숏폼 영상 콘테스트",
+      "category": "사진•영상•영화제",
+      "host": "청도군청",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "06.01~09.28",
+      "evaluation_period": "09.29~10.15",
+      "announcement_date": "10.16",
+      "status_day": "D-56",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606010035",
+      "first_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607310007",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
@@ -189,22 +189,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607300018",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
-      "title": "EIDER HIKER's DAY in 부안 변산마실길",
-      "category": "스포츠",
-      "host": "(주)아이더",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "08.07~08.19",
-      "evaluation_period": "10.02~10.05",
+      "title": "2026 항공산업 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "2026 항공산업 커리어 엑스포",
+      "target": "일반인",
+      "reception_period": "07.20~08.07",
+      "evaluation_period": "07.20~08.07",
       "announcement_date": "-",
-      "status_day": "D-16",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607220014",
-      "first_seen_at": "2026-07-31 16:22:42 KST",
-      "last_seen_at": "2026-08-03 12:21:53 KST",
+      "status_day": "D-4",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240054",
+      "first_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 15:44:21 KST",
       "is_current": true
     },
     {
