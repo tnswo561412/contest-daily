@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 3
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-08-03 15:44:21 KST",
+  "generated_at": "2026-08-03 19:45:42 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 11,
-    "upcoming": 0,
-    "other_current": 1,
+    "open": 9,
+    "upcoming": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
@@ -39,22 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607310014",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
-      "title": "가야고분군 사진공모전",
-      "category": "사진•영상•영화제",
-      "host": "국가유산청, 경상남도, 경상북도, 전북특별자치도, 김해시, 함안군, 합천군, 고령군, 고성군, 남원시, 창녕군",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.24~08.17",
-      "evaluation_period": "08.18~09.09",
-      "announcement_date": "-",
-      "status_day": "D-14",
+      "title": "2026 제2회 과천청년 슈퍼스타 오디세이",
+      "category": "음악•콩쿠르•댄스",
+      "host": "과천시",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "07.27~08.20",
+      "evaluation_period": "07.27~08.20",
+      "announcement_date": "08.21",
+      "status_day": "D-17",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607310005",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607240057",
+      "first_seen_at": "2026-08-03 19:45:42 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607200009",
       "first_seen_at": "2026-08-03 12:21:53 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607310010",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
@@ -99,22 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607310012",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
-      "is_current": true
-    },
-    {
-      "title": "제3회 전국 심연수 창작음악제",
-      "category": "음악•콩쿠르•댄스",
-      "host": "강원특별자치도/강릉시/심연수기념사업회/강원도민일보",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.27~08.30",
-      "evaluation_period": "09.01~09.10",
-      "announcement_date": "09.11",
-      "status_day": "D-27",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607310006",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608010004",
       "first_seen_at": "2026-08-03 15:44:21 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607310013",
       "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "제17회 파주 장단삼백요리 전국 경연대회",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "파주시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.03~09.27",
+      "evaluation_period": "08.03~09.27",
+      "announcement_date": "09.30",
+      "status_day": "D-55",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202608030028",
+      "first_seen_at": "2026-08-03 19:45:42 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
@@ -159,37 +159,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606010035",
       "first_seen_at": "2026-08-03 15:44:21 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
-      "title": "[GS칼텍스] 에너지플러스 앱 바로주유 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "GS칼텍스",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.01~09.30",
-      "evaluation_period": "10.01~10.31",
+      "title": "제8회 전국 어린이 시 쓰기 대회",
+      "category": "문학•문예",
+      "host": "한국동시문학회",
+      "target": "초등학생",
+      "reception_period": "09.01~09.30",
+      "evaluation_period": "10.01~10.14",
       "announcement_date": "-",
       "status_day": "D-58",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607310007",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
-      "is_current": true
-    },
-    {
-      "title": "'2026 경상북도 다문화가족 시낭송 콘테스트' 모집 안내",
-      "category": "문학•문예",
-      "host": "한국Q뉴스",
-      "target": "해당자 ▶",
-      "reception_period": "07.28~10.07",
-      "evaluation_period": "10.08~11.03",
-      "announcement_date": "11.04",
-      "status_day": "D-65",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607300018",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608020006",
+      "first_seen_at": "2026-08-03 19:45:42 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240054",
       "first_seen_at": "2026-08-03 15:44:21 KST",
-      "last_seen_at": "2026-08-03 15:44:21 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 항공안전 스피치 콘테스트",
+      "category": "학문•과학•IT",
+      "host": "2026 항공산업 커리어 엑스포",
+      "target": "대학생",
+      "reception_period": "07.20~08.07",
+      "evaluation_period": "07.20~08.07",
+      "announcement_date": "-",
+      "status_day": "D-4",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607240055",
+      "first_seen_at": "2026-08-03 19:45:42 KST",
+      "last_seen_at": "2026-08-03 19:45:42 KST",
       "is_current": true
     },
     {
