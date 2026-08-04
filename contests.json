@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-08-04 16:14:56 KST",
+  "generated_at": "2026-08-04 19:11:55 KST",
   "count": 50,
   "counts_by_status": {
     "open": 12,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608030054",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608030047",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608030027",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
+      "is_current": true
+    },
+    {
+      "title": "026년 주민이 직접 만드는 추석행사 주민공모",
+      "category": "아이디어•건축•창업",
+      "host": "심곡동종합사회복지관",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.04~08.23",
+      "evaluation_period": "08.24",
+      "announcement_date": "08.25",
+      "status_day": "D-19",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608040046",
+      "first_seen_at": "2026-08-04 19:11:55 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608040005",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608040014",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608030045",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608030049",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030046",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -159,22 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030051",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
-      "is_current": true
-    },
-    {
-      "title": "제4회 국민 공공외교 우수사례 공모전",
-      "category": "사진•영상•영화제",
-      "host": "외교부",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "08.03~09.13",
-      "evaluation_period": "09.13~10.31",
-      "announcement_date": "-",
-      "status_day": "D-40",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030026",
-      "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608040003",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608030030",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 16:14:56 KST",
+      "last_seen_at": "2026-08-04 19:11:55 KST",
       "is_current": true
     },
     {
