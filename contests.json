@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 5
   },
-  "generated_at": "2026-08-04 08:05:02 KST",
+  "generated_at": "2026-08-04 10:00:14 KST",
   "count": 50,
   "counts_by_status": {
     "open": 9,
@@ -27,21 +27,6 @@
     "archived": 38
   },
   "items": [
-    {
-      "title": "2026 자원순환 실천사례 그림 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "한국환경공단, 그린루틴",
-      "target": "초등학생",
-      "reception_period": "07.28~08.16",
-      "evaluation_period": "08.17~08.24",
-      "announcement_date": "08.25",
-      "status_day": "D-12",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607310014",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
-      "is_current": true
-    },
     {
       "title": "2026 제2회 과천청년 슈퍼스타 오디세이",
       "category": "음악•콩쿠르•댄스",
@@ -54,52 +39,52 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202607240057",
       "first_seen_at": "2026-08-03 19:45:42 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
-      "title": "2026년 수원 시낭송 경연대회",
-      "category": "문학•문예",
-      "host": "수원문인협회",
-      "target": "해당자 ▶",
-      "reception_period": "08.01~08.22",
-      "evaluation_period": "08.01~08.22",
-      "announcement_date": "-",
-      "status_day": "D-18",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202607200009",
-      "first_seen_at": "2026-08-03 12:21:53 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 kobaco 공공데이터 아이디어 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "한국방송광고진흥공사",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.03~08.24",
-      "evaluation_period": "09.01~09.30",
-      "announcement_date": "10.05",
-      "status_day": "D-20",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607310010",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
-      "is_current": true
-    },
-    {
-      "title": "<아산 성웅 이순신축제> BI 디자인 공모전",
+      "title": "[국제공모전] IN:SENSE Design Award 2027",
       "category": "미술•디자인•웹툰",
-      "host": "(재)아산문화재단",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.30~08.25",
-      "evaluation_period": "08.26~09.09",
-      "announcement_date": "09.10",
-      "status_day": "D-21",
+      "host": "국제감각디자인협회",
+      "target": "대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.01~01.31",
+      "evaluation_period": "02.01~03.31",
+      "announcement_date": "04.30",
+      "status_day": "D-180",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202607310012",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608010001",
+      "first_seen_at": "2026-08-04 10:00:14 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 9월 시시한창작그림책 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "시시한출판",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "08.01~08.31",
+      "evaluation_period": "08.01~08.31",
+      "announcement_date": "09.01",
+      "status_day": "D-27",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608020004",
+      "first_seen_at": "2026-08-04 10:00:14 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 9월 어린이가 펴낸 그림책 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "시시한출판사",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 해당자 ▶",
+      "reception_period": "08.01~08.31",
+      "evaluation_period": "08.01~08.31",
+      "announcement_date": "09.01",
+      "status_day": "D-27",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608020003",
+      "first_seen_at": "2026-08-04 10:00:14 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
@@ -114,22 +99,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608010004",
       "first_seen_at": "2026-08-03 15:44:21 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
-      "title": "제24회 대한민국청소년영상대전",
-      "category": "사진•영상•영화제",
-      "host": "수원시청소년청년재단",
-      "target": "중학생 , 고등학생",
-      "reception_period": "07.28~09.22",
-      "evaluation_period": "09.23~10.29",
-      "announcement_date": "10.30",
-      "status_day": "D-49",
+      "title": "쿼터풀 글로벌 소설 공모전",
+      "category": "문학•문예",
+      "host": "주식회사 쿼터풀",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.02~09.10",
+      "evaluation_period": "09.11~09.15",
+      "announcement_date": "-",
+      "status_day": "D-37",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607310013",
-      "first_seen_at": "2026-07-31 19:06:11 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608020005",
+      "first_seen_at": "2026-08-04 10:00:14 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 대구 어린이 민화 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "박물관ㆍ수",
+      "target": "초등학생 , 중학생",
+      "reception_period": "08.01~09.21",
+      "evaluation_period": "09.21~09.26",
+      "announcement_date": "09.26",
+      "status_day": "D-48",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608030010",
+      "first_seen_at": "2026-08-04 10:00:14 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202608030028",
       "first_seen_at": "2026-08-03 19:45:42 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202606010035",
       "first_seen_at": "2026-08-03 15:44:21 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608020006",
       "first_seen_at": "2026-08-03 19:45:42 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607240054",
       "first_seen_at": "2026-08-03 15:44:21 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202607240055",
       "first_seen_at": "2026-08-03 19:45:42 KST",
-      "last_seen_at": "2026-08-04 08:05:02 KST",
+      "last_seen_at": "2026-08-04 10:00:14 KST",
       "is_current": true
     },
     {
