@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-08-04 21:26:25 KST",
+  "generated_at": "2026-08-05 00:03:54 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 12,
+    "open": 11,
     "upcoming": 0,
-    "other_current": 0,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
-    {
-      "title": "2026년 미래여성경제인육성사업 창업아이디어 멘토링·IP권리화 프로그램",
-      "category": "아이디어•건축•창업",
-      "host": "중소벤처기업부",
-      "target": "고등학생 , 대학생 , 대학원생",
-      "reception_period": "06.15~08.14",
-      "evaluation_period": "08.17~08.31",
-      "announcement_date": "-",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608030054",
-      "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
-      "is_current": true
-    },
     {
       "title": "2026 평화의숲 마라톤",
       "category": "스포츠",
@@ -50,26 +35,11 @@
       "reception_period": "08.03~11.15",
       "evaluation_period": "11.22",
       "announcement_date": "-",
-      "status_day": "D-103",
+      "status_day": "D-102",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608030047",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
-      "is_current": true
-    },
-    {
-      "title": "<제4회 학교밖청소년 비진학청년 창업가 및 예술가 공익활동 지원사업> 공익+프로젝트 모집",
-      "category": "The 다양한 분야",
-      "host": "다다다사회적협동조합, (사)나눔과이음",
-      "target": "해당자 ▶",
-      "reception_period": "07.29~08.16",
-      "evaluation_period": "08.17~08.28",
-      "announcement_date": "08.28",
-      "status_day": "D-12",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608030027",
-      "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -80,11 +50,11 @@
       "reception_period": "08.04~08.23",
       "evaluation_period": "08.24",
       "announcement_date": "08.25",
-      "status_day": "D-19",
+      "status_day": "D-18",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608040046",
       "first_seen_at": "2026-08-04 19:11:55 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -95,11 +65,11 @@
       "reception_period": "07.24~08.23",
       "evaluation_period": "08.24~08.27",
       "announcement_date": "08.28",
-      "status_day": "D-19",
+      "status_day": "D-18",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608040005",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -110,11 +80,11 @@
       "reception_period": "08.03~08.27",
       "evaluation_period": "08.03~08.27",
       "announcement_date": "08.29",
-      "status_day": "D-23",
+      "status_day": "D-22",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608040014",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -125,11 +95,26 @@
       "reception_period": "08.03~08.31",
       "evaluation_period": "09.01~09.29",
       "announcement_date": "09.30",
-      "status_day": "D-27",
+      "status_day": "D-26",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608030045",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 요한 세바스찬 바흐 국제 콩쿠르",
+      "category": "음악•콩쿠르•댄스",
+      "host": "한국예술문화교류학회, J. S. BACH International Festival Competition ,Konzervator Olomouc Czech, Mozart circle Vienna,Klimt Villa Vienna",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.04~09.03",
+      "evaluation_period": "08.22~09.12",
+      "announcement_date": "-",
+      "status_day": "D-29",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608040047",
+      "first_seen_at": "2026-08-05 00:03:54 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -140,11 +125,11 @@
       "reception_period": "08.03~09.06",
       "evaluation_period": "09.07~09.18",
       "announcement_date": "-",
-      "status_day": "D-33",
+      "status_day": "D-32",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608030049",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -155,11 +140,11 @@
       "reception_period": "08.03~09.10",
       "evaluation_period": "10.01~10.31",
       "announcement_date": "-",
-      "status_day": "D-37",
+      "status_day": "D-36",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030046",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -170,11 +155,11 @@
       "reception_period": "08.03~09.11",
       "evaluation_period": "09.16~09.22",
       "announcement_date": "09.29",
-      "status_day": "D-38",
+      "status_day": "D-37",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030051",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -185,11 +170,26 @@
       "reception_period": "08.03~09.13",
       "evaluation_period": "09.14~09.19",
       "announcement_date": "09.22",
-      "status_day": "D-40",
+      "status_day": "D-39",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608040003",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 미래여성경제인육성사업 창업아이디어 멘토링·IP권리화 프로그램",
+      "category": "아이디어•건축•창업",
+      "host": "중소벤처기업부",
+      "target": "고등학생 , 대학생 , 대학원생",
+      "reception_period": "06.15~08.14",
+      "evaluation_period": "08.17~08.31",
+      "announcement_date": "-",
+      "status_day": "D-9",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608030054",
+      "first_seen_at": "2026-08-04 13:21:54 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
@@ -200,11 +200,11 @@
       "reception_period": "07.31~08.12",
       "evaluation_period": "08.13~08.14",
       "announcement_date": "-",
-      "status_day": "D-8",
-      "status_text": "접수중",
+      "status_day": "D-7",
+      "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608030030",
       "first_seen_at": "2026-08-04 13:21:54 KST",
-      "last_seen_at": "2026-08-04 21:26:25 KST",
+      "last_seen_at": "2026-08-05 00:03:54 KST",
       "is_current": true
     },
     {
