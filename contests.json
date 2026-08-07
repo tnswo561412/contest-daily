@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 5
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-08-07 12:29:59 KST",
+  "generated_at": "2026-08-07 14:18:10 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 8,
-    "upcoming": 3,
+    "open": 9,
+    "upcoming": 2,
     "other_current": 1,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608070010",
       "first_seen_at": "2026-08-07 12:29:59 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608060013",
       "first_seen_at": "2026-08-06 15:34:21 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
+      "is_current": true
+    },
+    {
+      "title": "[과제전형 리허설] 실전 모의고사 · 사업기획 직무",
+      "category": "아이디어•건축•창업",
+      "host": "어치브모먼트",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.07~08.27",
+      "evaluation_period": "09.04~09.09",
+      "announcement_date": "09.10",
+      "status_day": "D-20",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608070049",
+      "first_seen_at": "2026-08-07 14:18:10 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608050039",
       "first_seen_at": "2026-08-06 12:50:17 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608060096",
       "first_seen_at": "2026-08-07 12:29:59 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608060004",
       "first_seen_at": "2026-08-06 15:34:21 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
+      "is_current": true
+    },
+    {
+      "title": "「김천시 시민운동 슬로건 리뉴얼」공모전",
+      "category": "네이밍•슬로건",
+      "host": "김천시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.06~08.31",
+      "evaluation_period": "09.01~10.29",
+      "announcement_date": "10.30",
+      "status_day": "D-24",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608070047",
+      "first_seen_at": "2026-08-07 14:18:10 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -114,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608060008",
       "first_seen_at": "2026-08-06 15:34:21 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -129,22 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608040042",
       "first_seen_at": "2026-08-07 12:29:59 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
-      "is_current": true
-    },
-    {
-      "title": "제2회「출산BooM 달서」저출산 콘텐츠 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "대구광역시 달서구청",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.03~10.02",
-      "evaluation_period": "10.05~11.06",
-      "announcement_date": "-",
-      "status_day": "D-56",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608050029",
-      "first_seen_at": "2026-08-06 12:50:17 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608060085",
       "first_seen_at": "2026-08-07 12:29:59 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608060005",
       "first_seen_at": "2026-08-06 15:34:21 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
-      "is_current": true
-    },
-    {
-      "title": "제1회 HIMEC AI 활용 아이디어 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "주식회사 하이멕",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.10~09.30",
-      "evaluation_period": "10.01~10.31",
-      "announcement_date": "-",
-      "status_day": "D-54",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608050013",
-      "first_seen_at": "2026-08-06 12:50:17 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608060086",
       "first_seen_at": "2026-08-07 12:29:59 KST",
-      "last_seen_at": "2026-08-07 12:29:59 KST",
+      "last_seen_at": "2026-08-07 14:18:10 KST",
       "is_current": true
     },
     {
