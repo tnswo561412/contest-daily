@@ -16,60 +16,30 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 6
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-08-12 11:12:12 KST",
+  "generated_at": "2026-08-12 13:22:11 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 1,
+    "open": 8,
+    "upcoming": 3,
     "other_current": 1,
     "archived": 38
   },
   "items": [
     {
-      "title": "제4회 현대문학*미래엔 청소년문학상",
-      "category": "문학•문예",
-      "host": "현대문학, 미래엔",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "06.01~01.31",
-      "evaluation_period": "02.01~04.17",
-      "announcement_date": "05.01",
-      "status_day": "D-172",
+      "title": "2026 세종 울트라 틴즈 댄스 경연대회 참가자 모집",
+      "category": "음악•콩쿠르•댄스",
+      "host": "세종시문화관광재단",
+      "target": "초등학생 , 중학생 , 고등학생 , 해당자 ▶",
+      "reception_period": "08.07~08.26",
+      "evaluation_period": "08.28",
+      "announcement_date": "08.31",
+      "status_day": "D-14",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608100077",
-      "first_seen_at": "2026-08-11 10:59:24 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 지능형 과학실 ON 연계 공동탐구 전국대회",
-      "category": "학문•과학•IT",
-      "host": "한국과학창의재단",
-      "target": "초등학생 , 중학생 , 고등학생",
-      "reception_period": "06.23~08.31",
-      "evaluation_period": "10.12~10.23",
-      "announcement_date": "-",
-      "status_day": "D-19",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608100082",
-      "first_seen_at": "2026-08-11 10:59:24 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
-      "is_current": true
-    },
-    {
-      "title": "[2026 창원콘텐츠컨벤션] 고교생·대학생 AI 공모전",
-      "category": "사진•영상•영화제",
-      "host": "창원특례시",
-      "target": "고등학생 , 대학생",
-      "reception_period": "08.03~08.31",
-      "evaluation_period": "09.01~09.12",
-      "announcement_date": "09.12",
-      "status_day": "D-19",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608100078",
-      "first_seen_at": "2026-08-11 10:59:24 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608110042",
+      "first_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
@@ -84,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608070038",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
@@ -99,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608110009",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
@@ -114,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608110004",
       "first_seen_at": "2026-08-11 15:28:37 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
@@ -129,22 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608070051",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
-      "is_current": true
-    },
-    {
-      "title": "「빛의 혁명」 상징 디자인 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "빛의 위원회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.10~09.06",
-      "evaluation_period": "09.07~09.18",
-      "announcement_date": "09.22",
-      "status_day": "D-25",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608110002",
-      "first_seen_at": "2026-08-11 15:28:37 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
@@ -159,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608110060",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "is_current": true
+    },
+    {
+      "title": "제3회 미당시 손글씨 대회",
+      "category": "미술•디자인•웹툰",
+      "host": "동국대학교 미당연구소 / 고창군 미당시문학관",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.01~10.12",
+      "evaluation_period": "10.13~10.16",
+      "announcement_date": "10.21",
+      "status_day": "D-61",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606050072",
+      "first_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
@@ -174,7 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608060070",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "is_current": true
+    },
+    {
+      "title": "[WCPEC-9] AI로 그리는 미래에너지 공모전",
+      "category": "사진•영상•영화제",
+      "host": "기후에너지환경부, 대전광역시, 한국태양광발전학회",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.14~08.28",
+      "evaluation_period": "08.31~09.18",
+      "announcement_date": "09.23",
+      "status_day": "D-16",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608110059",
+      "first_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608110031",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 서초구 청소년 문화예술 경연대회 '둠칫꿈칫'",
+      "category": "음악•콩쿠르•댄스",
+      "host": "서초구청",
+      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 해당자 ▶",
+      "reception_period": "09.01~09.30",
+      "evaluation_period": "10.06~10.08",
+      "announcement_date": "10.10",
+      "status_day": "D-49",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608110044",
+      "first_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607300028",
       "first_seen_at": "2026-08-11 12:51:26 KST",
-      "last_seen_at": "2026-08-12 11:12:12 KST",
+      "last_seen_at": "2026-08-12 13:22:11 KST",
       "is_current": true
     },
     {
