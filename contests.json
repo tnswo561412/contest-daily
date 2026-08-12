@@ -18,12 +18,12 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 4
   },
-  "generated_at": "2026-08-12 13:22:11 KST",
+  "generated_at": "2026-08-12 14:56:18 KST",
   "count": 50,
   "counts_by_status": {
     "open": 8,
-    "upcoming": 3,
-    "other_current": 1,
+    "upcoming": 4,
+    "other_current": 0,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608110042",
       "first_seen_at": "2026-08-12 13:22:11 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608070038",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
@@ -69,52 +69,52 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608110009",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
-      "title": "제29회 제주수어경연대회 참가자 모집",
-      "category": "음악•콩쿠르•댄스",
-      "host": "사)한국농아인협회 제주특별자치도협회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "08.03~09.04",
-      "evaluation_period": "09.07~10.08",
-      "announcement_date": "10.08",
-      "status_day": "D-23",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608110004",
-      "first_seen_at": "2026-08-11 15:28:37 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
-      "is_current": true
-    },
-    {
-      "title": "자살예방의 날 기념 「거제야호! 생명야호! SNS 릴스 챌린지 」",
+      "title": "2026 한국유학 홍보 숏폼 영상 공모전",
       "category": "사진•영상•영화제",
-      "host": "﻿거제시 정신건강복지센터",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "08.10~09.05",
-      "evaluation_period": "09.07~09.18",
-      "announcement_date": "09.21",
-      "status_day": "D-24",
+      "host": "교육부",
+      "target": "대학생 , 대학원생 , 외국인",
+      "reception_period": "07.29~09.15",
+      "evaluation_period": "07.29~09.15",
+      "announcement_date": "-",
+      "status_day": "D-34",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608070051",
-      "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608120007",
+      "first_seen_at": "2026-08-12 14:56:18 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
-      "title": "복권기금 그림 공모전 ‘우리 동네를 바꾼 복권기금 이야기’",
-      "category": "미술•디자인•웹툰",
-      "host": "기획예산처 복권위원회, 동행복권",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "08.11~09.11",
-      "evaluation_period": "08.11~09.30",
-      "announcement_date": "-",
-      "status_day": "D-30",
+      "title": "2026 AI로 금산 창작물 공모전",
+      "category": "The 다양한 분야",
+      "host": "금산교육지원청",
+      "target": "초등학생 , 중학생 , 고등학생",
+      "reception_period": "08.10~09.21",
+      "evaluation_period": "09.22~10.09",
+      "announcement_date": "10.13",
+      "status_day": "D-40",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608110060",
-      "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608120004",
+      "first_seen_at": "2026-08-12 14:56:18 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
+      "is_current": true
+    },
+    {
+      "title": "[ABEXPO2026] 함께 만드는 경남 건강지도 프로젝트 「경남 건강명소 공모전」",
+      "category": "사진•영상•영화제",
+      "host": "2026 항노화바이오헬스박람회",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.03~10.05",
+      "evaluation_period": "10.06~10.31",
+      "announcement_date": "-",
+      "status_day": "D-54",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608120008",
+      "first_seen_at": "2026-08-12 14:56:18 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202606050072",
       "first_seen_at": "2026-08-12 13:22:11 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608060070",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608110059",
       "first_seen_at": "2026-08-12 13:22:11 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608110031",
       "first_seen_at": "2026-08-12 11:12:12 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 하반기 <교과서, 어디까지 가봤니?> 부여(扶餘)편 공고",
+      "category": "The 다양한 분야",
+      "host": "역사문화환경연구소 주식회사",
+      "target": "초등학생",
+      "reception_period": "09.07~09.11",
+      "evaluation_period": "09.14~09.17",
+      "announcement_date": "09.18",
+      "status_day": "D-30",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608120005",
+      "first_seen_at": "2026-08-12 14:56:18 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608110044",
       "first_seen_at": "2026-08-12 13:22:11 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 도청신도시 버블런",
-      "category": "스포츠",
-      "host": "예천군",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.03~08.17",
-      "evaluation_period": "08.21",
-      "announcement_date": "-",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607300028",
-      "first_seen_at": "2026-08-11 12:51:26 KST",
-      "last_seen_at": "2026-08-12 13:22:11 KST",
+      "last_seen_at": "2026-08-12 14:56:18 KST",
       "is_current": true
     },
     {
