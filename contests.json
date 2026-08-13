@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-08-13 11:16:29 KST",
+  "generated_at": "2026-08-13 13:26:06 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 1,
-    "other_current": 2,
+    "open": 11,
+    "upcoming": 0,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608060072",
       "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
       "is_current": true
     },
     {
@@ -54,37 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202608060060",
       "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 S오일 감동의 마라톤",
-      "category": "스포츠",
-      "host": "더윙, S오일",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.01~08.31",
-      "evaluation_period": "10.04",
-      "announcement_date": "10.04",
-      "status_day": "D-18",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608060049",
-      "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 무쓰런",
-      "category": "스포츠",
-      "host": "청주충북환경운동연합",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.21~08.31",
-      "evaluation_period": "10.24",
-      "announcement_date": "10.24",
-      "status_day": "D-18",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608060052",
-      "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
       "is_current": true
     },
     {
@@ -99,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608120052",
       "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 민생규제합리화 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "부산시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "08.03~08.31",
+      "evaluation_period": "09.01~12.30",
+      "announcement_date": "12.31",
+      "status_day": "D-18",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608060081",
+      "first_seen_at": "2026-08-13 13:26:06 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608060063",
       "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
+      "is_current": true
+    },
+    {
+      "title": "나의 연구 도전기 공모전",
+      "category": "문학•문예",
+      "host": "과학기술정보통신부, 한국과학창의재단",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "08.03~09.04",
+      "evaluation_period": "08.03~09.04",
+      "announcement_date": "-",
+      "status_day": "D-22",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608060087",
+      "first_seen_at": "2026-08-13 13:26:06 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608060073",
       "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 김해시 올해의 책 독후감 공모전",
+      "category": "문학•문예",
+      "host": "김해시",
+      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "05.20~09.18",
+      "evaluation_period": "09.19~10.31",
+      "announcement_date": "-",
+      "status_day": "D-36",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608110041",
+      "first_seen_at": "2026-08-13 13:26:06 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608060062",
       "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
+      "is_current": true
+    },
+    {
+      "title": "청주시 민간기록물 수집 공모전「기억이 머문 길, 청주의 기록」",
+      "category": "The 다양한 분야",
+      "host": "청주시, 청주기록원",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.03~10.30",
+      "evaluation_period": "11.02~12.30",
+      "announcement_date": "12.31",
+      "status_day": "D-78",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608060080",
+      "first_seen_at": "2026-08-13 13:26:06 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
       "is_current": true
     },
     {
@@ -159,22 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608060056",
       "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 국가산림문화자산 AI 숏폼 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "산림청, 복권위원회, 한국산림복지진흥원",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "09.01~09.30",
-      "evaluation_period": "09.01~09.30",
-      "announcement_date": "-",
-      "status_day": "D-48",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608060038",
-      "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202608060061",
       "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 전남광주 청년(YOUTH) AI 솔버톤",
-      "category": "아이디어•건축•창업",
-      "host": "중소벤처기업진흥공단 호남연수원 · 광주대학교 앵커사업단 · 광주대학교 대학일자리플러스센터 외",
-      "target": "대학생 , 대학원생 , 일반인 , 해당자 ▶",
-      "reception_period": "07.27~08.19",
-      "evaluation_period": "09.03~09.04",
-      "announcement_date": "09.04",
-      "status_day": "D-6",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608060043",
-      "first_seen_at": "2026-08-13 11:16:29 KST",
-      "last_seen_at": "2026-08-13 11:16:29 KST",
+      "last_seen_at": "2026-08-13 13:26:06 KST",
       "is_current": true
     },
     {
