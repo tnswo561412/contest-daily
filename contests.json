@@ -16,47 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 7
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-08-14 11:12:43 KST",
+  "generated_at": "2026-08-14 13:22:40 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 2,
-    "other_current": 0,
+    "open": 9,
+    "upcoming": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
-    {
-      "title": "모두의창업 대학리그",
-      "category": "아이디어•건축•창업",
-      "host": "부산대학교, 창업진흥원, 부산대학교 창업지원단, 부산대학교 앵커사업단, 부산대학교 산학협력단, 부산앵커센터, 한국해양대학교, 동명대학교",
-      "target": "대학생 , 대학원생",
-      "reception_period": "08.12~08.24",
-      "evaluation_period": "08.24~08.27",
-      "announcement_date": "-",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608120082",
-      "first_seen_at": "2026-08-13 14:58:52 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
-      "is_current": true
-    },
-    {
-      "title": "「AI로 만드는 나의 실감세계」 — 2026 SUMMER WEEK AI+XR 공모전",
-      "category": "사진•영상•영화제",
-      "host": "실감미디어혁신융합대학사업단",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.05~08.26",
-      "evaluation_period": "08.27",
-      "announcement_date": "08.28",
-      "status_day": "D-12",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608120084",
-      "first_seen_at": "2026-08-13 14:58:52 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
-      "is_current": true
-    },
     {
       "title": "오픈AI 게임 빌더스 서울",
       "category": "학문•과학•IT",
@@ -69,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608130048",
       "first_seen_at": "2026-08-14 11:12:43 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
@@ -84,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608130015",
       "first_seen_at": "2026-08-14 11:12:43 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 대학생·청년 진주 도보여행 콘텐츠 공모전",
+      "category": "사진•영상•영화제",
+      "host": "(재)진주문화관광재단",
+      "target": "대학생 , 일반인",
+      "reception_period": "07.28~08.30",
+      "evaluation_period": "07.28~08.30",
+      "announcement_date": "09.03",
+      "status_day": "D-16",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202607310027",
+      "first_seen_at": "2026-08-14 13:22:40 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608130014",
       "first_seen_at": "2026-08-14 11:12:43 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607230002",
       "first_seen_at": "2026-08-13 16:46:35 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608130051",
       "first_seen_at": "2026-08-14 11:12:43 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
@@ -144,22 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608130050",
       "first_seen_at": "2026-08-14 11:12:43 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
-      "title": "광둥 여행 스팟 인증 챌린지",
+      "title": "2026 OYE AI 숏드라마 챌린지 : EP.01",
       "category": "사진•영상•영화제",
-      "host": "중국주서울관광사무소",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "04.27~10.15",
-      "evaluation_period": "10.16~10.30",
-      "announcement_date": "10.31",
-      "status_day": "D-62",
+      "host": "OYE",
+      "target": "중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.12~09.13",
+      "evaluation_period": "08.12~09.13",
+      "announcement_date": "09.16",
+      "status_day": "D-30",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608120074",
-      "first_seen_at": "2026-08-13 14:58:52 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608140005",
+      "first_seen_at": "2026-08-14 13:22:40 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
@@ -174,22 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608130031",
       "first_seen_at": "2026-08-14 11:12:43 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 영산강 가족정원 페스티벌 시민 참여정원 공모",
-      "category": "아이디어•건축•창업",
-      "host": "나주시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.20~08.26",
-      "evaluation_period": "08.27~08.30",
-      "announcement_date": "08.31",
-      "status_day": "D-12",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608120083",
-      "first_seen_at": "2026-08-13 14:58:52 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
@@ -204,7 +174,37 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608130017",
       "first_seen_at": "2026-08-14 11:12:43 KST",
-      "last_seen_at": "2026-08-14 11:12:43 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 빙그레 그란폰도",
+      "category": "스포츠",
+      "host": "(주)빙그레",
+      "target": "대학생 , 대학원생 , 일반인 , 해당자 ▶",
+      "reception_period": "08.03~08.19",
+      "evaluation_period": "10.09",
+      "announcement_date": "-",
+      "status_day": "D-5",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202607310024",
+      "first_seen_at": "2026-08-14 13:22:40 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 천안 K-컬처박람회 K-ICON 분장대회",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "천안시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "07.27~08.21",
+      "evaluation_period": "09.05",
+      "announcement_date": "08.27",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202607310018",
+      "first_seen_at": "2026-08-14 13:22:40 KST",
+      "last_seen_at": "2026-08-14 13:22:40 KST",
       "is_current": true
     },
     {
