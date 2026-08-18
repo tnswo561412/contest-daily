@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 8
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-08-18 11:37:23 KST",
+  "generated_at": "2026-08-18 12:47:32 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
-    "upcoming": 1,
+    "open": 9,
+    "upcoming": 2,
     "other_current": 1,
     "archived": 38
   },
@@ -39,22 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608100034",
       "first_seen_at": "2026-08-18 11:37:23 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
-      "is_current": true
-    },
-    {
-      "title": "제23회 강남국제평화마라톤",
-      "category": "스포츠",
-      "host": "강남구,미8군사령부",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.11~08.31",
-      "evaluation_period": "10.05",
-      "announcement_date": "10.05",
-      "status_day": "D-13",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608100028",
-      "first_seen_at": "2026-08-18 10:23:34 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607230002",
       "first_seen_at": "2026-08-18 11:37:23 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
@@ -84,22 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608140034",
       "first_seen_at": "2026-08-18 11:37:23 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
-      "title": "Super Rookie Challenge Vocal Season 1 슈루챌 보컬 시즌 참가자 모집",
-      "category": "음악•콩쿠르•댄스",
-      "host": "슈퍼루키챌린지",
-      "target": "일반인",
-      "reception_period": "08.06~09.06",
-      "evaluation_period": "09.07~10.03",
-      "announcement_date": "-",
+      "title": "2026 K-ART 유라시아부산국제아트페어 케이아트 신진작가 공모",
+      "category": "미술•디자인•웹툰",
+      "host": "케이아트국제교류협회",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "08.18~09.06",
+      "evaluation_period": "12.03~12.06",
+      "announcement_date": "09.30",
       "status_day": "D-19",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608100025",
-      "first_seen_at": "2026-08-18 10:23:34 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608180004",
+      "first_seen_at": "2026-08-18 12:47:32 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
@@ -114,22 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608100036",
       "first_seen_at": "2026-08-18 11:37:23 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 사찰런",
-      "category": "스포츠",
-      "host": "윌슨컴퍼니 주식회사",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.07~09.10",
-      "evaluation_period": "09.19",
-      "announcement_date": "09.19",
-      "status_day": "D-23",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608100027",
-      "first_seen_at": "2026-08-18 10:23:34 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
@@ -144,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608100038",
       "first_seen_at": "2026-08-18 11:37:23 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 남이섬 가을음악 페스티벌",
+      "category": "음악•콩쿠르•댄스",
+      "host": "음악에 진심인 사람들",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.15~09.30",
+      "evaluation_period": "10.24",
+      "announcement_date": "10.24",
+      "status_day": "D-43",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608180015",
+      "first_seen_at": "2026-08-18 12:47:32 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608170001",
       "first_seen_at": "2026-08-18 11:37:23 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608100043",
       "first_seen_at": "2026-08-18 11:37:23 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
+      "is_current": true
+    },
+    {
+      "title": "제1회 전국 중학생 뮤지컬•연기 경연대회",
+      "category": "음악•콩쿠르•댄스",
+      "host": "경북예술고등학교",
+      "target": "중학생",
+      "reception_period": "08.24~09.01",
+      "evaluation_period": "09.12",
+      "announcement_date": "-",
+      "status_day": "D-14",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608180014",
+      "first_seen_at": "2026-08-18 12:47:32 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608150019",
       "first_seen_at": "2026-08-18 10:23:34 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608100040",
       "first_seen_at": "2026-08-18 11:37:23 KST",
-      "last_seen_at": "2026-08-18 11:37:23 KST",
+      "last_seen_at": "2026-08-18 12:47:32 KST",
       "is_current": true
     },
     {
