@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 1
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-08-19 13:40:15 KST",
+  "generated_at": "2026-08-19 14:33:24 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
-    "upcoming": 4,
+    "open": 9,
+    "upcoming": 2,
     "other_current": 1,
     "archived": 38
   },
   "items": [
+    {
+      "title": "STARSHIP 스타쉽 The Band Vocal Audition 밴드 보컬 오디션",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "STARSHIP Entertainment",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "08.08~08.29",
+      "evaluation_period": "08.08~08.29",
+      "announcement_date": "-",
+      "status_day": "D-10",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202608190022",
+      "first_seen_at": "2026-08-19 14:33:24 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
+      "is_current": true
+    },
     {
       "title": "모두의 AI 실험실 AI 서비스 경진대회",
       "category": "학문•과학•IT",
@@ -39,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608180035",
       "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608030042",
       "first_seen_at": "2026-08-19 12:49:25 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608180064",
       "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 황남시장 '황남스트릿 숏폼공모전'",
+      "category": "사진•영상•영화제",
+      "host": "황남시장",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.18~09.23",
+      "evaluation_period": "09.24~09.28",
+      "announcement_date": "09.29",
+      "status_day": "D-35",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608190035",
+      "first_seen_at": "2026-08-19 14:33:24 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -84,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608180053",
       "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -99,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608180063",
       "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -114,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608180071",
       "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -129,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608030043",
       "first_seen_at": "2026-08-19 13:40:15 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -144,22 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202608190008",
       "first_seen_at": "2026-08-19 12:49:25 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
-      "is_current": true
-    },
-    {
-      "title": "제15회 글나라 독서감상문대회 '책 노을에 물들다'",
-      "category": "문학•문예",
-      "host": "사단법인 한국독서문화재단",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "09.01~09.30",
-      "evaluation_period": "10.01~10.23",
-      "announcement_date": "10.27",
-      "status_day": "D-42",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608180029",
-      "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608180048",
       "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
-      "is_current": true
-    },
-    {
-      "title": "6.10만세운동 100주년 기념 독립페어 「6.10만세운동 콘텐츠 공모전」",
-      "category": "사진•영상•영화제",
-      "host": "경상북도 안동시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "09.28~10.06",
-      "evaluation_period": "10.06~10.21",
-      "announcement_date": "10.21",
-      "status_day": "D-48",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608180034",
-      "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608180051",
       "first_seen_at": "2026-08-19 11:41:01 KST",
-      "last_seen_at": "2026-08-19 13:40:15 KST",
+      "last_seen_at": "2026-08-19 14:33:24 KST",
       "is_current": true
     },
     {
