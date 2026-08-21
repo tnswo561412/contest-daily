@@ -18,11 +18,11 @@
     "site_total_pages_detected": 1,
     "new_items_added_this_run": 2
   },
-  "generated_at": "2026-08-21 13:10:05 KST",
+  "generated_at": "2026-08-21 14:04:45 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 4,
-    "upcoming": 7,
+    "open": 5,
+    "upcoming": 6,
     "other_current": 1,
     "archived": 38
   },
@@ -39,7 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608130025",
       "first_seen_at": "2026-08-21 10:34:50 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
+      "is_current": true
+    },
+    {
+      "title": "무주반디뮤지엄 일원 시설 명칭 공모",
+      "category": "네이밍•슬로건",
+      "host": "무주군",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.20~09.11",
+      "evaluation_period": "09.14~09.28",
+      "announcement_date": "09.29",
+      "status_day": "D-21",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608210018",
+      "first_seen_at": "2026-08-21 14:04:45 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608210004",
       "first_seen_at": "2026-08-21 12:05:57 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608200019",
       "first_seen_at": "2026-08-21 12:05:57 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608200018",
       "first_seen_at": "2026-08-21 12:05:57 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -99,22 +114,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608200043",
       "first_seen_at": "2026-08-21 12:05:57 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
-      "is_current": true
-    },
-    {
-      "title": "COP33 남해안 남중권 유치 기원 UCC(영상) 공모전",
-      "category": "사진•영상•영화제",
-      "host": "전남광주통합특별시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "09.01~09.14",
-      "evaluation_period": "09.15~10.29",
-      "announcement_date": "10.30",
-      "status_day": "D-24",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608130023",
-      "first_seen_at": "2026-08-21 10:34:50 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608200050",
       "first_seen_at": "2026-08-21 12:05:57 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608200064",
       "first_seen_at": "2026-08-21 13:10:05 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608200065",
       "first_seen_at": "2026-08-21 13:10:05 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608200021",
       "first_seen_at": "2026-08-21 12:05:57 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
@@ -189,22 +189,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608200047",
       "first_seen_at": "2026-08-21 12:05:57 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
-      "title": "제 5회 인천청년예술제 <야간비행>",
+      "title": "2026 2차 전국 보컬 입시 모의고사",
       "category": "음악•콩쿠르•댄스",
-      "host": "코드아트",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "08.11~08.24",
-      "evaluation_period": "10.09",
-      "announcement_date": "09.08",
-      "status_day": "D-3",
+      "host": "보컬트레이너 이광규",
+      "target": "중학생 , 고등학생",
+      "reception_period": "08.14~08.25",
+      "evaluation_period": "09.20",
+      "announcement_date": "-",
+      "status_day": "D-4",
       "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608130021",
-      "first_seen_at": "2026-08-21 10:34:50 KST",
-      "last_seen_at": "2026-08-21 13:10:05 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608210024",
+      "first_seen_at": "2026-08-21 14:04:45 KST",
+      "last_seen_at": "2026-08-21 14:04:45 KST",
       "is_current": true
     },
     {
