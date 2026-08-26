@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 7
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-08-26 10:35:32 KST",
+  "generated_at": "2026-08-26 12:08:19 KST",
   "count": 50,
   "counts_by_status": {
     "open": 12,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608240062",
       "first_seen_at": "2026-08-25 11:41:10 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608190037",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608190041",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
+      "is_current": true
+    },
+    {
+      "title": "안산공동체복합시설 명칭 공모",
+      "category": "네이밍•슬로건",
+      "host": "안산시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.26~09.08",
+      "evaluation_period": "09.09~10.29",
+      "announcement_date": "10.30",
+      "status_day": "D-13",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608260025",
+      "first_seen_at": "2026-08-26 12:08:19 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608190021",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608250033",
       "first_seen_at": "2026-08-25 12:51:18 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608190023",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608190018",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
@@ -144,37 +159,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608190031",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
-      "title": "2026 K-조선 해커톤",
-      "category": "학문•과학•IT",
-      "host": "산업통상부",
-      "target": "대학생 , 대학원생",
+      "title": "2026 문화다양성 AI 영상 콘텐츠 공모전",
+      "category": "사진•영상•영화제",
+      "host": "문화체육관광부",
+      "target": "중학생 , 고등학생 , 일반인 , 외국인",
       "reception_period": "08.24~09.21",
-      "evaluation_period": "09.22~10.06",
-      "announcement_date": "10.06",
+      "evaluation_period": "09.22~10.18",
+      "announcement_date": "-",
       "status_day": "D-26",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608240042",
-      "first_seen_at": "2026-08-25 11:41:10 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608250068",
+      "first_seen_at": "2026-08-26 12:08:19 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
-      "title": "[신라아이파크면세점] 용산 히든 스팟 영상·사진 공모전",
-      "category": "사진•영상•영화제",
-      "host": "신라아이파크면세점",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
-      "reception_period": "08.24~09.30",
-      "evaluation_period": "09.30~10.31",
+      "title": "[사주핑 X 레몬사운드] 개운송 공모전",
+      "category": "음악•콩쿠르•댄스",
+      "host": "(주)원테라피",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.25~09.23",
+      "evaluation_period": "09.24~09.30",
       "announcement_date": "-",
-      "status_day": "D-35",
+      "status_day": "D-28",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608240056",
-      "first_seen_at": "2026-08-25 11:41:10 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608250067",
+      "first_seen_at": "2026-08-26 12:08:19 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608250041",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
-      "is_current": true
-    },
-    {
-      "title": "한국해양진흥공사와 함께하는 해(海)답을 찾다 2026 해양환경보전 아이디어 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "한국해양진흥공사",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.24~10.02",
-      "evaluation_period": "10.06~10.13",
-      "announcement_date": "10.15",
-      "status_day": "D-37",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608240060",
-      "first_seen_at": "2026-08-25 11:41:10 KST",
-      "last_seen_at": "2026-08-26 10:35:32 KST",
+      "last_seen_at": "2026-08-26 12:08:19 KST",
       "is_current": true
     },
     {
