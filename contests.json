@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-08-27 05:38:50 KST",
+  "generated_at": "2026-08-27 09:33:36 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 12,
+    "open": 11,
     "upcoming": 0,
-    "other_current": 0,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
-    {
-      "title": "인텔 게이머데이 숏폼 공모전",
-      "category": "사진•영상•영화제",
-      "host": "나인클립스",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.24~09.06",
-      "evaluation_period": "09.07~09.13",
-      "announcement_date": "09.16",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608240062",
-      "first_seen_at": "2026-08-25 11:41:10 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
-      "is_current": true
-    },
     {
       "title": "2026 계양 아이 행복 영상 공모전 '아이 LOVE 계양'",
       "category": "사진•영상•영화제",
@@ -54,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608190037",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608190041",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
@@ -84,37 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608260025",
       "first_seen_at": "2026-08-26 12:08:19 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
-      "is_current": true
-    },
-    {
-      "title": "제38차 금호영체임버콘서트 오디션",
-      "category": "음악•콩쿠르•댄스",
-      "host": "금호문화재단",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "08.19~09.09",
-      "evaluation_period": "10.26~11.06",
-      "announcement_date": "-",
-      "status_day": "D-13",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608190021",
-      "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
-      "is_current": true
-    },
-    {
-      "title": "청소년전용카페 이리모영 3호점 애칭 공모전",
-      "category": "네이밍•슬로건",
-      "host": "서산문화복지센터 청소년운영위원회 ‘미소’",
-      "target": "중학생 , 고등학생 , 해당자 ▶",
-      "reception_period": "08.25~09.10",
-      "evaluation_period": "09.11~09.15",
-      "announcement_date": "09.16",
-      "status_day": "D-14",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608250033",
-      "first_seen_at": "2026-08-25 12:51:18 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
@@ -129,22 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608190023",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
-      "title": "2026 니우스엔 시나리오 작가 공모전",
-      "category": "문학•문예",
-      "host": "니우스엔",
-      "target": "대학생 , 대학원생",
-      "reception_period": "08.18~09.18",
-      "evaluation_period": "09.21~09.29",
-      "announcement_date": "09.30",
-      "status_day": "D-22",
+      "title": "2026년 온라인 여성경력개발센터 ‘꿈날개’ 숏폼 공모전",
+      "category": "사진•영상•영화제",
+      "host": "경기도일자리재단",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "08.18~09.14",
+      "evaluation_period": "09.15~10.06",
+      "announcement_date": "10.07",
+      "status_day": "D-18",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608190018",
-      "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608200007",
+      "first_seen_at": "2026-08-27 09:33:36 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
@@ -159,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608190031",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
+      "is_current": true
+    },
+    {
+      "title": "울산 런 페스타 (U-RUN)",
+      "category": "스포츠",
+      "host": "울산문화방송(주)",
+      "target": "일반인",
+      "reception_period": "08.19~09.20",
+      "evaluation_period": "10.25",
+      "announcement_date": "-",
+      "status_day": "D-24",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608200014",
+      "first_seen_at": "2026-08-27 09:33:36 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
@@ -174,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608250068",
       "first_seen_at": "2026-08-26 12:08:19 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
@@ -189,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202608250067",
       "first_seen_at": "2026-08-26 12:08:19 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
@@ -204,7 +174,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202608250041",
       "first_seen_at": "2026-08-26 10:35:32 KST",
-      "last_seen_at": "2026-08-27 05:38:50 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
+      "is_current": true
+    },
+    {
+      "title": "알라딘 디스커버 프로젝트 - 그만둔 이야기 공모전",
+      "category": "문학•문예",
+      "host": "알라딘커뮤니케이션",
+      "target": "일반인",
+      "reception_period": "08.20~10.31",
+      "evaluation_period": "11.02~11.13",
+      "announcement_date": "11.16",
+      "status_day": "D-65",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202608200005",
+      "first_seen_at": "2026-08-27 09:33:36 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
+      "is_current": true
+    },
+    {
+      "title": "제2회 점토 조형대회",
+      "category": "미술•디자인•웹툰",
+      "host": "도자기공방 숲",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "08.20~09.03",
+      "evaluation_period": "08.20~09.03",
+      "announcement_date": "-",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202608200009",
+      "first_seen_at": "2026-08-27 09:33:36 KST",
+      "last_seen_at": "2026-08-27 09:33:36 KST",
       "is_current": true
     },
     {
