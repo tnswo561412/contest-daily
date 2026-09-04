@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 11
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-09-04 12:43:20 KST",
+  "generated_at": "2026-09-04 17:39:40 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
@@ -27,6 +27,21 @@
     "archived": 38
   },
   "items": [
+    {
+      "title": "2026 시즌 스타디움 오픈 공기게임 대회",
+      "category": "The 다양한 분야",
+      "host": "(사)대한공기게임협회",
+      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "08.25~09.16",
+      "evaluation_period": "09.19",
+      "announcement_date": "-",
+      "status_day": "D-12",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202608260043",
+      "first_seen_at": "2026-09-04 17:39:40 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
+      "is_current": true
+    },
     {
       "title": "2026 INNIT BOY AUDITION <HIDDEN ACE>",
       "category": "요리•뷰티•배우•오디션",
@@ -39,37 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202609030064",
       "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
-      "title": "「오늘도 워라밸ing」 사진공모전",
-      "category": "사진•영상•영화제",
-      "host": "인천일생활균형지원센터",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "09.01~09.29",
-      "evaluation_period": "09.30~10.12",
-      "announcement_date": "10.13",
-      "status_day": "D-25",
+      "title": "원주사랑(단종역사트레킹) 참가자 모집",
+      "category": "스포츠",
+      "host": "원주시걷기협회, 원주투데이",
+      "target": "고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "08.21~09.23",
+      "evaluation_period": "10.07~10.11",
+      "announcement_date": "-",
+      "status_day": "D-19",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608280026",
-      "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
-      "is_current": true
-    },
-    {
-      "title": "건전경마 활성화&불법도박 예방 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "한국마사회, 사행산업통합감독위원회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "08.30~09.29",
-      "evaluation_period": "09.30~10.06",
-      "announcement_date": "10.07",
-      "status_day": "D-25",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608280023",
-      "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202608210036",
+      "first_seen_at": "2026-09-04 17:39:40 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609030028",
       "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
+      "is_current": true
+    },
+    {
+      "title": "도시가스 수요관리 활성화 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "한국가스공사",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "08.11~09.30",
+      "evaluation_period": "08.11~09.30",
+      "announcement_date": "10.20",
+      "status_day": "D-26",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202608240040",
+      "first_seen_at": "2026-09-04 17:39:40 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
@@ -99,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609030048",
       "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
-      "is_current": true
-    },
-    {
-      "title": "제2회 소방 안전 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "전북특별자치도",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "09.04~10.19",
-      "evaluation_period": "10.20~11.17",
-      "announcement_date": "11.18",
-      "status_day": "D-45",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608280018",
-      "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202609030012",
       "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609030061",
       "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609030057",
       "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609030067",
       "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609030008",
       "first_seen_at": "2026-09-04 12:43:20 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609030062",
       "first_seen_at": "2026-09-03 20:34:22 KST",
-      "last_seen_at": "2026-09-04 12:43:20 KST",
+      "last_seen_at": "2026-09-04 17:39:40 KST",
       "is_current": true
     },
     {
