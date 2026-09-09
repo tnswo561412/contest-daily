@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 9
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-09-09 15:29:32 KST",
+  "generated_at": "2026-09-09 20:47:00 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 2,
+    "open": 10,
+    "upcoming": 1,
     "other_current": 1,
     "archived": 38
   },
   "items": [
+    {
+      "title": "OG9 DIY CONTEST BY GEM",
+      "category": "미술•디자인•웹툰",
+      "host": "OG9",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "09.01~09.21",
+      "evaluation_period": "09.23~10.06",
+      "announcement_date": "10.07",
+      "status_day": "D-12",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202609090004",
+      "first_seen_at": "2026-09-09 20:47:00 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
+      "is_current": true
+    },
     {
       "title": "제12회 창원음식문화축제 전국요리경연대회 참가자 모집",
       "category": "요리•뷰티•배우•오디션",
@@ -39,52 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202609010083",
       "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 당진황금들녘 건강마라톤",
-      "category": "스포츠",
-      "host": "당진시스포츠관광협회",
-      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 일반인",
-      "reception_period": "08.31~09.23",
-      "evaluation_period": "10.11",
-      "announcement_date": "10.11",
-      "status_day": "D-14",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202609020038",
-      "first_seen_at": "2026-09-09 10:06:13 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 청년성장프로젝트사업 우수사례 공모전",
-      "category": "문학•문예",
-      "host": "고용노동부",
-      "target": "일반인",
-      "reception_period": "09.01~09.30",
-      "evaluation_period": "10.01~10.29",
-      "announcement_date": "10.30",
-      "status_day": "D-21",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609020036",
-      "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
-      "is_current": true
-    },
-    {
-      "title": "ARTEL NEW CAST AUDITION 2026 아르텔필하모닉오케스트라 배우 공개 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "아르텔필하모닉",
-      "target": "일반인",
-      "reception_period": "09.02~09.30",
-      "evaluation_period": "09.02~09.30",
-      "announcement_date": "-",
-      "status_day": "D-21",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202609020040",
-      "first_seen_at": "2026-09-09 10:06:13 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
       "is_current": true
     },
     {
@@ -99,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202609090027",
       "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 AI 활용 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "과학기술정보통신부",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.07~10.02",
+      "evaluation_period": "10.06~10.12",
+      "announcement_date": "10.13",
+      "status_day": "D-23",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609090005",
+      "first_seen_at": "2026-09-09 20:47:00 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609020044",
       "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 제1회 성정1동 마을풍경 사진 공모전",
+      "category": "사진•영상•영화제",
+      "host": "하릿벌사회적협동조합",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.07~10.09",
+      "evaluation_period": "10.12~10.15",
+      "announcement_date": "10.16",
+      "status_day": "D-30",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609090002",
+      "first_seen_at": "2026-09-09 20:47:00 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609080049",
       "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
+      "is_current": true
+    },
+    {
+      "title": "제천 자드락길 등산 트레킹 걷기대회",
+      "category": "스포츠",
+      "host": "제천시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.09~10.18",
+      "evaluation_period": "09.09~10.18",
+      "announcement_date": "-",
+      "status_day": "D-39",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202609090003",
+      "first_seen_at": "2026-09-09 20:47:00 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609020051",
       "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
       "is_current": true
     },
     {
@@ -159,22 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609080031",
       "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 경남 3D 웹툰배경 활용 단편웹툰 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "경남문화예술진흥원",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "10.01~10.08",
-      "evaluation_period": "10.09~10.28",
-      "announcement_date": "10.29",
-      "status_day": "D-29",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202609020030",
-      "first_seen_at": "2026-09-09 10:06:13 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609080040",
       "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202609020045",
       "first_seen_at": "2026-09-09 15:29:32 KST",
-      "last_seen_at": "2026-09-09 15:29:32 KST",
+      "last_seen_at": "2026-09-09 20:47:00 KST",
       "is_current": true
     },
     {
