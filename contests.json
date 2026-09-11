@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 7
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-09-11 18:56:23 KST",
+  "generated_at": "2026-09-11 23:13:43 KST",
   "count": 50,
   "counts_by_status": {
     "open": 12,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609110007",
       "first_seen_at": "2026-09-11 18:56:23 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -54,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609110004",
       "first_seen_at": "2026-09-11 18:56:23 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
-      "is_current": true
-    },
-    {
-      "title": "시흥 대야1지구 공동주택현장 미술장식품 공모",
-      "category": "미술•디자인•웹툰",
-      "host": "(주)베가",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "09.07~09.28",
-      "evaluation_period": "09.07~09.28",
-      "announcement_date": "-",
-      "status_day": "D-17",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202609040019",
-      "first_seen_at": "2026-09-11 14:05:16 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -84,22 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609110005",
       "first_seen_at": "2026-09-11 18:56:23 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 주민참여 혁신 아이디어 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "동작구시설관리공단",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "09.01~09.30",
-      "evaluation_period": "10.01~10.29",
-      "announcement_date": "10.30",
-      "status_day": "D-19",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609040018",
-      "first_seen_at": "2026-09-11 14:05:16 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -114,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202609040029",
       "first_seen_at": "2026-09-11 14:05:16 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -129,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609110001",
       "first_seen_at": "2026-09-11 18:56:23 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -144,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609110045",
       "first_seen_at": "2026-09-11 18:56:23 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 추계학술대회 대학생 ERP 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "한국경영정보학회",
+      "target": "대학생 , 대학원생",
+      "reception_period": "09.11~10.06",
+      "evaluation_period": "10.06~10.08",
+      "announcement_date": "10.08",
+      "status_day": "D-25",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609110052",
+      "first_seen_at": "2026-09-11 23:13:43 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609040020",
       "first_seen_at": "2026-09-11 14:05:16 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
+      "is_current": true
+    },
+    {
+      "title": "[KOICA] 2026 인도적 지원 청년・대학생 아이디어 경진대회",
+      "category": "아이디어•건축•창업",
+      "host": "KOICA",
+      "target": "대학생 , 일반인 , 해당자 ▶",
+      "reception_period": "09.11~10.11",
+      "evaluation_period": "10.01~10.31",
+      "announcement_date": "-",
+      "status_day": "D-30",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609110062",
+      "first_seen_at": "2026-09-11 23:13:43 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609110009",
       "first_seen_at": "2026-09-11 18:56:23 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609110010",
       "first_seen_at": "2026-09-11 18:56:23 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609110003",
       "first_seen_at": "2026-09-11 14:05:16 KST",
-      "last_seen_at": "2026-09-11 18:56:23 KST",
+      "last_seen_at": "2026-09-11 23:13:43 KST",
       "is_current": true
     },
     {
