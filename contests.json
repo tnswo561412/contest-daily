@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 11
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-09-18 09:40:35 KST",
+  "generated_at": "2026-09-18 14:39:25 KST",
   "count": 50,
   "counts_by_status": {
     "open": 11,
@@ -39,22 +39,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609110013",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
-      "title": "영화 <그대에게> 밴드 멤버역 지원",
+      "title": "2026 충남 곡창작 공모전",
       "category": "음악•콩쿠르•댄스",
-      "host": "제리굿컴퍼니",
-      "target": "일반인",
-      "reception_period": "09.10~09.30",
-      "evaluation_period": "09.10~09.30",
+      "host": "문화체육관광부, 충청남도, 천안시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.11~10.01",
+      "evaluation_period": "09.11~10.01",
       "announcement_date": "-",
-      "status_day": "D-12",
+      "status_day": "D-13",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609110027",
-      "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609110040",
+      "first_seen_at": "2026-09-18 14:39:25 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 국가손상통계자료 활용 연구 공모전",
+      "category": "학문•과학•IT",
+      "host": "빌병관리청, 중앙손상관리센터",
+      "target": "대학원생 , 일반인",
+      "reception_period": "07.15~10.02",
+      "evaluation_period": "07.15~10.02",
+      "announcement_date": "-",
+      "status_day": "D-14",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609110023",
+      "first_seen_at": "2026-09-18 14:39:25 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609110035",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609170005",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -99,22 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202609170040",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
-      "is_current": true
-    },
-    {
-      "title": "제7회 고양무빙이미지페스티벌",
-      "category": "사진•영상•영화제",
-      "host": "롱메트라지필름",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "09.01~10.18",
-      "evaluation_period": "10.18~11.08",
-      "announcement_date": "12.26",
-      "status_day": "D-30",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609170029",
-      "first_seen_at": "2026-09-17 19:17:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609170058",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202609110015",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609110031",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609170049",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202609110033",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609110012",
       "first_seen_at": "2026-09-18 09:40:35 KST",
-      "last_seen_at": "2026-09-18 09:40:35 KST",
+      "last_seen_at": "2026-09-18 14:39:25 KST",
       "is_current": true
     },
     {
