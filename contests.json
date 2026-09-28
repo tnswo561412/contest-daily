@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 5
   },
-  "generated_at": "2026-09-28 13:33:30 KST",
+  "generated_at": "2026-09-28 20:32:29 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 11,
-    "upcoming": 0,
+    "open": 10,
+    "upcoming": 1,
     "other_current": 1,
     "archived": 38
   },
   "items": [
-    {
-      "title": "코미디극 <평범한 거짓말!?> Ver.2 전 배역 모집",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "루시드케이",
-      "target": "일반인",
-      "reception_period": "09.17~10.08",
-      "evaluation_period": "09.17~10.08",
-      "announcement_date": "-",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202609180022",
-      "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
-      "is_current": true
-    },
     {
       "title": "우체국물류지원단 대국민 혁신 아이디어 공모전",
       "category": "아이디어•건축•창업",
@@ -54,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609180024",
       "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609180032",
       "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
+      "is_current": true
+    },
+    {
+      "title": "양식 수산물 요리대회",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "해양수산부, 동아일보, 채널A",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.23~10.13",
+      "evaluation_period": "10.14~10.20",
+      "announcement_date": "10.26",
+      "status_day": "D-15",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202609280006",
+      "first_seen_at": "2026-09-28 20:32:29 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
@@ -84,22 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202609080019",
       "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
-      "is_current": true
-    },
-    {
-      "title": "TOUR 5K & Beach Ploggin망상",
-      "category": "스포츠",
-      "host": "스포노베이션",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "09.16~10.17",
-      "evaluation_period": "10.24",
-      "announcement_date": "10.24",
-      "status_day": "D-19",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202609180013",
-      "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
@@ -114,22 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609180031",
       "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 충북영상자서전 [사랑나눔 스마트 AI 영상자서전 공모전]",
-      "category": "사진•영상•영화제",
-      "host": "충청북도, 증평군, 증편군노인복지관",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "09.14~10.23",
-      "evaluation_period": "10.26~10.30",
-      "announcement_date": "11.02",
-      "status_day": "D-25",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609170023",
-      "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
@@ -144,37 +114,52 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609180033",
       "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
-      "title": "2026년 한글점자 100주년 기념 문학 공모전",
-      "category": "문학•문예",
-      "host": "제주도문화정보점자도서관",
-      "target": "중학생 , 고등학생 , 대학생 , 일반인",
-      "reception_period": "09.21~10.23",
-      "evaluation_period": "10.26~10.27",
-      "announcement_date": "10.28",
-      "status_day": "D-25",
+      "title": "2026 양주 나리농원 숏폼 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "양주시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.18~10.25",
+      "evaluation_period": "11.01~11.30",
+      "announcement_date": "11.30",
+      "status_day": "D-27",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609170025",
-      "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609280001",
+      "first_seen_at": "2026-09-28 20:32:29 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
-      "title": "인간존엄 모금광고 스토리보드 공모전",
+      "title": "[드론플레이x곰랩] 드론 영상•사진 공모전",
+      "category": "사진•영상•영화제",
+      "host": "곰앤컴퍼니",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.23~10.25",
+      "evaluation_period": "09.23~11.03",
+      "announcement_date": "11.05",
+      "status_day": "D-27",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202609280003",
+      "first_seen_at": "2026-09-28 20:32:29 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 제천시 AI 활용 데이터 분석 아이디어 공모전",
       "category": "아이디어•건축•창업",
-      "host": "발전대안 피다",
+      "host": "충청북도 제천시",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
       "reception_period": "09.28~11.01",
-      "evaluation_period": "09.28~11.01",
-      "announcement_date": "-",
+      "evaluation_period": "11.02~11.06",
+      "announcement_date": "11.23",
       "status_day": "D-34",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609180008",
-      "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609280004",
+      "first_seen_at": "2026-09-28 20:32:29 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202609180026",
       "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 대한상공회의소 자격증 활용 우수사례 공모전",
+      "category": "문학•문예",
+      "host": "대한상공회의소",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "10.01~10.30",
+      "evaluation_period": "10.01~11.28",
+      "announcement_date": "-",
+      "status_day": "D-32",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202609280017",
+      "first_seen_at": "2026-09-28 20:32:29 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202609150063",
       "first_seen_at": "2026-09-28 13:33:30 KST",
-      "last_seen_at": "2026-09-28 13:33:30 KST",
+      "last_seen_at": "2026-09-28 20:32:29 KST",
       "is_current": true
     },
     {
