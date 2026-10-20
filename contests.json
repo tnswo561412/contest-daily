@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 6
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-10-20 09:57:44 KST",
+  "generated_at": "2026-10-20 14:53:20 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
-    "upcoming": 1,
-    "other_current": 4,
+    "open": 6,
+    "upcoming": 3,
+    "other_current": 3,
     "archived": 38
   },
   "items": [
@@ -39,37 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610130031",
       "first_seen_at": "2026-10-20 09:57:44 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
-      "title": "햇빛가득찬, 내일 사진공모전",
-      "category": "사진•영상•영화제",
-      "host": "(주)햇빛가득찬(실버에듀넷)",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "10.01~10.30",
-      "evaluation_period": "11.02~11.06",
-      "announcement_date": "11.10",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610190047",
-      "first_seen_at": "2026-10-19 19:12:32 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
-      "is_current": true
-    },
-    {
-      "title": "[2026 농촌여행 숏폼 공모전] 대국민 농촌관광 홍보영상 경진대회 (기간연장)",
-      "category": "사진•영상•영화제",
-      "host": "한국농어촌공사",
+      "title": "2026년 한전KDN 슬로건 공모전",
+      "category": "네이밍•슬로건",
+      "host": "한전KDN",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "07.15~11.01",
-      "evaluation_period": "11.01~11.19",
-      "announcement_date": "11.20",
-      "status_day": "D-12",
+      "reception_period": "10.19~11.08",
+      "evaluation_period": "11.09~11.24",
+      "announcement_date": "11.25",
+      "status_day": "D-19",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610190046",
-      "first_seen_at": "2026-10-19 19:12:32 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202610200019",
+      "first_seen_at": "2026-10-20 14:53:20 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
@@ -84,22 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610190058",
       "first_seen_at": "2026-10-19 19:12:32 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
-      "is_current": true
-    },
-    {
-      "title": "제1회 웨이노벨 웹소설 공모전 FIRST STORY CHALLENGE 2026",
-      "category": "문학•문예",
-      "host": "웨이노벨",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.19~12.13",
-      "evaluation_period": "12.14~02.10",
-      "announcement_date": "02.12",
-      "status_day": "D-54",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610190045",
-      "first_seen_at": "2026-10-19 19:12:32 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
@@ -114,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610130037",
       "first_seen_at": "2026-10-20 09:57:44 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
+      "is_current": true
+    },
+    {
+      "title": "「AI 新과거제」- 초시 (온라인 예선전)",
+      "category": "학문•과학•IT",
+      "host": "과학기술정보통신부 국립과천과학관",
+      "target": "초등학생",
+      "reception_period": "10.16~10.29",
+      "evaluation_period": "10.16~10.29",
+      "announcement_date": "11.02",
+      "status_day": "D-9",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610190054",
+      "first_seen_at": "2026-10-20 14:53:20 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610130025",
       "first_seen_at": "2026-10-20 09:57:44 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,37 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610130034",
       "first_seen_at": "2026-10-20 09:57:44 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
+      "is_current": true
+    },
+    {
+      "title": "농업가치 확산을 위한 농심천심 대학(원)생 논문 공모전",
+      "category": "학문•과학•IT",
+      "host": "농업협동조합중앙회",
+      "target": "대학생 , 대학원생",
+      "reception_period": "02.22~02.26",
+      "evaluation_period": "03.01~03.30",
+      "announcement_date": "03.31",
+      "status_day": "D-129",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610120066",
+      "first_seen_at": "2026-10-20 14:53:20 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
+      "is_current": true
+    },
+    {
+      "title": "현대자동차그룹 차량용 앱 개발 공모전",
+      "category": "학문•과학•IT",
+      "host": "현대자동차그룹",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "10.21~11.15",
+      "evaluation_period": "11.23~12.04",
+      "announcement_date": "12.18",
+      "status_day": "D-26",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610200005",
+      "first_seen_at": "2026-10-20 14:53:20 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610130026",
       "first_seen_at": "2026-10-20 09:57:44 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610130016",
       "first_seen_at": "2026-10-20 09:57:44 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 영암 월출산 달빛뮤직페스티벌 <달빛 가요제> 참가자 모집",
-      "category": "음악•콩쿠르•댄스",
-      "host": "영암군",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.01~10.25",
-      "evaluation_period": "10.01~10.29",
-      "announcement_date": "10.30",
-      "status_day": "D-5",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610190025",
-      "first_seen_at": "2026-10-19 13:28:56 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202610190057",
       "first_seen_at": "2026-10-19 19:12:32 KST",
-      "last_seen_at": "2026-10-20 09:57:44 KST",
+      "last_seen_at": "2026-10-20 14:53:20 KST",
       "is_current": true
     },
     {
