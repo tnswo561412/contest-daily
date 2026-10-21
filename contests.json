@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 2
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-10-21 16:17:38 KST",
+  "generated_at": "2026-10-21 22:05:19 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
-    "upcoming": 2,
-    "other_current": 3,
+    "open": 6,
+    "upcoming": 4,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
-    {
-      "title": "플랫폼 미묘(mimio) <인천아트쇼2026> 참여 작가 공모",
-      "category": "미술•디자인•웹툰",
-      "host": "인천아트쇼조직위원회/아티클21 주식회사",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.19~11.01",
-      "evaluation_period": "11.02~11.06",
-      "announcement_date": "11.06",
-      "status_day": "D-11",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610190066",
-      "first_seen_at": "2026-10-20 20:09:35 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
-      "is_current": true
-    },
     {
       "title": "제1회 스크린인쇄어워즈",
       "category": "미술•디자인•웹툰",
@@ -54,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610210001",
       "first_seen_at": "2026-10-21 10:52:26 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
@@ -69,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610200036",
       "first_seen_at": "2026-10-21 10:52:26 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
-      "is_current": true
-    },
-    {
-      "title": "나무엑스 AI 숏폼 공모전",
-      "category": "사진•영상•영화제",
-      "host": "SK인텔릭스(주)",
-      "target": "대학생 , 대학원생 , 일반인",
-      "reception_period": "10.19~11.22",
-      "evaluation_period": "12.01~12.31",
-      "announcement_date": "12.31",
-      "status_day": "D-32",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610200012",
-      "first_seen_at": "2026-10-20 20:09:35 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
@@ -99,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610200060",
       "first_seen_at": "2026-10-21 10:52:26 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 대학생 정책 아이디어 공모전",
+      "category": "학문•과학•IT",
+      "host": "(사)한국정책분석평가학회",
+      "target": "대학생",
+      "reception_period": "10.13~11.26",
+      "evaluation_period": "11.27~12.10",
+      "announcement_date": "12.10",
+      "status_day": "D-36",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610210006",
+      "first_seen_at": "2026-10-21 22:05:19 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610140026",
       "first_seen_at": "2026-10-21 10:52:26 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202610140017",
       "first_seen_at": "2026-10-21 10:52:26 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
+      "is_current": true
+    },
+    {
+      "title": "텐퍼센트커피 커스텀 레시피 콘테스트",
+      "category": "요리•뷰티•배우•오디션",
+      "host": "텐퍼센트커피",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "10.22~10.31",
+      "evaluation_period": "11.06~11.12",
+      "announcement_date": "11.27",
+      "status_day": "D-10",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202610200057",
+      "first_seen_at": "2026-10-21 22:05:19 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610140013",
       "first_seen_at": "2026-10-21 10:52:26 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610140012",
       "first_seen_at": "2026-10-21 10:52:26 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
+      "is_current": true
+    },
+    {
+      "title": "제10회 동아뮤지컬콩쿠르",
+      "category": "음악•콩쿠르•댄스",
+      "host": "동아일보",
+      "target": "초등학생 , 고등학생 , 대학생 , 일반인",
+      "reception_period": "10.26~11.27",
+      "evaluation_period": "12.08~12.10",
+      "announcement_date": "01.11",
+      "status_day": "D-37",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610210008",
+      "first_seen_at": "2026-10-21 22:05:19 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202607090072",
       "first_seen_at": "2026-10-21 16:17:38 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610210007",
       "first_seen_at": "2026-10-21 16:17:38 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 아티코드 그림 공모전 | 당신의 마음이 쉬어가는 곳",
-      "category": "미술•디자인•웹툰",
-      "host": "다시랩",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.13~10.28",
-      "evaluation_period": "10.13~10.28",
-      "announcement_date": "-",
-      "status_day": "D-7",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610140008",
-      "first_seen_at": "2026-10-21 10:52:26 KST",
-      "last_seen_at": "2026-10-21 16:17:38 KST",
+      "last_seen_at": "2026-10-21 22:05:19 KST",
       "is_current": true
     },
     {
