@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 6
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-10-23 10:46:34 KST",
+  "generated_at": "2026-10-23 16:11:41 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 11,
-    "upcoming": 0,
+    "open": 10,
+    "upcoming": 1,
     "other_current": 1,
     "archived": 38
   },
   "items": [
-    {
-      "title": "2026년 국민건강보험공단 RE:BOOT NET ZERO 프로젝트 공모",
-      "category": "아이디어•건축•창업",
-      "host": "국민건강보험공단, 함께일하는재단",
-      "target": "해당자 ▶",
-      "reception_period": "10.14~11.04",
-      "evaluation_period": "10.14~11.04",
-      "announcement_date": "-",
-      "status_day": "D-12",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610150039",
-      "first_seen_at": "2026-10-23 10:46:34 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
-      "is_current": true
-    },
     {
       "title": "2026 청춘런",
       "category": "스포츠",
@@ -54,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202610220041",
       "first_seen_at": "2026-10-22 19:28:56 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610220033",
       "first_seen_at": "2026-10-22 19:28:56 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610150046",
       "first_seen_at": "2026-10-23 10:46:34 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610220048",
       "first_seen_at": "2026-10-23 10:46:34 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610150044",
       "first_seen_at": "2026-10-23 10:46:34 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610220027",
       "first_seen_at": "2026-10-22 14:16:52 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610230001",
       "first_seen_at": "2026-10-23 10:46:34 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610150042",
       "first_seen_at": "2026-10-23 10:46:34 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610220023",
       "first_seen_at": "2026-10-22 19:28:56 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610220038",
       "first_seen_at": "2026-10-22 19:28:56 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
+      "is_current": true
+    },
+    {
+      "title": "완주군 피지컬AI 실증단지 명칭 공모전",
+      "category": "네이밍•슬로건",
+      "host": "완주군",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "10.26~11.15",
+      "evaluation_period": "11.16~11.26",
+      "announcement_date": "11.27",
+      "status_day": "D-23",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202610230042",
+      "first_seen_at": "2026-10-23 16:11:41 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610220025",
       "first_seen_at": "2026-10-22 19:28:56 KST",
-      "last_seen_at": "2026-10-23 10:46:34 KST",
+      "last_seen_at": "2026-10-23 16:11:41 KST",
       "is_current": true
     },
     {
