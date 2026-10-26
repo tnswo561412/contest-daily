@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 10
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-10-26 16:34:11 KST",
+  "generated_at": "2026-10-26 23:58:03 KST",
   "count": 50,
   "counts_by_status": {
     "open": 5,
-    "upcoming": 3,
-    "other_current": 4,
+    "upcoming": 2,
+    "other_current": 5,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610230064",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610190021",
       "first_seen_at": "2026-10-26 10:33:46 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610260011",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610260014",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610230061",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610250001",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -129,22 +129,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610190032",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
-      "is_current": true
-    },
-    {
-      "title": "[제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상",
-      "category": "사진•영상•영화제",
-      "host": "매경미디어",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.09~11.30",
-      "evaluation_period": "12.07~12.13",
-      "announcement_date": "12.16",
-      "status_day": "D-35",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610260010",
-      "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610240007",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610190027",
       "first_seen_at": "2026-10-26 10:33:46 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 「100초 전국 영상 공모전 “오늘도시흥행”」",
+      "category": "사진•영상•영화제",
+      "host": "시흥시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "09.01~10.31",
+      "evaluation_period": "11.02~11.20",
+      "announcement_date": "11.23",
+      "status_day": "D-5",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610190018",
+      "first_seen_at": "2026-10-26 23:58:03 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610230063",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610260017",
       "first_seen_at": "2026-10-26 16:34:11 KST",
-      "last_seen_at": "2026-10-26 16:34:11 KST",
+      "last_seen_at": "2026-10-26 23:58:03 KST",
       "is_current": true
     },
     {
