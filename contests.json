@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-10-28 09:19:29 KST",
+  "generated_at": "2026-10-28 15:05:33 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
+    "open": 11,
     "upcoming": 0,
-    "other_current": 2,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
+    {
+      "title": "2026 공학페스티벌 E²SODE 쇼츠공모전",
+      "category": "사진•영상•영화제",
+      "host": "산업통상부 / 한국산업기술진흥원 / 공학교육혁신협의회",
+      "target": "대학생 , 대학원생 , 해당자 ▶",
+      "reception_period": "10.26~11.08",
+      "evaluation_period": "11.10~11.18",
+      "announcement_date": "11.19",
+      "status_day": "D-11",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610270039",
+      "first_seen_at": "2026-10-28 15:05:33 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
+      "is_current": true
+    },
     {
       "title": "2026 의왕시 청년 e-Room 창업 아이디어 공모전 참여자 모집",
       "category": "아이디어•건축•창업",
@@ -39,22 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610270025",
       "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
-      "title": "2026 소상공인 분야 연구논문 공모전",
+      "title": "2026 제18회 전국청소년 모형항공기대회",
       "category": "학문•과학•IT",
-      "host": "중소벤처기업부, 소상공인시장진흥공단",
-      "target": "대학생 , 대학원생",
-      "reception_period": "10.12~11.15",
-      "evaluation_period": "11.16~11.23",
-      "announcement_date": "11.23",
-      "status_day": "D-18",
+      "host": "사천시, 한국폴리텍대학 항공 캠퍼스, (사)한국모형항공과학협회",
+      "target": "초등학생 , 중학생 , 고등학생",
+      "reception_period": "10.26~11.14",
+      "evaluation_period": "11.21",
+      "announcement_date": "11.22",
+      "status_day": "D-17",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610270014",
-      "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610280017",
+      "first_seen_at": "2026-10-28 15:05:33 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610270036",
       "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610270028",
       "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
@@ -99,22 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202610270019",
       "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
-      "title": "The 6th Incheon Airport Travel Contest \"Korea, Made by You\"",
-      "category": "사진•영상•영화제",
-      "host": "Incheon Airport",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "title": "2026 한·중·일 3국 초·중·고 포스터 공모전",
+      "category": "미술•디자인•웹툰",
+      "host": "외교부",
+      "target": "초등학생 , 중학생 , 고등학생 , 외국인 , 해당자 ▶",
       "reception_period": "10.26~11.29",
-      "evaluation_period": "11.30~12.20",
-      "announcement_date": "12.21",
+      "evaluation_period": "12.01~12.10",
+      "announcement_date": "12.11",
       "status_day": "D-32",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610270010",
-      "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610280023",
+      "first_seen_at": "2026-10-28 15:05:33 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610270031",
       "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
+      "is_current": true
+    },
+    {
+      "title": "The 6th NN Arts 전국 입시생 성악 콩쿠르",
+      "category": "음악•콩쿠르•댄스",
+      "host": "엔엔아츠(NN Arts)",
+      "target": "고등학생 , 대학생",
+      "reception_period": "10.28~12.06",
+      "evaluation_period": "12.12",
+      "announcement_date": "12.12",
+      "status_day": "D-39",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610280001",
+      "first_seen_at": "2026-10-28 15:05:33 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
@@ -144,22 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610270037",
       "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
-      "is_current": true
-    },
-    {
-      "title": "춘천MBC AI영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "춘천MBC",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.27~12.10",
-      "evaluation_period": "12.15~12.17",
-      "announcement_date": "12.17",
-      "status_day": "D-43",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610270008",
-      "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
@@ -174,22 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610270016",
       "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
-      "is_current": true
-    },
-    {
-      "title": "한국노동연구원 캐릭터 이름 공모전",
-      "category": "네이밍•슬로건",
-      "host": "한국노동연구원",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.26~10.29",
-      "evaluation_period": "10.30~11.04",
-      "announcement_date": "11.05",
-      "status_day": "D-1",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202610270009",
-      "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610270018",
       "first_seen_at": "2026-10-27 19:48:47 KST",
-      "last_seen_at": "2026-10-28 09:19:29 KST",
+      "last_seen_at": "2026-10-28 15:05:33 KST",
       "is_current": true
     },
     {
