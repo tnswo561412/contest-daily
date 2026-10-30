@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 10
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-10-30 10:43:26 KST",
+  "generated_at": "2026-10-30 17:19:26 KST",
   "count": 50,
   "counts_by_status": {
     "open": 9,
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610230011",
       "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610230013",
       "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
@@ -69,37 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202610230031",
       "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
-      "title": "뮤지컬 <레미제라블> 2028 전 배역 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "할리퀸크리에이션즈(주)",
-      "target": "일반인",
-      "reception_period": "10.22~11.16",
-      "evaluation_period": "10.22~11.16",
-      "announcement_date": "-",
-      "status_day": "D-17",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202610230033",
-      "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
-      "is_current": true
-    },
-    {
-      "title": "HELL-BENT 사운드트랙 공모 레모네이션",
-      "category": "음악•콩쿠르•댄스",
-      "host": "레몬사운드",
+      "title": "[무료 참가] 선도기업·투자자·전문가와 만나는 1:1 비즈니스 미팅｜2026 KOREA LBS Day",
+      "category": "아이디어•건축•창업",
+      "host": "방송미디어통신위원회",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.27~11.20",
-      "evaluation_period": "10.27~11.20",
-      "announcement_date": "11.20",
-      "status_day": "D-21",
+      "reception_period": "10.30~11.17",
+      "evaluation_period": "10.30~11.17",
+      "announcement_date": "11.18",
+      "status_day": "D-18",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610290032",
-      "first_seen_at": "2026-10-29 18:38:09 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610300012",
+      "first_seen_at": "2026-10-30 17:19:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610230007",
       "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610230038",
       "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
@@ -144,22 +129,52 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202610230030",
       "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
-      "title": "제2회 손상예방의날 기념 경북권 손상 예방 포스터 공모전",
-      "category": "미술•디자인•웹툰",
-      "host": "질병관리청",
-      "target": "초등학생 , 중학생 , 고등학생 , 해당자 ▶",
-      "reception_period": "10.26~11.08",
-      "evaluation_period": "11.09~11.26",
-      "announcement_date": "11.27",
-      "status_day": "D-9",
+      "title": "2026년 대국민 재정교육 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "기획예산처",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인",
+      "reception_period": "10.30~11.27",
+      "evaluation_period": "11.27~12.06",
+      "announcement_date": "12.07",
+      "status_day": "D-28",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610230037",
-      "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610300003",
+      "first_seen_at": "2026-10-30 17:19:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
+      "is_current": true
+    },
+    {
+      "title": "문경시 관광 AI 영상 공모전",
+      "category": "사진•영상•영화제",
+      "host": "문경시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "10.30~11.30",
+      "evaluation_period": "12.01~12.31",
+      "announcement_date": "12.31",
+      "status_day": "D-31",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610300002",
+      "first_seen_at": "2026-10-30 17:19:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 성평등 AI 벤치마크 챌린지",
+      "category": "학문•과학•IT",
+      "host": "성평등가족부",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "11.02~11.20",
+      "evaluation_period": "11.02~11.30",
+      "announcement_date": "12.01",
+      "status_day": "D-21",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610300005",
+      "first_seen_at": "2026-10-30 17:19:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610300001",
       "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610290036",
       "first_seen_at": "2026-10-30 10:43:26 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
-      "is_current": true
-    },
-    {
-      "title": "문학광장 제122기 신인문학상 공모",
-      "category": "문학•문예",
-      "host": "문학광장",
-      "target": "대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "11.01~11.25",
-      "evaluation_period": "11.26~12.10",
-      "announcement_date": "12.20",
-      "status_day": "D-26",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610290029",
-      "first_seen_at": "2026-10-29 18:38:09 KST",
-      "last_seen_at": "2026-10-30 10:43:26 KST",
+      "last_seen_at": "2026-10-30 17:19:26 KST",
       "is_current": true
     },
     {
