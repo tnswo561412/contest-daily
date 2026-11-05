@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-11-05 12:18:49 KST",
+  "generated_at": "2026-11-05 20:23:57 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
-    "upcoming": 0,
-    "other_current": 3,
+    "open": 10,
+    "upcoming": 1,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610290006",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611040033",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610290028",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610280057",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610290024",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -114,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610290025",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611040056",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 경산시 숏폼영상공모전",
+      "category": "사진•영상•영화제",
+      "host": "경산시",
+      "target": "해당자 ▶",
+      "reception_period": "09.07~11.27",
+      "evaluation_period": "12.01~12.20",
+      "announcement_date": "12.25",
+      "status_day": "D-22",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611040054",
+      "first_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610290010",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -159,37 +174,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610280056",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
-      "title": "2026년 한국전력기술 미래사업 과제 발굴을 위한 혁신 아이디어 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "한국전력기술(주)",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.26~11.06",
-      "evaluation_period": "11.09~11.26",
-      "announcement_date": "11.27",
-      "status_day": "D-1",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610290022",
-      "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
-      "is_current": true
-    },
-    {
-      "title": "연극 〈문워킹홀리데이〉 배우 모집",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "극단 산타할머니",
-      "target": "일반인",
-      "reception_period": "10.29~11.08",
-      "evaluation_period": "10.29~11.08",
-      "announcement_date": "-",
-      "status_day": "D-3",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202610290016",
-      "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "title": "2027 영천예술창작스튜디오 19기 입주작가 모집",
+      "category": "미술•디자인•웹툰",
+      "host": "영천시",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "11.09~11.13",
+      "evaluation_period": "01.01~12.31",
+      "announcement_date": "12.10",
+      "status_day": "D-8",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610210033",
+      "first_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610290012",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-05 20:23:57 KST",
       "is_current": true
     },
     {
