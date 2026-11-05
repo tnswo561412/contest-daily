@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 2
+    "new_items_added_this_run": 0
   },
-  "generated_at": "2026-11-05 20:23:57 KST",
+  "generated_at": "2026-11-06 03:54:16 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
+    "open": 9,
     "upcoming": 1,
-    "other_current": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
-    {
-      "title": "2026 대구 대학(원) AI 드래프톤",
-      "category": "학문•과학•IT",
-      "host": "대구광역시",
-      "target": "대학생 , 대학원생",
-      "reception_period": "10.28~11.15",
-      "evaluation_period": "11.25",
-      "announcement_date": "11.25",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610290006",
-      "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
-      "is_current": true
-    },
     {
       "title": "어린이 미래 상상 그림 공모전",
       "category": "미술•디자인•웹툰",
@@ -50,11 +35,11 @@
       "reception_period": "10.15~11.16",
       "evaluation_period": "11.17~12.11",
       "announcement_date": "12.11",
-      "status_day": "D-11",
+      "status_day": "D-10",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611040033",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -65,11 +50,11 @@
       "reception_period": "10.28~11.17",
       "evaluation_period": "11.18~12.10",
       "announcement_date": "12.11",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610290028",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -80,11 +65,11 @@
       "reception_period": "10.28~11.18",
       "evaluation_period": "11.19~12.17",
       "announcement_date": "12.18",
-      "status_day": "D-13",
+      "status_day": "D-12",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610280057",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -95,11 +80,11 @@
       "reception_period": "10.29~11.18",
       "evaluation_period": "11.19~12.30",
       "announcement_date": "12.31",
-      "status_day": "D-13",
+      "status_day": "D-12",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610290024",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -110,11 +95,11 @@
       "reception_period": "10.28~11.20",
       "evaluation_period": "11.23~11.30",
       "announcement_date": "12.01",
-      "status_day": "D-15",
+      "status_day": "D-14",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202610290025",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -125,11 +110,11 @@
       "reception_period": "11.02~04.30",
       "evaluation_period": "05.01~08.09",
       "announcement_date": "08.10",
-      "status_day": "D-176",
+      "status_day": "D-175",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611040056",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -140,11 +125,11 @@
       "reception_period": "09.07~11.27",
       "evaluation_period": "12.01~12.20",
       "announcement_date": "12.25",
-      "status_day": "D-22",
+      "status_day": "D-21",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611040054",
       "first_seen_at": "2026-11-05 20:23:57 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -155,26 +140,26 @@
       "reception_period": "10.26~12.05",
       "evaluation_period": "10.26~12.05",
       "announcement_date": "-",
-      "status_day": "D-30",
+      "status_day": "D-29",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610290010",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
-      "title": "AI를 활용한 3분 숏츠 챌린지 대회",
-      "category": "사진•영상•영화제",
-      "host": "대전일자리경제진흥원",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "10.12~11.13",
-      "evaluation_period": "11.16~11.24",
+      "title": "2026 대구 대학(원) AI 드래프톤",
+      "category": "학문•과학•IT",
+      "host": "대구광역시",
+      "target": "대학생 , 대학원생",
+      "reception_period": "10.28~11.15",
+      "evaluation_period": "11.25",
       "announcement_date": "11.25",
-      "status_day": "D-8",
+      "status_day": "D-9",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610280056",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610290006",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -185,11 +170,11 @@
       "reception_period": "11.09~11.13",
       "evaluation_period": "01.01~12.31",
       "announcement_date": "12.10",
-      "status_day": "D-8",
+      "status_day": "D-7",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202610210033",
       "first_seen_at": "2026-11-05 20:23:57 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
@@ -200,11 +185,26 @@
       "reception_period": "10.28~11.10",
       "evaluation_period": "11.11~12.01",
       "announcement_date": "12.02",
-      "status_day": "D-5",
+      "status_day": "D-4",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610290012",
       "first_seen_at": "2026-11-05 12:18:49 KST",
-      "last_seen_at": "2026-11-05 20:23:57 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
+      "is_current": true
+    },
+    {
+      "title": "AI를 활용한 3분 숏츠 챌린지 대회",
+      "category": "사진•영상•영화제",
+      "host": "대전일자리경제진흥원",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "10.12~11.13",
+      "evaluation_period": "11.16~11.24",
+      "announcement_date": "11.25",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610280056",
+      "first_seen_at": "2026-11-05 12:18:49 KST",
+      "last_seen_at": "2026-11-06 03:54:16 KST",
       "is_current": true
     },
     {
