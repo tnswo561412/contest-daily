@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-11-06 15:21:25 KST",
+  "generated_at": "2026-11-06 23:30:32 KST",
   "count": 50,
   "counts_by_status": {
     "open": 10,
-    "upcoming": 1,
-    "other_current": 1,
+    "upcoming": 2,
+    "other_current": 0,
     "archived": 38
   },
   "items": [
@@ -39,22 +39,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611040030",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
-      "title": "제1회 청년정책 숏폼 공모전",
-      "category": "사진•영상•영화제",
-      "host": "순천시",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "10.28~11.18",
-      "evaluation_period": "10.28~11.18",
-      "announcement_date": "-",
-      "status_day": "D-12",
+      "title": "LG 어나더 아이디어 챌린지",
+      "category": "아이디어•건축•창업",
+      "host": "LG전자",
+      "target": "해당자 ▶",
+      "reception_period": "10.30~11.17",
+      "evaluation_period": "11.18~11.27",
+      "announcement_date": "12.01",
+      "status_day": "D-11",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610300025",
-      "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611060004",
+      "first_seen_at": "2026-11-06 23:30:32 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611050005",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611050026",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610300027",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
@@ -114,22 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611050042",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
-      "title": "2026년 인권존중사례 수기 공모전",
-      "category": "문학•문예",
-      "host": "청주도시공사",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "11.02~11.23",
-      "evaluation_period": "11.24~11.30",
-      "announcement_date": "12.01",
+      "title": "식약처 식중독 예방 공모전",
+      "category": "사진•영상•영화제",
+      "host": "식품의약품안전처",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "10.26~11.23",
+      "evaluation_period": "11.23~12.31",
+      "announcement_date": "12.31",
       "status_day": "D-17",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611020041",
-      "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611060005",
+      "first_seen_at": "2026-11-06 23:30:32 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611030024",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
@@ -159,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611050024",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611020032",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
@@ -189,22 +189,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610300011",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
-      "title": "2026 칠곡군청맛길 숏폼 공모전",
+      "title": "제74회 세계 한센병의 날 한센병 바로 알기 영상 공모",
       "category": "사진•영상•영화제",
-      "host": "칠곡군청맛길",
+      "host": "한국한센복지협회",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.01~11.06",
-      "evaluation_period": "11.09~11.11",
-      "announcement_date": "11.12",
-      "status_day": "D-0",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202610300020",
-      "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-06 15:21:25 KST",
+      "reception_period": "11.09~12.04",
+      "evaluation_period": "12.04~12.31",
+      "announcement_date": "01.25",
+      "status_day": "D-28",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611060002",
+      "first_seen_at": "2026-11-06 23:30:32 KST",
+      "last_seen_at": "2026-11-06 23:30:32 KST",
       "is_current": true
     },
     {
