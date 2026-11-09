@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 3
   },
-  "generated_at": "2026-11-09 05:41:18 KST",
+  "generated_at": "2026-11-09 09:38:05 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 12,
+    "open": 11,
     "upcoming": 0,
-    "other_current": 0,
+    "other_current": 1,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611050005",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
@@ -54,22 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611050026",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 굿에어스쿨 공모전",
-      "category": "아이디어•건축•창업",
-      "host": "한국교육환경보호원, 세계맑은공기기후연맹",
-      "target": "일반인 , 해당자 ▶",
-      "reception_period": "10.29~11.20",
-      "evaluation_period": "11.23~12.30",
-      "announcement_date": "12.31",
-      "status_day": "D-11",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610300027",
-      "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611050042",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611060005",
       "first_seen_at": "2026-11-06 23:30:32 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611030024",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611050024",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
+      "is_current": true
+    },
+    {
+      "title": "제1회 하나증권 청년 금융 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "하나증권",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "11.02~11.30",
+      "evaluation_period": "12.01~12.22",
+      "announcement_date": "12.23",
+      "status_day": "D-21",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611020014",
+      "first_seen_at": "2026-11-09 09:38:05 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
@@ -144,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611060002",
       "first_seen_at": "2026-11-06 23:30:32 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
@@ -159,22 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611020032",
       "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
-      "is_current": true
-    },
-    {
-      "title": "15만원 앰플 공짜로 써보는 '케이스키니' 사용챌린지 영상 공모전",
-      "category": "사진•영상•영화제",
-      "host": "KSKINNY",
-      "target": "대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "10.27~11.17",
-      "evaluation_period": "11.18~12.13",
-      "announcement_date": "12.14",
-      "status_day": "D-8",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611040030",
-      "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
@@ -189,22 +174,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611060004",
       "first_seen_at": "2026-11-06 23:30:32 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
-      "title": "국가무형유산 상설공연 창작 콘텐츠 개발을 위한 대국민 아이디어 발굴대회",
-      "category": "아이디어•건축•창업",
-      "host": "국가유산청",
+      "title": "2026 석수본페스타 사진공모전",
+      "category": "사진•영상•영화제",
+      "host": "안양시 석수본동 골목상권",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.09~11.18",
-      "evaluation_period": "11.19~12.30",
-      "announcement_date": "12.31",
+      "reception_period": "11.05~11.18",
+      "evaluation_period": "11.19~11.23",
+      "announcement_date": "11.24",
       "status_day": "D-9",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610300011",
-      "first_seen_at": "2026-11-06 15:21:25 KST",
-      "last_seen_at": "2026-11-09 05:41:18 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611040018",
+      "first_seen_at": "2026-11-09 09:38:05 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 경상북도 도민 대상 규제개선 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "경상북도",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "11.02~11.16",
+      "evaluation_period": "11.02~11.16",
+      "announcement_date": "-",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611020027",
+      "first_seen_at": "2026-11-09 09:38:05 KST",
+      "last_seen_at": "2026-11-09 09:38:05 KST",
       "is_current": true
     },
     {
