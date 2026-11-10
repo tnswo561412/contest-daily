@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 10
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-11-10 10:54:47 KST",
+  "generated_at": "2026-11-10 18:28:03 KST",
   "count": 50,
   "counts_by_status": {
     "open": 9,
@@ -28,18 +28,18 @@
   },
   "items": [
     {
-      "title": "2026 (사)한국화훼자조금협의회 30초 AI 영상 광고제",
-      "category": "사진•영상•영화제",
-      "host": "(사)한국화훼자조금협의회",
-      "target": "대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "11.09~11.30",
-      "evaluation_period": "11.09~11.30",
-      "announcement_date": "12.03",
-      "status_day": "D-20",
+      "title": "(가칭)과천지식정보타운 도서관 명칭 시민 공모",
+      "category": "네이밍•슬로건",
+      "host": "과천시",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "11.09~11.22",
+      "evaluation_period": "11.23~12.30",
+      "announcement_date": "12.31",
+      "status_day": "D-12",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611090007",
-      "first_seen_at": "2026-11-10 03:30:32 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611100043",
+      "first_seen_at": "2026-11-10 18:28:03 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611090053",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611030033",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611020044",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -99,7 +99,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611030032",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026년 장애인식개선 표어공모전 「다름의 가치를 잇다」",
+      "category": "네이밍•슬로건",
+      "host": "음성군장애인복지관",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
+      "reception_period": "11.09~12.11",
+      "evaluation_period": "11.09~12.11",
+      "announcement_date": "-",
+      "status_day": "D-31",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611100046",
+      "first_seen_at": "2026-11-10 18:28:03 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611030034",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611090047",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -144,22 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611030022",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
-      "is_current": true
-    },
-    {
-      "title": "미래 건설교통신기술인 장학사업 안내",
-      "category": "The 다양한 분야",
-      "host": "한국건설교통신기술협회",
-      "target": "대학생",
-      "reception_period": "11.05~11.18",
-      "evaluation_period": "11.19~11.25",
-      "announcement_date": "11.26",
-      "status_day": "D-8",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031810001&str_no=202611090020",
-      "first_seen_at": "2026-11-10 03:30:32 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -174,7 +174,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611090051",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611090052",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611020048",
       "first_seen_at": "2026-11-10 10:54:47 KST",
-      "last_seen_at": "2026-11-10 10:54:47 KST",
+      "last_seen_at": "2026-11-10 18:28:03 KST",
       "is_current": true
     },
     {
