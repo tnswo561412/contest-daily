@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 1
+    "new_items_added_this_run": 0
   },
-  "generated_at": "2026-11-14 22:59:44 KST",
+  "generated_at": "2026-11-15 04:03:04 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
+    "open": 8,
     "upcoming": 0,
-    "other_current": 3,
+    "other_current": 4,
     "archived": 38
   },
   "items": [
@@ -35,11 +35,11 @@
       "reception_period": "10.01~11.27",
       "evaluation_period": "11.30~12.30",
       "announcement_date": "12.31",
-      "status_day": "D-13",
+      "status_day": "D-12",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611060017",
       "first_seen_at": "2026-11-13 12:16:46 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -50,11 +50,11 @@
       "reception_period": "11.02~11.29",
       "evaluation_period": "11.21~11.30",
       "announcement_date": "12.07",
-      "status_day": "D-15",
+      "status_day": "D-14",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611120042",
       "first_seen_at": "2026-11-13 12:16:46 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -65,11 +65,11 @@
       "reception_period": "11.09~11.29",
       "evaluation_period": "11.30~12.03",
       "announcement_date": "12.04",
-      "status_day": "D-15",
+      "status_day": "D-14",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611130010",
       "first_seen_at": "2026-11-13 20:25:32 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -80,11 +80,11 @@
       "reception_period": "11.13~12.04",
       "evaluation_period": "12.07~12.10",
       "announcement_date": "12.11",
-      "status_day": "D-20",
+      "status_day": "D-19",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611120039",
       "first_seen_at": "2026-11-13 12:16:46 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -95,11 +95,11 @@
       "reception_period": "11.05~12.04",
       "evaluation_period": "12.07~01.28",
       "announcement_date": "01.29",
-      "status_day": "D-20",
+      "status_day": "D-19",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611060015",
       "first_seen_at": "2026-11-13 12:16:46 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -110,11 +110,11 @@
       "reception_period": "11.09~12.06",
       "evaluation_period": "12.07~12.31",
       "announcement_date": "12.31",
-      "status_day": "D-22",
+      "status_day": "D-21",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611130008",
       "first_seen_at": "2026-11-13 20:25:32 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -125,11 +125,11 @@
       "reception_period": "11.13~12.07",
       "evaluation_period": "12.07~01.07",
       "announcement_date": "01.07",
-      "status_day": "D-23",
+      "status_day": "D-22",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611130002",
       "first_seen_at": "2026-11-13 20:25:32 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -140,26 +140,11 @@
       "reception_period": "11.13~12.28",
       "evaluation_period": "12.31",
       "announcement_date": "12.31",
-      "status_day": "D-44",
+      "status_day": "D-43",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611130011",
       "first_seen_at": "2026-11-13 20:25:32 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 구미 미래교육 가족 콘텐츠 공모전 - '구미 미래 잇다' 가족숏폼공모전",
-      "category": "사진•영상•영화제",
-      "host": "경상북도 구미시 학부모회장협의회",
-      "target": "초등학생 , 중학생 , 고등학생 , 해당자 ▶",
-      "reception_period": "10.24~11.22",
-      "evaluation_period": "11.23~11.30",
-      "announcement_date": "12.04",
-      "status_day": "D-8",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611130028",
-      "first_seen_at": "2026-11-13 20:25:32 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -170,11 +155,11 @@
       "reception_period": "11.14~11.17",
       "evaluation_period": "11.27~11.28",
       "announcement_date": "11.24",
-      "status_day": "D-3",
+      "status_day": "D-2",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611140023",
       "first_seen_at": "2026-11-14 22:59:44 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -185,11 +170,11 @@
       "reception_period": "11.05~11.19",
       "evaluation_period": "11.20~12.04",
       "announcement_date": "12.07",
-      "status_day": "D-5",
+      "status_day": "D-4",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611060021",
       "first_seen_at": "2026-11-13 12:16:46 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
@@ -200,11 +185,26 @@
       "reception_period": "11.05~11.20",
       "evaluation_period": "11.05~11.20",
       "announcement_date": "-",
-      "status_day": "D-6",
+      "status_day": "D-5",
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611060014",
       "first_seen_at": "2026-11-13 12:16:46 KST",
-      "last_seen_at": "2026-11-14 22:59:44 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 구미 미래교육 가족 콘텐츠 공모전 - '구미 미래 잇다' 가족숏폼공모전",
+      "category": "사진•영상•영화제",
+      "host": "경상북도 구미시 학부모회장협의회",
+      "target": "초등학생 , 중학생 , 고등학생 , 해당자 ▶",
+      "reception_period": "10.24~11.22",
+      "evaluation_period": "11.23~11.30",
+      "announcement_date": "12.04",
+      "status_day": "D-7",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611130028",
+      "first_seen_at": "2026-11-13 20:25:32 KST",
+      "last_seen_at": "2026-11-15 04:03:04 KST",
       "is_current": true
     },
     {
