@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 12
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-11-17 12:30:58 KST",
+  "generated_at": "2026-11-17 21:54:03 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 9,
+    "open": 10,
     "upcoming": 0,
-    "other_current": 3,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611100020",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611090059",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -69,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611100021",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
+      "is_current": true
+    },
+    {
+      "title": "유니스터디 제1회 대학생활 신춘문예 공모전",
+      "category": "네이밍•슬로건",
+      "host": "메가스터디교육",
+      "target": "대학생 , 대학원생",
+      "reception_period": "11.17~12.06",
+      "evaluation_period": "12.07~12.16",
+      "announcement_date": "12.17",
+      "status_day": "D-19",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611170025",
+      "first_seen_at": "2026-11-17 21:54:03 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611090063",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100028",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100027",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611100035",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100031",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100030",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611090067",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611100022",
       "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
-      "is_current": true
-    },
-    {
-      "title": "전남광주통합특별시의회 정책아이디어 공모",
-      "category": "아이디어•건축•창업",
-      "host": "전남광주통합특별시의회",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.09~11.23",
-      "evaluation_period": "11.24~12.30",
-      "announcement_date": "12.31",
-      "status_day": "D-6",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611100016",
-      "first_seen_at": "2026-11-17 12:30:58 KST",
-      "last_seen_at": "2026-11-17 12:30:58 KST",
+      "last_seen_at": "2026-11-17 21:54:03 KST",
       "is_current": true
     },
     {
