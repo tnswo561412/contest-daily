@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 5
+    "new_items_added_this_run": 0
   },
-  "generated_at": "2026-11-18 21:06:18 KST",
+  "generated_at": "2026-11-19 05:48:56 KST",
   "count": 50,
   "counts_by_status": {
     "open": 11,
@@ -28,21 +28,6 @@
   },
   "items": [
     {
-      "title": "2027 지역 창업 솔버톤 대회",
-      "category": "아이디어•건축•창업",
-      "host": "서울대학교 대학연대 지역인재양성 사업단",
-      "target": "대학생 , 일반인",
-      "reception_period": "11.16~11.28",
-      "evaluation_period": "11.30~12.10",
-      "announcement_date": "12.11",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611170042",
-      "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
-      "is_current": true
-    },
-    {
       "title": "「2026 강원 차세대 과학전문가상」 공모전",
       "category": "학문•과학•IT",
       "host": "(재)강원연구개발지원단",
@@ -50,11 +35,11 @@
       "reception_period": "11.17~11.30",
       "evaluation_period": "12.01~12.04",
       "announcement_date": "12.08",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611170043",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -65,11 +50,11 @@
       "reception_period": "11.10~11.30",
       "evaluation_period": "12.01~12.07",
       "announcement_date": "12.08",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611110014",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -80,11 +65,11 @@
       "reception_period": "11.09~11.30",
       "evaluation_period": "12.01~07.29",
       "announcement_date": "07.30",
-      "status_day": "D-12",
+      "status_day": "D-11",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611110017",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -95,11 +80,11 @@
       "reception_period": "11.06~12.03",
       "evaluation_period": "12.06",
       "announcement_date": "12.06",
-      "status_day": "D-15",
+      "status_day": "D-14",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611110012",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -110,11 +95,11 @@
       "reception_period": "11.18~12.17",
       "evaluation_period": "12.18~12.23",
       "announcement_date": "12.24",
-      "status_day": "D-29",
+      "status_day": "D-28",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611180019",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -125,11 +110,11 @@
       "reception_period": "04.30~12.20",
       "evaluation_period": "12.21~03.31",
       "announcement_date": "03.31",
-      "status_day": "D-32",
+      "status_day": "D-31",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611180001",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -140,11 +125,11 @@
       "reception_period": "11.07~12.31",
       "evaluation_period": "11.07~12.31",
       "announcement_date": "-",
-      "status_day": "D-43",
+      "status_day": "D-42",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100041",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -155,11 +140,11 @@
       "reception_period": "11.07~12.31",
       "evaluation_period": "11.07~12.31",
       "announcement_date": "-",
-      "status_day": "D-43",
+      "status_day": "D-42",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100040",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -170,11 +155,11 @@
       "reception_period": "11.16~01.10",
       "evaluation_period": "02.14~02.26",
       "announcement_date": "02.27",
-      "status_day": "D-53",
+      "status_day": "D-52",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611170034",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -185,11 +170,26 @@
       "reception_period": "11.09~11.27",
       "evaluation_period": "11.30~12.08",
       "announcement_date": "12.09",
-      "status_day": "D-9",
+      "status_day": "D-8",
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611110009",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "is_current": true
+    },
+    {
+      "title": "2027 지역 창업 솔버톤 대회",
+      "category": "아이디어•건축•창업",
+      "host": "서울대학교 대학연대 지역인재양성 사업단",
+      "target": "대학생 , 일반인",
+      "reception_period": "11.16~11.28",
+      "evaluation_period": "11.30~12.10",
+      "announcement_date": "12.11",
+      "status_day": "D-9",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611170042",
+      "first_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
@@ -200,11 +200,11 @@
       "reception_period": "11.23~12.20",
       "evaluation_period": "12.21~01.23",
       "announcement_date": "01.23",
-      "status_day": "D-32",
+      "status_day": "D-31",
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611110007",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-19 05:48:56 KST",
       "is_current": true
     },
     {
