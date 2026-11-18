@@ -16,9 +16,9 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 11
+    "new_items_added_this_run": 5
   },
-  "generated_at": "2026-11-18 12:25:35 KST",
+  "generated_at": "2026-11-18 21:06:18 KST",
   "count": 50,
   "counts_by_status": {
     "open": 11,
@@ -27,6 +27,36 @@
     "archived": 38
   },
   "items": [
+    {
+      "title": "2027 지역 창업 솔버톤 대회",
+      "category": "아이디어•건축•창업",
+      "host": "서울대학교 대학연대 지역인재양성 사업단",
+      "target": "대학생 , 일반인",
+      "reception_period": "11.16~11.28",
+      "evaluation_period": "11.30~12.10",
+      "announcement_date": "12.11",
+      "status_day": "D-10",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611170042",
+      "first_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "is_current": true
+    },
+    {
+      "title": "「2026 강원 차세대 과학전문가상」 공모전",
+      "category": "학문•과학•IT",
+      "host": "(재)강원연구개발지원단",
+      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 해당자 ▶",
+      "reception_period": "11.17~11.30",
+      "evaluation_period": "12.01~12.04",
+      "announcement_date": "12.08",
+      "status_day": "D-12",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611170043",
+      "first_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "is_current": true
+    },
     {
       "title": "국가유산 겨울 계절배너 '사진·글귀' 공모전",
       "category": "문학•문예",
@@ -39,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611110014",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
@@ -54,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611110017",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
@@ -69,52 +99,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611110012",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
-      "title": "유니스터디 제1회 대학생활 신춘문예 공모전",
+      "title": "제60회 단종문화제 슬로건 공모전",
       "category": "네이밍•슬로건",
-      "host": "메가스터디교육",
-      "target": "대학생 , 대학원생",
-      "reception_period": "11.17~12.06",
-      "evaluation_period": "12.07~12.16",
-      "announcement_date": "12.17",
-      "status_day": "D-18",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611170025",
-      "first_seen_at": "2026-11-17 21:54:03 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 KOZ엔터테인먼트 온라인 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "KOZ엔터테인먼트",
-      "target": "해당자 ▶",
-      "reception_period": "11.07~12.31",
-      "evaluation_period": "11.07~12.31",
-      "announcement_date": "-",
-      "status_day": "D-43",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100038",
-      "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 뮤직팜 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "뮤직팜엔터테인먼트",
+      "host": "영월문화관광재단",
       "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.07~12.31",
-      "evaluation_period": "11.07~12.31",
-      "announcement_date": "-",
-      "status_day": "D-43",
+      "reception_period": "11.18~12.17",
+      "evaluation_period": "12.18~12.23",
+      "announcement_date": "12.24",
+      "status_day": "D-29",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100037",
-      "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611180019",
+      "first_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
+      "is_current": true
+    },
+    {
+      "title": "제5회 위즈덤하우스 어린이청소년 판타지문학상 공모",
+      "category": "문학•문예",
+      "host": "위즈덤하우스",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "04.30~12.20",
+      "evaluation_period": "12.21~03.31",
+      "announcement_date": "03.31",
+      "status_day": "D-32",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611180001",
+      "first_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
@@ -129,22 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100041",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 슈퍼벨컴퍼니 상시 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "슈퍼벨컴퍼니",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.07~12.31",
-      "evaluation_period": "11.07~12.31",
-      "announcement_date": "-",
-      "status_day": "D-43",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100039",
-      "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
@@ -159,22 +159,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100040",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
-      "title": "2026 이담엔터테인먼트 상시 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "이담엔터테인먼트",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.07~12.31",
-      "evaluation_period": "11.07~12.31",
-      "announcement_date": "-",
-      "status_day": "D-43",
+      "title": "2027 제 2회 Superb AI X BDAI Vision AI 해커톤",
+      "category": "학문•과학•IT",
+      "host": "Superb AI × BDAI",
+      "target": "대학생 , 대학원생",
+      "reception_period": "11.16~01.10",
+      "evaluation_period": "02.14~02.26",
+      "announcement_date": "02.27",
+      "status_day": "D-53",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100032",
-      "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611170034",
+      "first_seen_at": "2026-11-18 21:06:18 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
@@ -189,7 +189,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611110009",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611110007",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-18 12:25:35 KST",
+      "last_seen_at": "2026-11-18 21:06:18 KST",
       "is_current": true
     },
     {
