@@ -16,13 +16,13 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 2
   },
-  "generated_at": "2026-11-19 05:48:56 KST",
+  "generated_at": "2026-11-19 11:23:02 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 11,
-    "upcoming": 1,
+    "open": 12,
+    "upcoming": 0,
     "other_current": 0,
     "archived": 38
   },
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611170043",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611110014",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
+      "is_current": true
+    },
+    {
+      "title": "밴드 노아코스트(Noa Coast) 신규 남성 보컬 오디션",
+      "category": "음악•콩쿠르•댄스",
+      "host": "노아코스트(Noa Coast)",
+      "target": "해당자 ▶",
+      "reception_period": "11.12~11.30",
+      "evaluation_period": "11.12~11.30",
+      "announcement_date": "-",
+      "status_day": "D-11",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611120008",
+      "first_seen_at": "2026-11-19 11:23:02 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -69,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611110017",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -84,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611110012",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611180019",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -114,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611180001",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -129,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100041",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611100040",
       "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -159,22 +174,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611170034",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
-      "title": "건학 50주년 기념 동명대학교 캐릭터 공모전",
+      "title": "2027 상반기 참여자 공모 - 달달 갤러리",
       "category": "미술•디자인•웹툰",
-      "host": "동명대학교",
-      "target": "고등학생 , 대학생 , 일반인",
-      "reception_period": "11.09~11.27",
-      "evaluation_period": "11.30~12.08",
-      "announcement_date": "12.09",
+      "host": "달달 갤러리",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "11.11~11.27",
+      "evaluation_period": "11.11~11.27",
+      "announcement_date": "-",
       "status_day": "D-8",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611110009",
-      "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611120016",
+      "first_seen_at": "2026-11-19 11:23:02 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611170042",
       "first_seen_at": "2026-11-18 21:06:18 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
-      "is_current": true
-    },
-    {
-      "title": "세종사이버대학교 전국민 AI 공모전 - AI 불씨",
-      "category": "음악•콩쿠르•댄스",
-      "host": "세종사이버대학교",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.23~12.20",
-      "evaluation_period": "12.21~01.23",
-      "announcement_date": "01.23",
-      "status_day": "D-31",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611110007",
-      "first_seen_at": "2026-11-18 12:25:35 KST",
-      "last_seen_at": "2026-11-19 05:48:56 KST",
+      "last_seen_at": "2026-11-19 11:23:02 KST",
       "is_current": true
     },
     {
