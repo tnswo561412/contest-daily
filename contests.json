@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 5
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-11-25 12:59:52 KST",
+  "generated_at": "2026-11-25 23:09:36 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
-    "upcoming": 0,
-    "other_current": 5,
+    "upcoming": 1,
+    "other_current": 4,
     "archived": 38
   },
   "items": [
@@ -39,37 +39,37 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611200017",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
-      "title": "2026 부산 신인 음악 콩쿠르",
-      "category": "음악•콩쿠르•댄스",
-      "host": "사)한국방송문화예술진흥원, 시사음악신문사",
-      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 일반인",
-      "reception_period": "11.16~12.11",
-      "evaluation_period": "12.12",
-      "announcement_date": "12.12",
-      "status_day": "D-16",
+      "title": "[대구광역시 남구] AI 행정혁신 경진대회",
+      "category": "아이디어•건축•창업",
+      "host": "대구광역시 남구청, 계명대학교 창업지원단",
+      "target": "대학생 , 대학원생 , 일반인",
+      "reception_period": "11.24~12.09",
+      "evaluation_period": "12.10",
+      "announcement_date": "12.14",
+      "status_day": "D-14",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611160054",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611240040",
+      "first_seen_at": "2026-11-25 23:09:36 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
-      "title": "2026년 음성군 블로그 공모전 「음·성」",
+      "title": "망원동월드컵시장 「넘어가 전통시장 GreenGreen」 대학생 쇼츠 영상 공모전 대학생 대외활동 공모전",
       "category": "사진•영상•영화제",
-      "host": "음성군",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.16~12.11",
-      "evaluation_period": "12.14~12.17",
-      "announcement_date": "12.18",
-      "status_day": "D-16",
+      "host": "망원동월드컵시장 문화관광형시장 육성사업단",
+      "target": "대학생",
+      "reception_period": "11.25~12.10",
+      "evaluation_period": "11.25~12.16",
+      "announcement_date": "11.20",
+      "status_day": "D-15",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611170015",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611250015",
+      "first_seen_at": "2026-11-25 23:09:36 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
@@ -84,7 +84,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611190006",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
+      "is_current": true
+    },
+    {
+      "title": "AI x Seoul 혁신 콘텐츠 공모전",
+      "category": "사진•영상•영화제",
+      "host": "성균관대학교 문화예술미디어융합원, 성균관대 앵커사업단 서울앵커센터, AI중심대학사업단",
+      "target": "대학생 , 대학원생",
+      "reception_period": "11.09~12.13",
+      "evaluation_period": "12.13~12.23",
+      "announcement_date": "12.16",
+      "status_day": "D-18",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611250017",
+      "first_seen_at": "2026-11-25 23:09:36 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
@@ -99,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611240019",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
@@ -114,22 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611240012",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
-      "title": "2026 한국가창지도자협회 전국 성악 콩쿨",
-      "category": "음악•콩쿠르•댄스",
-      "host": "한국가창지도자협회",
-      "target": "유치원 , 초등학생 , 중학생 , 고등학생 , 일반인",
-      "reception_period": "11.05~12.03",
-      "evaluation_period": "12.05",
-      "announcement_date": "-",
-      "status_day": "D-8",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611160051",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "title": "제14회 국제 e-모빌리티 엑스포 제3회 청소년 국제 컨퍼런스(학술 대회)",
+      "category": "학문•과학•IT",
+      "host": "국제e-모빌리티엑스포조직위원회, 미디어제주",
+      "target": "중학생 , 고등학생",
+      "reception_period": "01.11~02.08",
+      "evaluation_period": "01.11~02.08",
+      "announcement_date": "02.10",
+      "status_day": "D-75",
+      "status_text": "접수예정",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611250007",
+      "first_seen_at": "2026-11-25 23:09:36 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
@@ -144,7 +159,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611170016",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
@@ -159,7 +174,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611190022",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
@@ -174,7 +189,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611170019",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
@@ -189,22 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611190023",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
-      "is_current": true
-    },
-    {
-      "title": "효사랑 가족하모니 노래자랑",
-      "category": "음악•콩쿠르•댄스",
-      "host": "화성신문",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인 , 해당자 ▶",
-      "reception_period": "11.12~12.02",
-      "evaluation_period": "12.08~12.26",
-      "announcement_date": "12.26",
-      "status_day": "D-7",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611170010",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 23:09:36 KST",
       "is_current": true
     },
     {
