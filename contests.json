@@ -16,17 +16,32 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 5
   },
-  "generated_at": "2026-11-25 05:46:28 KST",
+  "generated_at": "2026-11-25 12:59:52 KST",
   "count": 50,
   "counts_by_status": {
     "open": 7,
-    "upcoming": 1,
-    "other_current": 4,
+    "upcoming": 0,
+    "other_current": 5,
     "archived": 38
   },
   "items": [
+    {
+      "title": "AI활용 전력설비 정비 및 안전지원 서비스 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "한전KPS",
+      "target": "일반인",
+      "reception_period": "11.23~12.06",
+      "evaluation_period": "12.07~12.30",
+      "announcement_date": "12.31",
+      "status_day": "D-11",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611200017",
+      "first_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "is_current": true
+    },
     {
       "title": "2026 부산 신인 음악 콩쿠르",
       "category": "음악•콩쿠르•댄스",
@@ -39,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611160054",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
@@ -54,7 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611170015",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "is_current": true
+    },
+    {
+      "title": "《 PIECE OF STORY 》공모전",
+      "category": "문학•문예",
+      "host": "스튜디오 여백",
+      "target": "해당자 ▶",
+      "reception_period": "11.13~12.11",
+      "evaluation_period": "11.13~12.11",
+      "announcement_date": "-",
+      "status_day": "D-16",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611190006",
+      "first_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
@@ -69,52 +99,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611240019",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
-      "title": "SOURCE MUSIC DAILY AUDITION",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "쏘스뮤직",
-      "target": "해당자 ▶",
-      "reception_period": "11.13~12.31",
-      "evaluation_period": "11.13~12.31",
+      "title": "STUN-X : 우주 아이돌 선발 비공개 오디션",
+      "category": "음악•콩쿠르•댄스",
+      "host": "STUNX",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "11.16~12.31",
+      "evaluation_period": "11.16~12.31",
       "announcement_date": "-",
       "status_day": "D-36",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611140014",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
-      "is_current": true
-    },
-    {
-      "title": "팬엔터테인먼트 오디션",
-      "category": "요리•뷰티•배우•오디션",
-      "host": "(주)팬엔터테인먼트",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.13~12.31",
-      "evaluation_period": "11.13~12.31",
-      "announcement_date": "-",
-      "status_day": "D-36",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031610001&str_no=202611140013",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
-      "is_current": true
-    },
-    {
-      "title": "제1회 서울국제AI광고영상제 SIADAFF",
-      "category": "사진•영상•영화제",
-      "host": "주식회사 케이미디어진흥원",
-      "target": "중학생 , 고등학생 , 대학생 , 일반인",
-      "reception_period": "10.10~01.07",
-      "evaluation_period": "10.10~01.07",
-      "announcement_date": "01.08",
-      "status_day": "D-43",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611230037",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611240012",
+      "first_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
@@ -129,22 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611160051",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
-      "is_current": true
-    },
-    {
-      "title": "2027 협성장학생 선발",
-      "category": "학문•과학•IT",
-      "host": "(재)협성문화재단",
-      "target": "대학생",
-      "reception_period": "12.14~01.04",
-      "evaluation_period": "01.04~01.22",
-      "announcement_date": "01.25",
-      "status_day": "D-40",
-      "status_text": "접수예정",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611230032",
-      "first_seen_at": "2026-11-23 21:13:40 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611170016",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 작은 손, 큰 쓸모 정크아트 경진대회",
+      "category": "미술•디자인•웹툰",
+      "host": "고양시 탄소중립지원센터",
+      "target": "초등학생 , 해당자 ▶",
+      "reception_period": "11.16~11.27",
+      "evaluation_period": "12.05",
+      "announcement_date": "-",
+      "status_day": "D-2",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611190022",
+      "first_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
@@ -174,22 +174,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611170019",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
-      "title": "2026 프리모 전국음악콩쿠르",
-      "category": "음악•콩쿠르•댄스",
-      "host": "프리모 음악예술기획",
-      "target": "초등학생 , 중학생 , 고등학생 , 대학생 , 일반인",
-      "reception_period": "11.16~11.29",
-      "evaluation_period": "12.05",
-      "announcement_date": "12.05",
+      "title": "2026 고객 혁신 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "은평구시설관리공단",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "11.18~11.29",
+      "evaluation_period": "11.30~12.17",
+      "announcement_date": "12.18",
       "status_day": "D-4",
       "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611160048",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611190023",
+      "first_seen_at": "2026-11-25 12:59:52 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611170010",
       "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-25 05:46:28 KST",
+      "last_seen_at": "2026-11-25 12:59:52 KST",
       "is_current": true
     },
     {
