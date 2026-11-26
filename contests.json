@@ -16,14 +16,14 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 0
+    "new_items_added_this_run": 4
   },
-  "generated_at": "2026-11-26 08:13:12 KST",
+  "generated_at": "2026-11-26 14:19:51 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 7,
+    "open": 8,
     "upcoming": 1,
-    "other_current": 4,
+    "other_current": 3,
     "archived": 38
   },
   "items": [
@@ -39,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611200017",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
@@ -54,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611240040",
       "first_seen_at": "2026-11-25 23:09:36 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
@@ -69,22 +69,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611250015",
       "first_seen_at": "2026-11-25 23:09:36 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
-      "title": "《 PIECE OF STORY 》공모전",
-      "category": "문학•문예",
-      "host": "스튜디오 여백",
-      "target": "해당자 ▶",
-      "reception_period": "11.13~12.11",
-      "evaluation_period": "11.13~12.11",
-      "announcement_date": "-",
-      "status_day": "D-15",
+      "title": "홍인삼과 함께하는 인삼 숏폼 공모전",
+      "category": "사진•영상•영화제",
+      "host": "사단법인 한국인삼협회",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "11.18~12.10",
+      "evaluation_period": "12.11~12.14",
+      "announcement_date": "12.15",
+      "status_day": "D-14",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611190006",
-      "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611190007",
+      "first_seen_at": "2026-11-26 14:19:51 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
@@ -99,22 +99,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611250017",
       "first_seen_at": "2026-11-25 23:09:36 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
-      "title": "1004섬 분재정원 새 이름 공모",
-      "category": "네이밍•슬로건",
-      "host": "신안군",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.24~12.23",
-      "evaluation_period": "12.24~02.25",
-      "announcement_date": "02.26",
-      "status_day": "D-27",
+      "title": "작가 공모: CICA 2027 상반기 현대 미술 작가 개인전 시리즈",
+      "category": "미술•디자인•웹툰",
+      "host": "CICA Museum",
+      "target": "대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "11.25~12.27",
+      "evaluation_period": "12.28~12.31",
+      "announcement_date": "01.05",
+      "status_day": "D-31",
       "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611240019",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611250016",
+      "first_seen_at": "2026-11-26 14:19:51 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
@@ -129,7 +129,22 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030910001&str_no=202611240012",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
+      "is_current": true
+    },
+    {
+      "title": "2027 부산 다대포 마라톤 대회",
+      "category": "스포츠",
+      "host": "부산다대포마라톤조직위원회",
+      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
+      "reception_period": "11.17~12.05",
+      "evaluation_period": "03.14",
+      "announcement_date": "-",
+      "status_day": "D-9",
+      "status_text": "접수중",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202611190012",
+      "first_seen_at": "2026-11-26 14:19:51 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
@@ -144,22 +159,7 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611250007",
       "first_seen_at": "2026-11-25 23:09:36 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026 K리그 팬 사진 공모전",
-      "category": "사진•영상•영화제",
-      "host": "한국프로축구연맹",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.16~11.26",
-      "evaluation_period": "11.27",
-      "announcement_date": "11.30",
-      "status_day": "D-0",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611170016",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
@@ -174,22 +174,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611190022",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
-      "is_current": true
-    },
-    {
-      "title": "2026년 태백시 숏폼 영상 공모전 「태백의 매력.zip」",
-      "category": "사진•영상•영화제",
-      "host": "태백시",
-      "target": "누구나 , 유치원 , 초등학생 , 중학생 , 고등학생 , 대학생 , 대학원생 , 일반인 , 외국인",
-      "reception_period": "11.02~11.27",
-      "evaluation_period": "11.30~12.30",
-      "announcement_date": "12.31",
-      "status_day": "D-1",
-      "status_text": "마감임박",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611170019",
-      "first_seen_at": "2026-11-24 19:17:07 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
@@ -204,7 +189,22 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611190023",
       "first_seen_at": "2026-11-25 12:59:52 KST",
-      "last_seen_at": "2026-11-26 08:13:12 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 제5회 충남 전국대학생 영화제",
+      "category": "사진•영상•영화제",
+      "host": "사단법인 충남영화인협회 충남지회",
+      "target": "대학생 , 대학원생",
+      "reception_period": "11.02~11.30",
+      "evaluation_period": "11.02~11.30",
+      "announcement_date": "-",
+      "status_day": "D-4",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611190004",
+      "first_seen_at": "2026-11-26 14:19:51 KST",
+      "last_seen_at": "2026-11-26 14:19:51 KST",
       "is_current": true
     },
     {
