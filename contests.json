@@ -16,32 +16,17 @@
     "pages_collected": 1,
     "duplicate_page_detected": false,
     "site_total_pages_detected": 1,
-    "new_items_added_this_run": 4
+    "new_items_added_this_run": 1
   },
-  "generated_at": "2026-11-27 00:37:44 KST",
+  "generated_at": "2026-11-27 09:24:51 KST",
   "count": 50,
   "counts_by_status": {
-    "open": 10,
+    "open": 9,
     "upcoming": 1,
-    "other_current": 1,
+    "other_current": 2,
     "archived": 38
   },
   "items": [
-    {
-      "title": "지역사회 문제해결 아이디어 경진대회",
-      "category": "아이디어•건축•창업",
-      "host": "조선대학교 창업중심대학사업단",
-      "target": "해당자 ▶",
-      "reception_period": "11.26~12.07",
-      "evaluation_period": "12.07~12.09",
-      "announcement_date": "12.22",
-      "status_day": "D-10",
-      "status_text": "접수중",
-      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611260034",
-      "first_seen_at": "2026-11-27 00:37:44 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
-      "is_current": true
-    },
     {
       "title": "[대구광역시 남구] AI 행정혁신 경진대회",
       "category": "아이디어•건축•창업",
@@ -54,7 +39,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611240040",
       "first_seen_at": "2026-11-25 23:09:36 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -69,7 +54,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611250015",
       "first_seen_at": "2026-11-25 23:09:36 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -84,7 +69,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611190007",
       "first_seen_at": "2026-11-26 14:19:51 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -99,7 +84,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030110001&str_no=202611260001",
       "first_seen_at": "2026-11-27 00:37:44 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -114,7 +99,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611250017",
       "first_seen_at": "2026-11-25 23:09:36 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -129,7 +114,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611250027",
       "first_seen_at": "2026-11-27 00:37:44 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -144,7 +129,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030610001&str_no=202611250016",
       "first_seen_at": "2026-11-26 14:19:51 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -159,7 +144,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030810001&str_no=202611190012",
       "first_seen_at": "2026-11-26 14:19:51 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -174,7 +159,7 @@
       "status_text": "접수중",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030210001&str_no=202611250036",
       "first_seen_at": "2026-11-27 00:37:44 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -189,7 +174,22 @@
       "status_text": "접수예정",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611250007",
       "first_seen_at": "2026-11-25 23:09:36 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
+      "is_current": true
+    },
+    {
+      "title": "2026 고객 혁신 아이디어 공모전",
+      "category": "아이디어•건축•창업",
+      "host": "은평구시설관리공단",
+      "target": "일반인 , 해당자 ▶",
+      "reception_period": "11.18~11.29",
+      "evaluation_period": "11.30~12.17",
+      "announcement_date": "12.18",
+      "status_day": "D-2",
+      "status_text": "마감임박",
+      "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611190023",
+      "first_seen_at": "2026-11-27 09:24:51 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
@@ -204,7 +204,7 @@
       "status_text": "마감임박",
       "detail_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202611190004",
       "first_seen_at": "2026-11-26 14:19:51 KST",
-      "last_seen_at": "2026-11-27 00:37:44 KST",
+      "last_seen_at": "2026-11-27 09:24:51 KST",
       "is_current": true
     },
     {
